@@ -1,0 +1,15 @@
+Instruccions per a la instal·lació:
+Copiar l'arxiu "localization_full.csv" i enganxar-lo a la carpeta del joc
+Us demanarà si voleu substituir un arxiu. Substituïu-lo.
+
+Sobre el joc:
+La font de lletra del joc mostra els punts volats com punts normals.
+
+Vaig trigar a descobrir la tecla per pausar per tant us la dic ara
+(és l'enter).
+
+I com sempre si el català no és la llengua per defecte seleccioneu-la
+al menú d'opcions.
+
+Traducció feta per: 
+-Joel Garcia Cascalló
