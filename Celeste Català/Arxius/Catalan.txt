@@ -1,0 +1,5200 @@
+﻿# Language
+	LANGUAGE=catalan,Català
+	ICON=Icons/catalan.png
+	ORDER=5
+	FONT=Renogare,64
+	BEGIN=true
+
+# Auto-Saving
+	AUTOSAVING_TITLE_NS=
+		Aquest videojoc incorpora una funció de desat automàtic
+	AUTOSAVING_DESC_NS=
+		No apaguis la consola
+		quan aparegui aquesta icona
+	AUTOSAVING_TITLE_PS4=
+		Aquest videojoc incorpora una funció de desat automàtic
+	AUTOSAVING_DESC_PS4=
+		No apaguis la consola
+		quan aparegui aquesta icona
+	AUTOSAVING_TITLE_XB1=
+		Aquest videojoc incorpora una funció de desat automàtic
+	AUTOSAVING_DESC_XB1=
+		No apaguis la consola
+		quan aparegui aquesta icona
+	AUTOSAVING_TITLE_PC=
+		Aquest videojoc incorpora una funció de desat automàtic
+	AUTOSAVING_DESC_PC=
+		No apaguis l'ordinador
+		quan aparegui aquesta icona
+
+# Main Menu
+	MENU_DEBUG=		~DEPURAR~
+	MENU_BEGIN=		ESCALAR
+	MENU_PICO8=		PICO-8
+	MENU_OPTIONS=	Opcions
+	MENU_CREDITS=	Crèdits
+	MENU_EXIT=		Sortir
+
+# Options
+	OPTIONS_TITLE=			OPCIONS
+	OPTIONS_CONTROLS=		CONTROLS
+	OPTIONS_RUMBLE_PC=		Vibració
+	OPTIONS_RUMBLE_PS4=		Vibració
+	OPTIONS_RUMBLE_XB1=		Vibració
+	OPTIONS_RUMBLE_NS=		Vibració
+	OPTIONS_RUMBLE_ON=		100%
+	OPTIONS_RUMBLE_HALF=	50%
+	OPTIONS_RUMBLE_OFF=		Desactivat
+	OPTIONS_KEYCONFIG=		Config. Teclat
+	OPTIONS_BTNCONFIG=		Config. del Comandament
+
+	OPTIONS_VIDEO=			VÍDEO
+	OPTIONS_FULLSCREEN=		Pantalla sencera
+	OPTIONS_WINDOW=			Escala de la finestra
+	OPTIONS_VSYNC=			Sinc. vertical
+	OPTIONS_VIEWPORT_NS=	Adequar la mida de la pantalla
+	OPTIONS_VIEWPORT_PS4=	Adequar la mida de la pantalla
+	OPTIONS_VIEWPORT_XB1=	Adequar la mida de la pantalla
+	OPTIONS_VIEWPORT_PC=	Adequar la mida de la pantalla
+	OPTIONS_DISABLE_FLASH=	Mode fotosensible
+	OPTIONS_DISABLE_SHAKE=	Efectes de vibració de la pantalla
+
+	OPTIONS_AUDIO=			ÀUDIO
+	OPTIONS_MUSIC=			Música
+	OPTIONS_SOUNDS=			Sons
+
+	OPTIONS_GAMEPLAY=		MECÀNICA DE JOC
+	OPTIONS_SPEEDRUN=		Rellotge de carrera
+	OPTIONS_SPEEDRUN_CHAPTER=Capítol
+	OPTIONS_SPEEDRUN_FILE=	Arxiu
+	OPTIONS_DASHES=			Comptador d'embranzides
+	OPTIONS_LANGUAGE=		Llengua
+	OPTIONS_ON=				ACTIVAT
+	OPTIONS_OFF=			DESACTIVAT
+
+# KEYBOARD CONFIG
+	KEY_CONFIG_TITLE=		Config. Teclat
+	KEY_CONFIG_MOVEMENT=	MOVIMENT
+	KEY_CONFIG_LEFT=		Esquerra
+	KEY_CONFIG_RIGHT=		Dreta
+	KEY_CONFIG_UP=			Amunt
+	KEY_CONFIG_DOWN=		Avall
+	KEY_CONFIG_GAMEPLAY=	ACCIONS
+	KEY_CONFIG_JUMP=		Saltar
+	KEY_CONFIG_DASH=		Embranzida
+	KEY_CONFIG_GRAB=		Agafar-se
+	KEY_CONFIG_TALK=		Parlar
+	KEY_CONFIG_MENUS=		MENÚ
+	KEY_CONFIG_CONFIRM=		Confirmar
+	KEY_CONFIG_CANCEL=		Cancel·lar
+	KEY_CONFIG_PAUSE=		Pausar
+	KEY_CONFIG_JOURNAL=		Diari
+	KEY_CONFIG_QUICKRESTART=Reinici ràpid
+	KEY_CONFIG_RESET=		Restablir opcions predeterminades
+	KEY_CONFIG_CHANGING=	PITJAR NOVA TECLA PER
+
+# CONTROLLER CONFIG
+	BTN_CONFIG_TITLE=		Configuració del comandament
+	BTN_CONFIG_INFO=		PITJA | PER AFEGIR UN BOTÓ, | PER ELIMINAR BOTONS
+	BTN_CONFIG_CHANGING=	PITJA EL BOTÓ PER AFEGIR
+	BTN_CONFIG_NOCONTROLLER=Connecta un comandament
+
+# PICO-8
+	PICO8_UNLOCKED=			Ara es pot jugar desde el menú principal
+	PICO8_PAUSE_TITLE=		EN PAUSA
+	PICO8_PAUSE_CONTINUE=	Continuar
+	PICO8_PAUSE_RESTART=	Restablir PICO-8
+	PICO8_PAUSE_QUIT=		Sortir de PICO-8
+
+# FILE MENU
+	FILE_DEFAULT=		Madeline
+	FILE_CORRUPTED=		Fet malbé :(
+	FILE_FAILEDTOLOAD=	Error en carregar
+	FILE_NEWGAME=		Començar una nova partida!
+	FILE_CONTINUE=		Continuar
+	FILE_DELETE=		Esborrar
+	FILE_BEGIN=			Començar
+	FILE_ASSIST_OFF=	Mode Assistència : DESACTIVAT
+	FILE_ASSIST_ON=		Mode Assistència : ACTIVAT
+	FILE_VARIANT_OFF=	Mode Variant : DESACTIVAT
+	FILE_VARIANT_ON=	Mode Variant : ACTIVAT
+	FILE_RENAME=		Canviar nom
+	FILE_DELETE_REALLY=	Segur?
+	FILE_DELETE_NO=		Cancel·lar
+	FILE_DELETE_YES=	Esborrar
+	FILE_DELETE_FAILED=	Error en esborrar l'arxiu!
+
+# Assist Mode
+	ASSIST_MODE_0=
+		El {# 44adf7}mode Assistència{#} et permet modificar{n}
+		les regles del joc segons les teves necessitats.
+
+	ASSIST_MODE_1=
+		Això inclou opcions com alentir la velocitat del joc,{n}
+		dotar-te d'invencibilitat o d'energia infinita{n}
+		i fins i tot saltar-te capítols sencers.
+
+	ASSIST_MODE_2=
+		Celeste ha estat dissenyat per oferir una experiència desafiant i gratificant.{n}
+		Si el joc per defecte t'es inaccesible, desitjem que{n}
+		puguis gaudir d'aquesta experiència amb el {# 44adf7}mode Assistència{#}.
+
+	ASSIST_ASK=		Vols jugar amb el {# 44adf7}mode Assistència{#} activat?
+	ASSIST_YES=		Sí
+	ASSIST_NO=		No
+	ASSIST_SKIP=	Ajudar{n}Ometre
+
+# File Naming
+	NAME_LETTERS=
+		ABCDEFGHI abcdefghi
+		JKLMNOPQR jklmnopqr
+		STUVWXYZ  stuvwxyz
+		1234567890+=:~!@$%
+		^&*_-#"'()<>/\.,|`
+
+	NAME_SPACE=			espai
+	NAME_BACKSPACE=		retrocès
+	NAME_ACCEPT=		ACCEPTAR
+	NAME_BACK=			CANCEL·LAR
+
+# Xbox One Stuff
+	XB1_MENU_SWITCH_PROFILE=	Canviar perfil
+	XB1_SIGN_OUT_MESSAGE=		S'ha produït un canvi al registre. Torna a registrar-te o surt al menú principal.
+	XB1_SIGN_IN=				Registrar-se
+	XB1_RECONNECT_CONTROLLER=	Torna a connectar el teu comandament per a continuar.
+
+# Intro Vignette
+	INTRO_VIGNETTE_RESUME=	Continuar
+	INTRO_VIGNETTE_SKIP=	Ometre
+	INTRO_VIGNETTE_QUIT=	Sortir
+
+# Overworld
+	OVERWORLD_START=			Iniciar
+	OVERWORLD_NORMAL=			ESCALAR
+	OVERWORLD_INTERLUDE=		COMENÇAR
+	OVERWORLD_REMIX=			CARA B
+	OVERWORLD_REMIX2=			CARA C
+	OVERWORLD_REMIX_UNLOCKED=	Has desbloquejat la Cara B!
+	OVERWORLD_REMIX_UNLOCKED2=	Has desbloquejat la Cara C!
+
+# Chapter Titles
+	AREA_CHAPTER=	Capítol {x}
+	AREA_0=			Pròleg
+	AREA_1=			Ciutat Abandonada
+	AREA_2=			Ruïnes Antigues
+	AREA_3=			Resort Celestial
+	AREA_4=			Serralada Daurada
+	AREA_5=			Temple emmirallat
+	AREA_6=			Reflexió
+	AREA_7=			El Cim
+	AREA_8=			Epíleg
+	AREA_9=			Nucli
+	AREA_10=		Comiat
+
+# Checkpoints
+	CHECKPOINT_1_0=		Cruïlla
+	CHECKPOINT_1_1=		Abisme
+
+	CHECKPOINT_2_0=		Intervenció
+	CHECKPOINT_2_1=		Despert
+
+	CHECKPOINT_3_0=		Embolic Desmesurat
+	CHECKPOINT_3_1=		Forat De L'Ascensor
+	CHECKPOINT_3_2=		Suite Presidencial
+
+	CHECKPOINT_4_0=		Sepulcre
+	CHECKPOINT_4_1=		Antic Sender
+	CHECKPOINT_4_2=		Penya-segat
+
+	CHECKPOINT_5_0=		Profunditats
+	CHECKPOINT_5_1=		Desgranament
+	CHECKPOINT_5_2=		Cerca
+	CHECKPOINT_5_3=		Rescat
+
+	CHECKPOINT_6_0=		Llac
+	CHECKPOINT_6_1=		Coves
+	CHECKPOINT_6_2=		Reflexió
+	CHECKPOINT_6_3=		Fons Granític
+	CHECKPOINT_6_4=		Resolució
+
+	CHECKPOINT_7_0=		500 M
+	CHECKPOINT_7_1=		1000 M
+	CHECKPOINT_7_2=		1500 M
+	CHECKPOINT_7_3=		2000 M
+	CHECKPOINT_7_4=		2500 M
+	CHECKPOINT_7_5=		3000 M
+
+	CHECKPOINT_8_0=		Al Nucli
+	CHECKPOINT_8_1=		Fred i Calor
+	CHECKPOINT_8_2=		Cor de la Muntanya
+
+	CHECKPOINT_9_0=		Singular
+	CHECKPOINT_9_1=		Font d'alimentació
+	CHECKPOINT_9_2=		Recordat
+	CHECKPOINT_9_3=		Horitzó d'esdeveniments
+	CHECKPOINT_9_4=		Determinació
+	CHECKPOINT_9_5=		Tossuderia
+	CHECKPOINT_9_6=		Reconciliació
+	CHECKPOINT_9_7=		Adéu-siau
+
+# B-Side Checkpoints
+	CHECKPOINT_1H_0=	Andròmina
+	CHECKPOINT_1H_1=	Fossa de ferralla
+
+	CHECKPOINT_2H_0=	Pany amb combinació
+	CHECKPOINT_2H_1=	Altar dels Somnis
+
+	CHECKPOINT_3H_0=	Habitacions del Personal
+	CHECKPOINT_3H_1=	Biblioteca
+	CHECKPOINT_3H_2=	Terrat
+
+	CHECKPOINT_4H_0=	Esglaons
+	CHECKPOINT_4H_1=	Abisme Tempestuós
+	CHECKPOINT_4H_2=	Ull del Cicló
+
+	CHECKPOINT_5H_0=	Cambra Central
+	CHECKPOINT_5H_1=	A través del Mirall
+	CHECKPOINT_5H_2=	Mestre de la Mescla
+
+	CHECKPOINT_6H_0=	Reflexió
+	CHECKPOINT_6H_1=	Fons Granític
+	CHECKPOINT_6H_2=	Exempció
+
+	CHECKPOINT_7H_0=	500 M
+	CHECKPOINT_7H_1=	1000 M
+	CHECKPOINT_7H_2=	1500 M
+	CHECKPOINT_7H_3=	2000 M
+	CHECKPOINT_7H_4=	2500 M
+	CHECKPOINT_7H_5=	3000 M
+
+	CHECKPOINT_8H_0=	Al Nucli
+	CHECKPOINT_8H_1=	Cremat i Congelat
+	CHECKPOINT_8H_2=	Batec
+
+# Postcards
+	POSTCARD_AREA_1=
+		Selecciona {#ff1144}Desar i Sortir{#} al menú de pausa quan vulguis per fer un descans. Continuaràs des de la mateixa pantalla i no perdràs cap progrés!
+
+	POSTCARD_AREA_2=
+		Les {#ff1144}Maduixes{#} impressionaran als teus amics i prou. Recolleix-les només si vols de debò!
+
+	POSTCARD_AREA_3=
+		Esigues orgullós del teu {#ff1144}Comptador de Morts{#}!{n}Com més moris, més aprendràs.{n}Endavant!
+
+	POSTCARD_AREA_4=
+		{# F94A4A}Consell d'escalada!{#}{n}Se t'acaba l'energia en un tres i no res?{n}{n}Saltar de les parets {n}no consumeix energia!
+
+	POSTCARD_AREA_5=
+		{# F94A4A}Ho sabies?{#}{n}La majoria d'accidents mentres escales {n}son deguts al cansanci.{n}{n}Recorda descansar regularment!
+
+	POSTCARD_AREA_6=
+		{# F94A4A}Ho sabies?{#}{n}{n}És impossible {n}anar més ràpid que el teu reflexe.
+
+	POSTCARD_CSIDES=
+		Estàs llest per un bon repte?{n}{n}{# F94A4A}Les Cares B{#} ja estan disponibles, i també han aparegut{n}{# dbb63f}Maduixes d'Or{#} {n}A l'inici de cada capítol!{n}{n}Bona sort, {+MADELINE}!
+
+	POSTCARD_VARIANTS=
+		Caram, ho has aconseguit!{n}{n}{# 9B3FB5}Les Variants{#} ja estan disponibles al menú de selecció d'arxiu.
+
+# Journal
+	JOURNAL_OF=
+	JOURNAL_PROGRESS=				PROGRÉS
+	JOURNAL_SPEEDRUNS=				RÈCORDS:{n}CARRERA
+	JOURNAL_DASHES=					RÈCORDS:{n}MENYS EMBRANZIDES
+	JOURNAL_DEATHS=					RÈCORDS:{n}MENYS MORTS
+	JOURNAL_POEM=					CORS CRISTAL·LINS
+	JOURNAL_MODE_NORMAL=			COMPLETAT
+	JOURNAL_MODE_NORMAL_FULLCLEAR=	FINALITZAT
+	JOURNAL_MODE_BSIDE=				CARA B
+	JOURNAL_MODE_CSIDE=				CARA C
+	JOURNAL_TOTALS=					TOTALS
+	JOURNAL_GRANDTOTAL=				TOTAL FINAL
+
+# Stats
+	STATS_TITLE=			Estadístiques Globals D'Steam
+	STAT_BERRIES=			Maduixes
+	STAT_DEATHS=			Morts
+	STAT_DASHES=			Embranzides
+	STAT_GOLDBERRIES=		Maduixes d'Or
+	STAT_PICO_BERRIES=		PICO-8 Maduixes
+	STAT_PICO_DEATHS=		PICO-8 Morts
+	STAT_PICO_COMPLETES=	PICO-8 Complerts
+
+# Saving / Loading Failed
+	SAVEFAILED_TITLE=	NO ES POT DESAR
+	SAVEFAILED_RETRY=	Torna-ho a provar
+	SAVEFAILED_IGNORE=	Continua Sense Desar
+	LOADFAILED_TITLE=	NO ES POT CARREGAR
+	LOADFAILED_GOBACK=	Tornar Enrere
+	LOADFAILED_IGNORE=	Continuar Sense Desar
+
+# Tutorial
+	TUTORIAL_CLIMB=		ESCALAR
+	TUTORIAL_HOLD=		AGAFAR-SE
+	TUTORIAL_DASH=		EMBRANZIDA
+	TUTORIAL_DREAMJUMP=	SALTAR
+	TUTORIAL_CARRY=		PORTAR
+
+# Area Complete
+	AREACOMPLETE_NORMAL=				Capítol Complet
+	AREACOMPLETE_NORMAL_FULLCLEAR=		Capítol Finalitzat
+	AREACOMPLETE_BSIDE=					Cara B Completa
+	AREACOMPLETE_CSIDE=					Cara C Completa
+	MOUNTAIN_COMPLETE_NORMAL=			Complet
+	MOUNTAIN_COMPLETE_NORMAL_FULLCLEAR=	Finalitzat
+	MOUNTAIN_COMPLETE_BSIDE=			Cara B Completa
+	MOUNTAIN_COMPLETE_CSIDE=			Cara C Completa
+
+# Game Paused
+	MENU_PAUSE_TITLE=			PAUSAT
+	MENU_PAUSE_RESUME=			Continuar
+	MENU_PAUSE_SKIP_CUTSCENE=	Ometre l'Escena Actual
+	MENU_PAUSE_RETRY=			Tornar a intentar-ho
+	MENU_PAUSE_ASSIST=			Opcions d'Assistència
+	MENU_PAUSE_VARIANT=			Variants
+	MENU_PAUSE_OPTIONS=			Opcions
+	MENU_PAUSE_RESTARTAREA=		Reiniciar Capítol
+	MENU_PAUSE_SAVEQUIT=		Desar i Sortir
+	MENU_PAUSE_RETURN=			Tornar al Mapa
+	MENU_PAUSE_RESTARTDEMO=		Reiniciar Demostració
+	MENU_RETURN_TITLE=			TORNAR AL MAPA?
+	MENU_RETURN_CONTINUE=		Sí
+	MENU_RETURN_CANCEL=			Cancel·lar
+	MENU_RETURN_INFO=			Tornar al Mapa desará el teu progrés{n}
+								pero continuarás a l'últim punt de control
+	MENU_RESTART_TITLE=			REINICIAR CAPÍTOL?
+	MENU_RESTART_CONTINUE=		Sí
+	MENU_RESTART_CANCEL=		Cancel·lar
+
+# Assist UI
+	MENU_ASSIST_TITLE=					MODE ASSISTÈNCIA
+	MENU_ASSIST_SUBTITLE=				Assistències
+	MENU_ASSIST_GAMESPEED=				Velocitat Del Joc
+	MENU_ASSIST_INVINCIBLE=				Invencibilitat
+	MENU_ASSIST_AIR_DASHES=				Embranzides
+	MENU_ASSIST_AIR_DASHES_NORMAL=		Per Defecte
+	MENU_ASSIST_AIR_DASHES_TWO=			2
+	MENU_ASSIST_AIR_DASHES_INFINITE=	Infinit
+	MENU_ASSIST_INFINITE_STAMINA=		Energia Infinita
+
+# Variant UI
+	MENU_VARIANT_TITLE=					VARIANTS (BETA)
+	MENU_VARIANT_SUBTITLE=				Variants
+	MENU_VARIANT_MIRROR=				Mode Mirall
+	MENU_VARIANT_360DASHING=			Embranzides en 360º
+	MENU_VARIANT_INVISMOTION=			Moviment Invisible
+	MENU_VARIANT_PLAYASBADELINE=		Altre Jo
+	MENU_VARIANT_NOGRABBING=			No Agafar-se
+	MENU_VARIANT_LOWFRICTION=			Fricció Baixa
+	MENU_VARIANT_SUPERDASHING=			Super Embranzides
+	MENU_VARIANT_HICCUPS=				Singlot
+
+# Misc UI
+	UI_CUTSCENE_SKIP=	Saltar
+	UI_REMIX_UNLOCKED=	Cara B Desbloquejada
+	UI_CANCEL=			Tornar
+	UI_CONFIRM=			Confirmar
+	UI_QUICK_RESTART_TITLE=Reinici Ràpid: 
+	UI_QUICK_RESTART_HOLD=Mantenir
+	UI_QUICK_RESTART_PRESS=Pitjar
+
+# B SIDES
+	REMIX_BY=			Música feta per
+	REMIX_ALBUM=		Cares B de Celeste
+
+	AREA_1_REMIX=		(Sever the Skyline Mix)
+	AREA_2_REMIX=		(Black Moonrise Mix)
+	AREA_3_REMIX=		(Good Karma Mix)
+	AREA_4_REMIX=		(Golden Feather Mix)
+	AREA_5_REMIX=		(Mirror Magic Mix)
+	AREA_6_REMIX=		(Center of the Earth Mix)
+	AREA_7_REMIX=		(No More Running Mix)
+	AREA_9_REMIX=		(Say Goodbye Mix)
+
+# Credits
+	CREDITS_THANKYOU=	Moltes gràcies per jugar :)
+
+# Names
+	THEO=				{# FF9523}Theo{#}
+	THEO_UNDER_STARS=	{# FFFF4C}TheoSotaElsEstels{#}
+	MIXMASTER_THEO=		{# FF9523}Theo el Mestre de les Mescles{#}
+	MOM=				{# 339CC7}Mare{#}
+	MROSHIRO=			{# 7BD838}Senyor Oshiro{#}
+	OSHIRO=				{# 7BD838}Oshiro{#}
+	ELCREEPO=			{# 7BD838}L'Esgarrifós{#}
+	MADELINE=			{# F94A4A}{savedata Name}{#}
+	MS_MADELINE=		{# F94A4A}Senyoreta {savedata Name}{#}
+	RESORT=				{# b864be}Resort Celestial{#}
+	THOUGHT=			{# 696a6a}{~}(
+	ENDTHOUGHT=			){/~}{#}
+	MOUNTAIN=			{# 96EFFF}Muntanya{#}
+	CELESTE_MOUNTAIN=	{# 96EFFF}Muntanya Celeste{#}
+	PART_OF_ME=			{# d678db}{~}Part Meva{/~}{#}
+	PART_OF_YOU=		{# d678db}{~}Part Teva{/~}{#}
+	ST_BAD=				{# d678db}{~}
+	END_BAD=			{/~}{#}
+	GRANNY=				{# 66ea3a}Àvia{#}
+	PART_OF_HER=		{# 66ea3a}{~}Part Seva{/~}{#}
+	PART_OF_GRANNY=		{# 66ea3a}{~}Part De L'Àvia{/~}{#}
+
+# Theo sister name
+# if the player name is the same as this one, theo's sister name becomes the ALT_NAME
+	THEO_SISTER_NAME=		Alex
+	THEO_SISTER_ALT_NAME=	Maddy
+	ALEX=					{# F94A4A}{savedata TheoSisterName}{#}
+
+# ================================== IN-GAME DIALOG BEGINS HERE! ==================================
+
+# *** Prologue ***
+
+	CH0_INTRO=
+		Ja hem arribat, {+MADELINE}.
+		Respira.
+		A què vénen aquests nervis?
+
+	CH0_GRANNY=
+		{anchor top}
+
+		[MADELINE left normal]
+		Dispensi, senyora?
+
+		{trigger 0 Madeline walks forward}
+
+		[MADELINE left normal]
+		El senyal de l'entrada està fet malbé...{n}aquest és el camí cap a la {+mountain}?
+
+		[GRANNY right normal]
+		Ja gairebé has arribat.{n}És tot just a l'altra banda del pont.
+
+		{trigger 1 Madeline walks to the right of the house, turns left}
+		
+		[MADELINE right sad]
+		A propòsit, hauries de vigilar l'entrada. Casi em mata la carena.
+
+		{trigger 2 Granny laughs}
+
+		[GRANNY left laugh]
+		Si la meva {>> 0.3}"entrada"{>>}{0.2} gairebé et mata,{n}potser la {+mountain} et serà massa.
+
+		{trigger 3 Laugh Continues}
+
+		[MADELINE right upset]
+		{0.5}...{0.2}
+
+		[MADELINE right angry]
+		Ah si? Doncs si una iaia com {~}tu{/~} pot{n}sobreviure aquí, crec que jo m'apanyaré prou bé.
+
+		{trigger 4 Stop laughing}
+
+		[GRANNY left normal]
+		Fes el que vulguis.
+
+		{silent_trigger 5 Ominous zoom-in}
+
+		[GRANNY left normal]
+		Però hauries de saber que{n}la {+CELESTE_MOUNTAIN} és ben estranya.
+
+		[GRANNY left creepA]
+		Potser veuràs coses.
+
+		[GRANNY left creepB]
+		Coses que no estàs preparada per veure.
+
+		{trigger 6 pan to Maddy}
+
+		[MADELINE right upset]
+		Busqui ajuda, senyora.
+
+		{trigger 3 resume laughing}
+
+	CH0_END=
+		Ho pots fer.
+
+# *** Chapter 01 ***
+
+	CH1_THEO_A=
+		[THEO left normal]
+		Hola, companya viatgera!
+
+		[MADELINE right distracted]
+		Ah... hola.
+
+		{trigger 0 Madeline approaches}
+		
+		[THEO left normal]
+		Fa una nit meravellosa per una caminada!
+
+		[MADELINE right distracted]
+		Suposo.
+
+		[THEO left normal]
+		Aquest lloc és increïble. 
+
+		[THEO left excited]
+		Costa de creure que existeixi un lloc així!
+
+		[MADELINE right sad]
+		Una escalada complicadeta, oi?
+
+		[MADELINE right distracted]
+		Però suposo que això era el que jo volia...
+		
+		[THEO left normal]
+		Caram, sembla molt seriós això.
+		Jo estic feliç de veure una altra{n}persona en aquest lloc tan apartat.
+
+		[THEO left excited]
+		Per cert, em dic {+ theo}, sóc un aventurer d'un país {>> 0.3}{~}molt llunyà!{/~}{>>}
+		
+		[MADELINE right sad]
+		...{0.2}
+
+		[THEO left thinking]
+		No t'agrada parlar gaire, eh?
+
+		[THEO left normal]
+		O sigui que misteriosa i solitària.{n}Suposaré que has tingut alguna mena de passat fosc.
+
+	CH1_THEO_B=
+		[MADELINE right sad]
+		Ei, perdona. Em dic {+MADELINE}.
+		Tinc molt al cap saps.
+
+		[THEO left normal]
+		Bé, {+MADELINE}, jo diria que has vingut al lloc indicat!
+
+		[THEO left thinking]
+		Tinc els peus glaçats, però no puc imaginar-me {n}un lloc millor per reflexionar tranquilament.
+		
+		[MADELINE right sad]
+		Sí, potser tens raó.
+
+		[MADELINE right normal]
+		De quin "{>> 0.5}{~}país molt llunyà{/~}{>>}" provens?
+		
+		[THEO left excited]
+		Doncs mira, curiosa compatriota, provinc {n}del {0.3}{~}místic,{0.4} exòtic{/~}{0.4} regne de...
+		
+		[THEO left normal]
+		{0.4} Seattle.
+
+		[MADELINE right normal]
+		Sembla un lloc especial.
+
+	CH1_THEO_C=
+		[THEO left excited]
+		Aquest lloc es de bojos!
+
+		[THEO left normal]
+		Per què s'abandonaria una ciutat sencera?
+		
+		[MADELINE right normal]
+		Vaig llegir que una mega-corporació va començar{n}a construir-la, però ningú no va voler viure aquí.
+
+		[MADELINE right distracted]
+		Em pregunto per què...
+		
+		[THEO left excited]
+		Jo me la jugo a què és una coartada pel govern.
+
+		[MADELINE right distracted]
+		Quin desperdici, construir tot això per no res...
+
+		[THEO left normal]
+		Bé, com a mínim podem gaudir del que queda.
+
+	CH1_THEO_D=
+		[MADELINE right normal]
+		Has vingut a explorar la ciutat?
+		
+		[THEO left normal]
+		Sí, m'agraden els llocs abandonats.
+		
+		[THEO left thinking]
+		I m'agrada pensar de mi com a{n}fotògraf en potència.
+		
+		[MADELINE right normal]
+		De debò? Guai!
+		Que tens un blog o alguna cosa similar?
+		
+		[THEO left thinking]
+		Un blog?
+		{+MADELINE}.
+		Avui dia tothom fa servir {# FFFF4C}InstaPix{#}.
+		
+		[THEO left excited]
+		Jo sóc {+THEO_UNDER_STARS}, cerca'm!
+
+	CH1_THEO_E=
+		[THEO left normal]
+		Aquest terreny es força complicat,{n}te n'aniràs aviat?
+		
+		[MADELINE right normal]
+		Nop. Vaig cap al cim.
+		
+		[THEO left excited]
+		Ja veig els teus ulls plens de determinació!
+
+		[THEO left normal]
+		És inspirador.
+
+		[MADELINE right distracted]
+		Si tu ho dius.
+
+		[MADELINE right normal]
+		Segur que tu també podries arribar al cim.
+
+		[THEO left normal]
+		Potser. 
+		
+		[THEO left thinking]
+		Sincerament no m'importa gaire arribar al cim.
+
+		[THEO left normal]
+		{!}Ah!{/!} Però he sentit a parlar que hi han unes ruïnes {~}de debò{/~}més enllà de la ciutat.
+		
+		[THEO left excited]
+		Com de l'any 1800. 
+
+		[THEO left normal]
+		Sé que és arriscat però les vull veure amb els meus propis ulls.
+
+	CH1_THEO_F=
+		[THEO left normal]
+		Quina és la frase aquella que dius{n}quan ets a punt de fer una cosa irresponsable?
+
+		[MADELINE right sad]
+		Em... "a trencar-se les banyes?"
+
+		[THEO left wtf]
+		No, no es aquesta.
+
+		[THEO left excited]
+		Ah cert...
+
+		{trigger 0 Theo pumps his fist in the air}
+		
+		[THEO left yolo]
+		{big}{~}AAA{>> 0.5} L'ATAA{>> 0.2}AAAAAC!!{>>}{/~}{/big}
+
+	MEMORIAL=
+		-- MUNTANYA CELESTE --
+		Aquesta placa és dedicada a la memòria
+		De tots els que van morir a l'escalada
+
+	CH1_END=
+		[MADELINE left distracted]
+		Buf, Estic esgotada.
+
+		{trigger 0 MADELINE sits down to rest. A bird swoops in, lands on her head, and goes to sleep}
+		
+		[MADELINE left deadpan]
+		{>> 0.4}Potser he comès un error.
+
+# *** Chapter 02 ***
+
+	CH2_BADELINE_INTRO=
+		{anchor top}
+		
+		[BADELINE left normal]
+		{+MADELINE}, estimada, afluixa una mica.
+
+		{trigger 0 Madeline turns around}
+		
+		[MADELINE right distracted]
+		Qui ha dit això?
+		
+		[BADELINE left normal]
+		Oh, només una observadora preocupada.
+
+		{trigger 1 Badeline is revealed}
+		
+		[MADELINE right sad]
+		Ets... jo?
+
+		[BADELINE left normal]
+		Sóc {+PART_OF_YOU}.
+
+		[MADELINE right sad]
+		I com és que una {+PART_OF_ME} és tan {0.3}{*}esgarrifosa?{/*}
+
+		[BADELINE left worried]
+		...
+
+		[BADELINE left angry]
+		Doncs així és com sóc, entesos?
+		Supera-ho.
+
+		[MADELINE right distracted]
+		Perdona, no volia-
+
+		[BADELINE left angry]
+		És igual.
+		No saps quin alleujament és{n}poder sortir {~}d'una vegada{/~} del teu cap.
+
+		[BADELINE left upset]
+		Mira, estic preocupada per nosaltres.
+
+		[BADELINE left normal]
+		Necessitem un passatemps, però això...
+		
+		[MADELINE right sad]
+		Sé que sembla una bogeria, però{n}he d'escalar aquesta {+mountain}.
+
+		{trigger 2 Badeline starts laughing}
+		
+		[BADELINE left scoff]
+		Ai estimada, ets moltes coses,{n}però no ets una {~}escaladora{/~}.
+
+		[MADELINE right distracted]
+		I això qui ho diu?
+
+		{trigger 3 Badeline stops laughing}
+		
+		[BADELINE left upset]
+		Sé que no és el teu punt fort,{n}però sigues raonable.
+		No tens ni idea d'on t'estàs ficant.
+		No pots fer front a tot això.
+		
+		[MADELINE right upset]
+		Exactament per això ho he de fer.
+		Ets la {+PART_OF_ME} feble o la mandrosa?
+
+		[BADELINE left upset]
+		Sóc la pragmàtica.
+		
+		[BADELINE left scoff]
+		I estic {~}intentant{/~} ser diplomàtica, saps.
+		
+		[BADELINE left serious]
+		{s 4}Tornem a casa {.6}[BADELINE left serious_alt]juntes.
+
+	CH2_DREAM_PHONECALL=
+		[MADELINE_PHONE left distracted]
+		Digui?
+		
+		[EX_PHONE right normal]
+		{+MADELINE}?
+		...que truques des d'una cabina telefònica?
+
+		[MADELINE_PHONE left distracted]
+		Sí.
+
+		[MADELINE_PHONE left sad]
+		Espera, no... m'has trucat tu.
+
+		[EX_PHONE right normal]
+		Que vols dir?
+		
+		[MADELINE_PHONE left distracted]
+		Es igual. Tinc un petit problema.
+		M'està perseguint... algú.
+
+		[MADELINE_PHONE left sad]
+		No tinc ni idea de què està passant,{n}però sé que estic en perill. Puc sentir-ho.
+		
+		[EX_PHONE right normal]
+		{+MADELINE}, només em truques quan estàs{n}en pànic a mitjanit.
+		No t'has d'inventar cap historia ridícula{n}perquè et faci cas.
+		
+		[MADELINE_PHONE left angry]
+		No és cap invent!
+		Sempre fas el mateix!
+		
+		[EX_PHONE right normal]
+		{~}Shhh{/~} {0.5}està bé, relaxa't.
+		Perdona amor.
+		Explica-m'ho.
+		
+		[MADELINE_PHONE left sad]
+		Estic escalant la {+celeste_mountain}.{n}I he trobat un mirall antic, i s'ha trencat,{n}però una part de mi s'ha escapat, i...
+
+		[MADELINE_PHONE left upset]
+		...
+		...Estic somiant, oi?
+		
+		[EX_PHONE right normal]
+		{+MADELINE}. És clar que estàs somiant.
+		No et parlo des de fa mesos.
+		Per què ho faria ara?
+		
+		[MADELINE_PHONE left angry]
+		Ugh! Per què carai estic escalant aquest coi de {+mountain}?
+
+		{trigger 0 Badeline appears}
+		
+		[BADELINE right scoff]
+		M'estava preguntant exactament el mateix.
+		
+		[BADELINE right upset]
+		És hora de renunciar a tot això i tornar a casa.
+
+	# if the MADELINE has never met Theo before
+	CH2_THEO_INTRO_NEVER_MET=
+		[THEO left normal]
+		Hola, companya exploradora!
+		
+		[MADELINE right distracted]
+		Ah... hola.
+
+		{trigger 0 Madeline approaches}
+
+		[THEO left normal]
+		Tu també has pujat aquí per veure aquestes ruïnes antigues?
+		
+		[MADELINE right sad]
+		Emm... no, vaig cap al cim.
+		
+		[THEO left excited]
+		Apa, impressionant!
+		
+		[THEO left normal]
+		Per cert sóc en {+ theo}, un aventurer d'un país {>> 0.3}{~}molt llunyà!{/~}{>>}
+		
+		[MADELINE right sad]
+		...{0.2}
+		
+		[THEO left thinking]
+		No t'agrada parlar gaire, eh?
+		
+		[THEO left normal]
+		O sigui que misteriosa i solitària.{n}Suposaré que has tingut alguna mena de passat fosc.
+
+	# if the MADELINE has met Theo, but never introduced herself
+	CH2_THEO_INTRO_NEVER_INTRODUCED=
+		[MADELINE right sad]
+		Ei {+ theo}, perdona'm per lo d'abans.{n}Sóc {+MADELINE}.
+		Tinc molt al cap, saps.
+		
+		[THEO left normal]
+		Doncs aquest és un bon lloc per això.
+		Alguna cosa d'aquestes ruïnes se sent tan introspectiva.
+		És com mirar-se a si mateix {n}en un mirall, diguem-ne.
+		
+		[MADELINE right distracted]
+		Sí... entenc el què vols dir.
+
+		[MADELINE right normal]
+		De quin "{>> 0.5}{~}país molt llunyà{/~}{>>}" provens?
+		
+		[THEO left excited]
+		Doncs mira, curiosa compatriota, provinc {n}del {0.3}{~}místic,{0.4} exòtic{/~}{0.4} regne de...
+		
+		[THEO left normal]
+		{0.4} Seattle.
+
+		[MADELINE right normal]
+		Sembla un lloc especial.
+
+	# added to the start of the CH2_THEO_A if the MADELINE has met and introduced themselves to Theo
+	# (if NEVER_MET and NEVER_INTRODUCED are skipped)
+	CH2_THEO_A_EXT=
+		[THEO left excited]
+		Ei, {+MADELINE}!{n}Ho has aconseguit!
+
+		{trigger 3 Madeline Approaches}
+
+		{+ CH2_THEO_A}
+
+	# normal conversation once introductions are out of the way
+	CH2_THEO_A=
+		[THEO left normal]
+		Escalar fins aquí es una feina feixuga,{n}però val la pena totalment.
+		
+		[THEO left excited]
+		Fixa't en aquestes ruïnes!
+		He pres un munt de fotografies, les vols veure?
+		
+		[MADELINE right sad]
+		Ah... [MADELINE right normal]és clar.
+
+		{trigger 0 Maddy walks to Theo}
+
+		[MADELINE right normal]
+		{+ theo}, són fantàstiques!
+		
+		[THEO left thinking]
+		Potser arribaré a tenir mil seguidors amb aquestes.
+
+		{trigger 1 Theo puts away phone}
+		
+		[THEO left normal]
+		Oh! Hem de conmemorar aquesta ocasió formalment...
+		
+		[THEO left excited]
+		Fem-nos un selfie!
+		
+		[MADELINE right distracted]
+		Emm... No sé si ara és un bon moment...
+		
+		[THEO left normal]
+		Vinga, és fàcil. Així!
+
+		{trigger 2 Theo takes a selfie with Maddy by surprise}
+		
+		[MADELINE right upset]
+		...
+
+	CH2_THEO_B=
+		[THEO left normal]
+		Perdona.
+		No et preocupis, no publicaré aquesta.
+
+		[MADELINE right distracted]
+		...
+		
+		[MADELINE right sad]
+		No, està bé. Pots publicar-la.
+		És només que{.2} no sóc... fotogènica.
+		
+		[THEO left normal]
+		{+MADELINE}, no et martiritzis!
+		Ningú surt guapo sense filtre.
+
+		{trigger 0 Add filter to selfie}
+		
+		[THEO left thinking]
+		Casual, però refinat.
+
+	CH2_THEO_C=
+		[MADELINE right normal]
+		Què et va fer provar la fotografia?
+
+		[THEO left normal]
+		Al meu àvi li agradaba molt.
+
+		[THEO left thinking]
+		Sembla que era semi famós{n}al món de la fotografia.
+
+		[THEO left wtf]
+		No sé si mai aconseguiré ser tan bo.
+
+		[THEO left normal]
+		Però em fa sentir a prop seu.
+
+	CH2_THEO_D=
+		[THEO left excited]
+		O sigui que estàs decidida a escalar la {+mountain} sencera?
+		
+		[MADELINE right normal]
+		Sí, em vaig prometre que ho aconseguiria.
+
+		[MADELINE right sad]
+		Estic farta de trencar les meves pròpies promeses.
+		
+		[THEO left excited]
+		Tens objectius! Així m'agrada.
+		
+		[THEO left normal]
+		Jo dubto que arribi al cim com tu,{n}però no estic llest per tornar enrera encara.
+
+	CH2_THEO_E=
+		[THEO left wtf]
+		T'arriben les dades aquí dalt?
+		
+		[MADELINE right normal]
+		No tinc un smartphone.
+		
+		[THEO left wtf]
+		{+MADELINE}. No tinc ni idea ni de com reaccionar.
+
+	CH2_END_PHONECALL=
+		[MOM_PHONE right normal]
+		Digui?
+		
+		[MADELINE_PHONE left distracted]
+		Ei {+ mom}.
+		
+		[MOM_PHONE right normal]
+		{+MADELINE}, quina sorpresa més agradable!
+		Com va el teu viatje?
+		
+		[MADELINE_PHONE left distracted]
+		Va bé, només és una mica... aclaparador.
+		
+		[MOM_PHONE right concerned]
+		Oh no, que tens un altre atac de pànic?
+		Concentra't en la teva respiració amor, sóc aquí.
+		Què està passant?
+
+	CH2_JOURNAL=
+		Hi ha un llibre vell ple de pols a la taula.
+		Hi ha un poema escrit a una pàgina descolorida.
+
+	CH2_POEM=
+		Una aparició{n}
+		D'un altre món{n}
+		Però, per culpa seva{n}
+		Aguaita, fora del marc{n}{n}
+		Desperta, cor meu, amb fortalesa{n}
+		Doncs als somnis, sóc vulnerable
+
+# *** Chapter 03 ***
+
+	CH3_OSHIRO_FRONT_DESK=
+		[OSHIRO right normal]
+		Benvinguda! Com puc servir-li?
+
+		[MADELINE left surprised]
+		Ets... un fantasma?
+		
+		[OSHIRO right worried]
+		Un fantasma? No siguis burra.
+		
+		[OSHIRO right normal]
+		Sóc el conserge d'aquest meravellós establiment.
+
+		[OSHIRO right worried]
+		Benvinguda al {.3} {~}{>> .2}mundialment conegut{/~}{>>}{n}{big}Hotel Resort Celestial!{/big}
+
+		[OSHIRO right normal]
+		{+ mroshiro}, al teu servei.
+		
+		[OSHIRO right sidehappy]
+		{+thought}Dos convidats en un sol dia!{n}Per fi començo a fer negoci!{+endthought}
+		
+		[OSHIRO right normal]
+		Quant de temps romandreu aquí?
+		
+		[MADELINE left normal]
+		Oh... només vinc de passada.{n}Estic escalant la {+mountain}.
+		Teniu una sortida posterior?
+		
+		[OSHIRO right worried]
+		...una sortida posterior?
+		
+		[OSHIRO right sideworried]
+		{+thought}Només de passada? Això no pot ser.{+endthought}
+		
+		[MADELINE left distracted]
+		Saps que t'estic escoltant, oi?
+		
+		[OSHIRO right nervous]
+		...
+		
+		[OSHIRO right normal]
+		De tota manera, la nostra porta del darrere{n}està reservada per al personal.
+
+		[OSHIRO right worried]
+		Malgrat això, la nostra suite presidencial de{n}la planta superior compta amb unes vistes meravelloses del cim.
+
+		[OSHIRO right normal]
+		Sí, estaríeu ben còmode allà.
+		
+		[MADELINE left distracted]
+		Potser podria pujar a la teulada{n}d'allà i escalar la part posterior?
+		
+		[OSHIRO right sidehappy]
+		{+thought}La suite presidencial, quina idea {+ oshiro}!{+endthought}
+		
+		[OSHIRO right normal]
+		Com es diu, per enregistrar-la?
+		
+		[MADELINE left normal]
+		Em dic {+MADELINE}. 
+		
+		[MADELINE left sad]
+		Però de nou, no estic gaire interessada a quedar-me.
+
+		{trigger 0 Camera zooms back out}
+		
+		[OSHIRO right normal]
+		Segueixi'm per aquí, {+MS_MADELINE}.
+
+	CH3_GUESTBOOK=
+		Sembla ser un llibre de visites vell i ple de pols.
+		La majoria de les pàgines estan fetes malbé o directament no hi són.
+		En canvi, els comentaris, són brillants...
+		"Mai oblidarem la nostra estança aquí"
+		"Mai havia sentit tanta pau. Gràcies."
+	
+	CH3_OSHIRO_HALLWAY_A=
+		[OSHIRO right normal]
+		Si us plau, seguiu-me  de prop, {+MS_MADELINE}.
+		L'ascensor és just al final d'aquest passadís.
+		
+		[MADELINE left distracted]
+		Aquest hotel sembla bastant malparat...
+
+		[MADELINE left sad]
+		Segur què és obert?
+		
+		[OSHIRO right nervous]
+		És clar què és obert!
+
+		[OSHIRO right worried]
+		L'Hotel Resort Celestial mai{n}tancaría en temporada alta de turisme!
+
+		[OSHIRO right sideworried]
+		{+thought}Malparat? Què vol dir amb això?{+endthought}
+
+		[OSHIRO right normal]
+		Ah! Si us plau, permeti que li porti el seu equipatge.
+		
+		[MADELINE left sad]
+		La motxilla?
+
+		[MADELINE left normal]
+		No gràcies, ja la duc jo.
+		
+		[OSHIRO right normal]
+		Hmm. Entesos.
+		
+		[OSHIRO right sidesuspicious]
+		{+thought}Quina visitant més peculiar.{+endthought}
+
+	CH3_OSHIRO_HALLWAY_B=
+		[OSHIRO right normal]
+		{+MS_MADELINE}, li prego que s'afanyi si us plau.
+
+		[OSHIRO right worried]
+		Dirigeixo un negoci d'escala mundial sap.{n}No puc perdre el temps esperant que els convidats s'arronsin arreu.
+		
+		[MADELINE left sad]
+		Realment no m'heu d'esperar,{n}només busco un camí per travessar aquest lloc.
+		
+		[OSHIRO right sideworried]
+		{+thought}{+oshiro} idiota, el client sempre té raó!{+endthought}
+		{+thought}Per fi comença a triomfar el negoci{n}i vas i perds els estreps!?{+endthought}
+		
+		[OSHIRO right nervous]
+		Ah... es clar {+MS_MADELINE}!
+		Les meves sinceres disculpes, anava errat.
+
+		[OSHIRO right normal]
+		Si us plau, no dubti a explorar tant com vulgui.
+
+	CH3_MEMO_OPENING=
+		Un paper vell sobresurt enmig de tot el desordre...
+
+	CH3_MEMO=
+		{big}Atenció al personal de l'hotel:{/big}{n}{n}
+		És el meu deure informar-vos amb tristesa que l'Hotel Resort Celestial tancarà de manera indefinida després d'aquesta temporada, a causa de circumstàncies fora del nostre control.{n}{n}
+		Ha estat un honor servir amb tots vosaltres, a mesura que treballàvem de manera incansable per assegurar-nos que els nostres convidats gaudien de l'experiència més hospitalària i memorable possible.{n}{n}
+		Escric aquestes paraules amb un gran pesar. Aquest hotel s'ha convertit en casa meva, i tot el personal sou com la meva família. Us trobaré molt a faltar.{n}{n}
+		-Senyor Oshiro
+
+	CH3_OSHIRO_CLUTTER0=
+		[OSHIRO left worried]
+		Agh! Aquest desordre està per tot arreu!
+
+		{trigger 1 Oshiro paces to the left}
+
+		[OSHIRO left worried flip]
+		Que deu haver pogut passar!?
+
+		{trigger 2 Oshiro paces back to the right}
+
+		[OSHIRO left worried]
+		Ni tan sols sé per on començar...
+		
+		[MADELINE right sad]
+		{+mroshiro}, que dirigeix tot aquest lloc pel seu propi compte?
+		
+		[OSHIRO left nervous]
+		Té raó {+MS_MADELINE},{n}mai podré arreglar això tot sol.
+
+		{trigger 0 Oshiro Collapses}
+		
+		[OSHIRO left drama]
+		No hi ha esperança.
+
+		[MADELINE right distracted]
+		No volia dir això...
+
+		[MADELINE right sad]
+		Només respiri, {+MROSHIRO}. Respiri.
+		Només és tracta d'una petita neteja.
+		
+		[MADELINE right distracted]
+		Bé, potser no tan petita...
+		
+		[MADELINE right normal]
+		Però puc ajudar!
+		
+		[OSHIRO left normal]
+		Ets massa amable.
+		
+		[OSHIRO left drama]
+		Jo ni ho intentaria.
+		És una causa perduda.
+
+	CH3_OSHIRO_CLUTTER0_B=
+		[MADELINE right normal]
+		Quant fa que dirigeix l'hotel?
+
+		[OSHIRO left normal]
+		Oh, ja fa força temps.
+
+		[OSHIRO left sideworried]
+		{+thought}El negoci ha anat... lent.{+endthought}
+
+		[MADELINE right sad]
+		Aleshores segur que t'encanta la teva feina.
+
+		[OSHIRO left normal]
+		Oi tant, {+MS_MADELINE}.
+
+		{trigger 0 Oshiro gets back up}
+
+		[OSHIRO left normal]
+		Al món de l'hostaleria, la nostra passió és{n}perfeccionar el delicat art de l'hospitalitat.
+
+		[OSHIRO left worried]
+		Un hotel veritablement bo viu{.2} {~}eternament{/~} dins{n}els records nostàlgics dels visitants satisfets.
+
+		[MADELINE right normal]
+		Ben dit!
+		Ara per ara encarreguem-nos d'aquest embolic.
+
+	CH3_OSHIRO_CLUTTER1=
+		[OSHIRO right normal]
+		Ni tan sols he començat a netejar{n}i ja sento el meu esperit renovat!
+		Aquest és el poder de ser positiu!
+		
+		[MADELINE left distracted]
+		Emm, en realitat...
+		
+		[MADELINE left normal]
+		He netejat una mica del desordre per tu.
+		
+		[OSHIRO right normal]
+		Ah sí, gràcies, {+MS_MADELINE}.
+		Però si us plau, relaxis, i permeti que s'encarregui el personal de l'hotel!
+		
+		[OSHIRO right sidesuspicious]
+		{+thought}{+oshiro}, tros d'ase. La estàs perdent.{+endthought}
+
+		[OSHIRO right sideworried]
+		{+thought}Els visitants no volen perdre el temps netejant!{+endthought}
+		
+		[MADELINE left distracted]
+		Estàs bé?
+		
+		[OSHIRO right nervous]
+		Sí, és clar.
+
+		[OSHIRO right worried]
+		Aquest és el millor hotel que visitaràs en la teva vida, ja veuràs!
+		
+		[OSHIRO right sideworried]
+		{+thought}Com he pogut permetre que els meus problemes s'acumulin tant?{+endthought}
+
+	CH3_OSHIRO_CLUTTER1_B=
+
+		[MADELINE left sad]
+		{+mroshiro}, no passa res si{n}el desordre l'inquieta.
+
+		[MADELINE left normal]
+		No podré quedar-me aquesta nit, però puc ajudar abans d'anar-me'n.
+
+		[OSHIRO right sideworried]
+		{+thought}Li fas llàstima, {+oshiro}. Ets patètic.{+endthought}
+
+		[MADELINE left upset]
+		...
+
+	CH3_OSHIRO_CLUTTER2=
+		[MADELINE left normal]
+		Apa! Això està molt més net!
+		
+		[MADELINE left distracted]
+		Ara, podries dir-me on és la sortida?
+
+		[OSHIRO right worried]
+		Però {+MS_MADELINE}, amb prou feines {n}ha pogut gaudir de la miríada de luxes que ofereix el nostre hotel!
+		
+		[OSHIRO right normal]
+		Ja parlarem quan acabi de netejar.
+
+		[OSHIRO right worried]
+		Estic molt enfeinat!
+
+		[OSHIRO right sidesuspicious]
+		{+thought}Sí... avui dia la mainada no té cap mena de respecte.{+endthought}
+		
+		[MADELINE left upset]
+		...de res, caram.
+
+	CH3_OSHIRO_CLUTTER2_B=
+		[MADELINE left angry]
+		Vols que t'ajudi{.3} o no?
+
+		[OSHIRO right sideworried]
+		{+thought}Ja has begut oli, {+oshiro}. T'odia.{+endthought}
+
+		[MADELINE left upset]
+		Jo{.3} no... 
+
+		[MADELINE left distracted]
+		Em sap greu. 
+
+		[MADELINE left sad]
+		El teu hotel és...  és molt bonic. Digne de ser mundialment famós.
+		M'encantaria poder quedar-me.
+
+		[OSHIRO right serious]
+		No fa falta que ho amagui, {+MS_MADELINE}.
+		Ja ho entenc.
+
+	CH3_OSHIRO_CLUTTER_ENDING=
+		{anchor bottom}
+		[OSHIRO left normal]
+		Aquí està!
+		Certament t'agrada escapolir-te.
+		
+		[MADELINE right distracted]
+		Ha estat difícil, però ja ho he arreglat tot per tu.
+		
+		[OSHIRO left normal]
+		L'Hotel Resort Celestial us agraeix{n}la vostra assistència, {+MS_MADELINE}.
+		Per descomptat, el personal ho tenia tot controlat.
+		
+		[MADELINE right upset]
+		Ah, clar. Sí.
+		
+		[OSHIRO left sideworried]
+		{+thought}Quina humiliació.{+endthought}
+		
+		[OSHIRO left worried]
+		Segur que es troba impacient per veure la seva habitació!
+
+		[OSHIRO left normal]
+		És just pujar l'ascensor al fons del passadís.
+		
+		[MADELINE right upset]
+		Segur, que dimonis. 
+		Anem a veure la suite presidencial.
+		Sona genial.
+		
+		[OSHIRO left sideworried]
+		{+thought}És la teva última oportunitat, {+oshiro}. Ara no fiquis la pota.{+endthought}
+
+	CH3_THEO_NEVER_MET=
+		[MADELINE left sad]
+		Oh ei, que vens... {0.2}de visita a aquest hotel?
+
+		{trigger 0 Theo stops trying to pry off the vent cover}
+		
+		[THEO right worried]
+		Caram, estic {~}{!}tan{/!}{/~} feliç de veure una altra persona ara mateix.
+		Aquest lloc em fa molt mala espina.
+		
+		[MADELINE left sad]
+		Definitivament alguna cosa estranya passa.
+
+		[MADELINE left normal]
+		Per cert em dic {+MADELINE}.
+		
+		[THEO right normal]
+		Oh, jo {+theo}.
+		
+		[THEO right thinking]
+		M'agraden molt els misteris,{n}però això és massa real.
+
+		{+CH3_THEO_ESCAPING}
+
+	CH3_THEO_NEVER_INTRODUCED=
+		[MADELINE left normal]
+		{+theo}! Que vens de "visita" tu també?
+
+		{trigger 0 Theo stops trying to pry off the vent cover}
+		
+		[THEO right worried]
+		Caram, estic {~}{!}tan{/!}{/~} feliç de veure una altra persona ara mateix.
+		M'agraden molt els misteris,{n}però això és massa real.
+		
+		[MADELINE left sad]
+		Definitivament alguna cosa estranya passa.
+
+		[MADELINE left normal]
+		Per cert em dic {+MADELINE}.
+		Perdona pel que ha passat abans,{n}tenia moltes coses al cap.
+
+		{+CH3_THEO_ESCAPING}
+
+	CH3_THEO_INTRO=
+		[MADELINE left normal]
+		{+theo}! Que vens de "visita" tu també?
+
+		{trigger 0 Theo stops trying to pry off the vent cover}
+		
+		[THEO right worried]
+		{+MADELINE}! Sóc {~}{!}tan{/!}{/~} feliç de veure't ara mateix.
+		M'agraden molt els misteris,{n}però això és massa real.
+
+		{+CH3_THEO_ESCAPING}
+
+	CH3_THEO_ESCAPING=
+		[MADELINE left sad]
+		Has parlat amb el {+mroshiro}?
+
+		[MADELINE left distracted]
+		Crec que li vindria bé una mica d'ajuda.
+
+		{trigger 0 Theo stops trying to pry off the vent cover}
+		
+		[THEO right wtf]
+		Tu {~}creus?{/~} 
+		És un iaio horripilant.
+		Segur que està cavant un forat{n}per amagar els nostres cossos mentre parlem.
+
+		{trigger 1 Theo goes back to prying off the vent cover}
+		
+		[THEO right worried]
+		Vaig a gatejar pel sistema de ventilació,{n}està entrant aire fred de fora.
+		Som-hi!
+		
+		[MADELINE left sad]
+		El {+mroshiro} és inquiet, però...{n}no crec que ens vulgui cap mal.
+		
+		[MADELINE left normal]
+		Només ha de netejar aquest desordre.
+		Vull ajudar-lo.
+		
+		[THEO right worried flip]
+		{+MADELINE}, això es molt bonic, però estem en perill.
+		
+		{trigger 2 Theo removes vent cover and it flies off. Theo falls down as it comes off, and gets back up}
+
+		[THEO right worried]
+		Hem de sortir d'aquí i fer venir{n}a un expert de {0.2}{*}iaios horripilants{/*}.
+		No estem preparats per això.
+		
+		[MADELINE left distracted]
+		Crec que puc raonar amb ell.
+
+		[MADELINE left normal]
+		Continua endavant, ja t'atraparé després.
+		
+		[THEO right wtf]
+		Noia, ets més tossuda que la meva germana.
+		Pensava que era impossible.
+
+		{trigger 3 Theo walks to Maddy}
+		
+		[THEO right serious]
+		Ves amb compte.
+
+		[MADELINE left normal]
+		Gràcies {+theo}. Ens veiem fora.
+
+	CH3_THEO_VENTS=
+		{anchor bottom}
+		[THEO right normal upsidedown]
+		Coi, això es com un laberint.
+		Com va amb {+elcreepo}?
+		
+		[MADELINE left sad]
+		L'he ajudat a netejar tot el desordre que hi havia,{n}però ha estat una mica maleducat.
+		
+		[MADELINE left upset]
+		I encara es pensa que em pot convèncer per quedar-me.
+		
+		[THEO right wtf upsidedown]
+		{+MADELINE}, de debó.
+		El meu detector de males idees està {~}a punt de rebentar{/~} ara mateix. 
+		Hauries de marxar.
+		
+		[MADELINE left sad]
+		Si me n'anés ara, el {+mroshiro} es desplomaria.
+		
+		[MADELINE left distracted]
+		I potser puc fer alguna{n}cosa bona.{.3} Per variar.
+		
+		[THEO right worried upsidedown]
+		Oblida't del teu {~}karma{/~}, noia.
+
+		[THEO right wtf upsidedown]
+		Jo crec que aquest paio es desplomarà passi el que passi.
+
+		[THEO right worried upsidedown]
+		Pensa una mica més en la teva seguretat.
+		
+		[MADELINE left upset]
+		{+theo}. Estaré bé.
+		
+		[THEO right thinking upsidedown]
+		Sí, sí, no esperava que em fessis cas.
+
+		[THEO right wtf upsidedown]
+		Ens veiem fora, presonera.
+
+	CH3_OSHIRO_BREAKDOWN=
+		{anchor top}
+		[OSHIRO left sideworried]
+		{+thought}Ara és l'hora {+oshiro}, l'última oportunitat.{+endthought}
+
+		{trigger 0 Oshiro paces}
+		
+		[OSHIRO right sidesuspicious]
+		{+thought}Ja l'has espifiat.{n}Fer que la visita netegi el teu propi desordre?{+endthought}
+		{+thought}Mai voldrà quedar-se.{+endthought}
+
+		{trigger 1 Oshiro paces}
+		
+		[OSHIRO left sideworried]
+		{+thought}No, ella encara es aquí. Encara tenim una oportunitat!{+endthought}
+
+		{trigger 0 Oshiro paces}
+		
+		[OSHIRO right sidehappy]
+		{+thought}La suite presidencial és la clau.{n}Segur que l'impressionarà!{+endthought}
+
+		{trigger 2 Oshiro falls to ground, spawns dust creatures}
+		
+		[OSHIRO left sideworried]
+		{+thought}Tranquilitza't, {+oshiro}!{+endthought}
+
+		{trigger 3 Enter Madeline}
+		
+		[OSHIRO left nervous]
+		Aquí està, {+MS_MADELINE}!
+		Segueixi'm ràpid! Ja gairebé hi som.
+
+	CH3_DIARY=
+		{anchor bottom}
+		És el diari personal del {+MROSHIRO}.
+		Sembla que l'última entrada és de fa dècades...
+		"A partir d'avui l'hotel tanca oficialment. La senyoreta Charlotte ha organitzat el personal per fer una excursió de comiat a la muntanya. La majoria de nosaltres mai haviem vist el cim."
+		"Semblava un comiat adequat, però quan ha arribat l'hora, no podia anar-me'n sense donar una volta una última vegada. Els he demanat que se n'vagin sense mi."
+		"Ja els atraparé més tard, després de{n}comprovar que tot està en ordre..."
+		"No em puc creure que el meu{n}temps aquí s'hagi acabat.{n}Què faré ara?"
+		"Potser em quedaré una última nit, així{n}puc acomiadar-me com cal de l'hotel..."
+
+	CH3_OSHIRO_SUITE=
+		{anchor bottom}
+		[OSHIRO left normal]
+		Aquí la tenim, la nostra premiada suite presidencial!
+
+		[OSHIRO left worried]
+		Certament, és la viva definició de luxe rústic.
+
+		[OSHIRO left normal]
+		Em faré a un costat i així podrà admirar la seva majestuositat.
+		Entenc que pot ser molt aclaparador.
+
+		{trigger 3 Madeline walks around the room and looks around}
+		
+		[OSHIRO right nervous]
+		I bé? Que en penses?
+		
+		[MADELINE left sad]
+		És... em, molt bonica.
+		Els mobles semblen molt cars...
+
+		[MADELINE left distracted]
+		I també... és molt gran.
+
+		[MADELINE left sad]
+		Els colors són elegants.
+
+		[MADELINE left normal]
+		Es pot veure tot l'esforç que has fet.
+
+		[OSHIRO right worried]
+		{*}Sabia que t'impressionaria!{/*}
+
+		[MADELINE left sad]
+		I tant.
+
+		[MADELINE left distracted]
+		...
+		I bé, puc enfilar-me a la taulada des d'aquí?
+		
+		[OSHIRO right sideworried]
+		{+thought}Burro, més que burro, l'estàs perdent!{+endthought}
+		
+		[OSHIRO right nervous]
+		Ah emm, se m'oblidava mencionar... 
+		Els convidats de primera com vostè poden{n}gaudir de les nostres millors habitacions a meitat de preu!
+		
+		[MADELINE left sad]
+		Jo... no vull quedar-me.
+
+		{trigger 0 Badeline appears in the mirror}
+		
+		[OSHIRO right serious]
+		Si us plau, {+MS_MADELINE}.
+		Si us plau, quedis.
+		
+		[MADELINE left upset]
+		{+mroshiro}, ja m'he desviat durant massa estona...
+
+		{trigger 1 Badeline escapes the mirror}
+		
+		[BADELINE right normal]
+		{+MADELINE}, estimada, oblida't d'aquest perdedor.
+		
+		[OSHIRO left serious]
+		Perdedor? {silent_trigger 6}
+		
+		[BADELINE right upset]
+		Estàs negant l'evident, iaio. 
+		Aquest resort és una {*}{!}porqueria{/!}{/*}{0.3}.
+
+		[BADELINE right yell]
+		Ningú es voldria quedar aquí {*}{!}mai{/!}{/*} de la vida.
+		
+		[BADELINE right scoff]
+		Perdoneu, però algú ho havia de dir.
+
+		{trigger 4 Madeline steps closer to Oshiro}
+		
+		[MADELINE left sad]
+		Ella no vol dir això.
+		
+		[OSHIRO right serious]
+		Jo... 
+
+		[OSHIRO right lostcontrol]
+		Estic molt enfeinat.
+		Si us plau marxi, {+MS_MADELINE}. {silent_trigger 5 Madeline jumps back}
+		
+		[BADELINE right upset]
+		Som-hi {~}{+MS_MADELINE}{/~}, ja l'has sentit.
+
+		{trigger 2 Badeline blasts a hole in the ceiling}
+		
+		[BADELINE left normal]
+		On estaries sense mi?
+
+	CH3_OSHIRO_SUITE_SAD0=
+		{anchor bottom}
+		[OSHIRO right sideworried]
+		{+thought}Per què li ha dit al meu meravellós hotel "porqueria"?{+endthought}
+
+	CH3_OSHIRO_SUITE_SAD1=
+		{anchor bottom}
+		[OSHIRO right sidesuspicious]
+		{+thought}Com gosa insultar-te d'aquesta manera.{+endthought}
+
+	CH3_OSHIRO_SUITE_SAD2=
+		{anchor bottom}
+		[OSHIRO right sideworried]
+		{+thought}I si té raó?{+endthought}
+
+	CH3_OSHIRO_SUITE_SAD3=
+		{anchor bottom}
+		[OSHIRO right sidesuspicious]
+		{+thought}És clar que té raó.{n}No has pogut ni netejar sense la seva ajuda.{+endthought}
+
+	CH3_OSHIRO_SUITE_SAD4=
+		{anchor bottom}
+		[OSHIRO right lostcontrol]
+		{+thought}Ho he intentat. M'estic esforçant tant com puc.{+endthought}
+
+	CH3_OSHIRO_SUITE_SAD5=
+		{anchor bottom}
+		[OSHIRO right serious]
+		{+thought}La {+MS_MADELINE} només volia ajudar!{+endthought}
+
+	CH3_OSHIRO_SUITE_SAD6=
+		{anchor bottom}
+		[OSHIRO right sideworried]
+		{+thought}Però per què ha sigut tan cruel?{+endthought}
+
+	CH3_OSHIRO_START_CHASE=
+		[BADELINE left normal]
+		Pensava que no ens desfaríem mai d'ell.
+		Me'n deus una. 
+
+		[BADELINE left scoff]
+		Afegeix-la a la llista.
+		
+		[MADELINE right upset]
+		Deixa'm en pau.
+
+		{trigger 0 Maddy walks away}
+		
+		[BADELINE left upset]
+		Però pensava que tenies {~}taaaantes{/~}{n}ganes de seguir escalant.
+
+		[BADELINE left scoff]
+		I de cop i volta et tornes la terapeuta d'un sonat?
+
+		{trigger 1 Maddy turns around}
+		
+		[MADELINE right angry]
+		Per què no marxes?
+
+		{trigger 2 Oshiro enters}
+		
+		[OSHIRO left serious]
+		{+MS_MADELINE}, abans que se'n vagi...
+		Vull fer-li una pregunta...
+		
+		[OSHIRO left serious]
+		Com és que ha sigut tan amable, per acabar fugint?
+		Què he fet malament?
+		
+		[BADELINE right scoff]
+		Oh, no li doni tantes voltes. Encara no ho entén?
+
+		[BADELINE right upset]
+		Ella només ajuda a la gent per alimentar el seu ego retorçat.
+		
+		[BADELINE right yell]
+		{*}Mai{/*} li has importat, gens ni mica.
+		
+		[MADELINE right angry]
+		Calla! 
+		
+		[MADELINE right sad]
+		Només volia ajudar.
+		
+		[BADELINE right scoff]
+		Tots dos sou patètics.
+
+		{trigger 3 Badeline disappears, Oshiro gets angry}
+
+		[OSHIRO left lostcontrol]
+		Patètic!?
+		Només has vingut per humiliar-me...
+		No penso seguir deixant-me arrossegar!
+
+	CH3_OSHIRO_CHASE_END=
+		{anchor top}
+		[MADELINE right surprised]
+		{+mroshiro}, pari!
+
+		{trigger 0 Oshiro slams the roof below their feet and it begins shaking}
+		
+		[MADELINE right surprised]
+		Només volia ajudar!
+
+	CH3_ENDING=
+		[OSHIRO left serious]
+		...
+		He decidit tancar l'hotel per fer reparacions.
+		Al segon pis hi han goteres...
+		...la biblioteca està feta un fàstic...
+		...per no mencionar el forat al{n}sostre de la suite presidencial.
+
+		{trigger 0 Turn and pause, turn back}
+
+		[OSHIRO left serious]
+		Si us plau, deixi'm sol.
+
+# *** Chapter 04 ***
+
+	CH4_GRANNY_1=
+		[MADELINE left upset]
+		Genial, tu un altre cop.
+
+		{trigger 3 zoom in}
+		
+		[GRANNY right normal]
+		Alça! No esperava veure't per aquí!
+		M'alegro de veure que encara estàs sencera.
+		I veig que has aconseguit travessar l'hotel,{n}has conegut el {+mroshiro}?
+
+		{trigger 4 maddy turns around}
+		
+		[MADELINE left upset flip]
+		Oh, i tant que l'he conegut.
+		M'ha fet fora a patades.
+		Després de netejar-li tot l'hotel.
+
+		{trigger 0 Start Laughing}
+		
+		[GRANNY right laugh]
+		Oh ho ho, això sona entretingut.
+
+		{trigger 1 Stop Laughing}
+		
+		[GRANNY right normal]
+		L'{+oshiro} és un cas com un cabàs, noieta.
+		Per ell aquell lloc és més que només un hotel.
+		No facis que sigui el teu projecte personal.
+
+		{trigger 5 maddy approaches}
+		
+		[MADELINE left angry]
+		Saps què penso jo?
+		Penso que aquesta {+mountain} us ha tornat ben bojos.
+
+		{trigger 2 Wait a beat}
+		
+		[GRANNY right normal]
+		Doncs no ets la primera que m'ho diu.
+
+		{trigger 0 Start Laughing}
+		
+		[GRANNY right laugh]
+		Potser tens raó.
+		Com podria saber-ho si estigués boja?
+
+		{trigger 1 Stop Laughing}
+		
+		[GRANNY right normal]
+		Jo penso que la {+mountain} no pot treure{n}res que no estigués dintre teu des d'un principi.
+
+		{trigger 0 Start Laughing}
+		
+		[GRANNY right laugh]
+		Però has d'estar com un llum per{n}viure aquí de bon començament, oi?
+
+		{trigger 2 Wait a beat}
+		
+		[MADELINE left upset]
+		No sé ni què carai m'estàs explicant.
+
+		{trigger 1 Stop Laughing}
+		
+		[GRANNY right mock]
+		Oh, només divago com la iaia boja que sóc.
+
+		[GRANNY right normal]
+		Estàs llesta per rendir-te?{n}Conec una drecera per tornar de pressa al teu cotxe.
+
+		{trigger 6 Maddy walks past granny}
+		 
+		[MADELINE right upset flip]
+		Ni parlar-ne, senyora.
+		Vaig de cap al cim.
+		
+		[GRANNY left normal flip]
+		De vegades costa de veure la diferència entre{n}tossuderia i determinació, no creus?
+		Sembles jo quan era jove.
+
+		{trigger 0 Start Laughing}
+
+		[GRANNY left laugh flip]
+		Bona sort, i ves amb compte amb el vent!
+
+	CH4_GRANNY_2=
+		[MADELINE left upset]
+		No reps gaires visites aquí, oi?
+
+		[GRANNY right normal]
+		No, no gaires.
+		Però no em molesta la solitud.
+
+		[MADELINE left distracted]
+		De vegades penso que hauria de viure sola jo també.
+
+		[MADELINE left sad]
+		M'estava esforçant molt per fer raonar al {+mroshiro}.{n}Volia ajudar-lo.
+
+		[GRANNY right normal]
+		L'{+OSHIRO} necessita passar pàgina i oblidar-se de l'hotel.
+		Però això no ha de passar per la teva planificació.
+		I tampoc ajuda gens el fet que vulguis demostrar cap cosa.
+
+		[MADELINE left distracted]
+		...
+
+	CH4_GRANNY_3=
+		[MADELINE left sad]
+		No et sents sola en aquesta cabana?
+
+		[GRANNY right normal]
+		Tinc amics, noieta.
+
+		[GRANNY right mock]
+		Potser sóc boja, però no soc una ermitana.
+
+		[MADELINE left distracted]
+		Perdoni.
+		No volia pressuposar res.
+
+		[GRANNY right normal]
+		Quan era més jove no podia ni imaginar{n}quedar-me en un lloc tant de temps.
+		I aleshores vaig trobar aquesta {+MOUNTAIN}.
+		De seguida vaig entendre que seria casa meva.
+
+		[MADELINE left sad]
+		I què té d'especial?
+
+		[GRANNY right normal]
+		La {+MOUNTAIN} et fa veure com ets realment.
+		Tant si estàs preparada com si no.
+		Em manté honesta.
+
+	CH4_GONDOLA=
+		{anchor top}
+		[UNKNOWN]
+		{+MADELINE}! Espera!
+
+		{trigger 0 Enter Theo from above, he falls and lands on the ground face-down}
+		
+		[THEO left nailedit]
+		{%}{*}J u g a d a  M e s t r a .{/*}{/%}
+
+		{trigger 1 Check on Theo}
+		
+		[MADELINE right sad]
+		{+theo}! Et trobes bé?
+		
+		[THEO left nailedit]
+		Uf. Sí. 
+		Dóna'm uns segons.
+
+		{trigger 2 Theo gets up}
+		
+		[THEO left excited]
+		Una góndola! Sempre he volgut muntar-me en una.
+		
+		[MADELINE right sad]
+		Sembla bastant vella, però potser encara funciona.
+		
+		[MADELINE right distracted]
+		No veig cap altre camí per creuar aquest abisme.
+		
+		[THEO left excited]
+		Som-hi!
+
+		{trigger 3 Look at Lever}
+		
+		[THEO right normal]
+		Aquesta palanca sembla important.
+
+		{trigger 4 Pull Lever}
+		
+		[THEO right normal]
+		Bufar i fer ampolles.
+
+		[THEO right thinking]
+		Segurament operava góndoles en la meva vida passada.
+
+		[MADELINE left distracted]
+		Creus que aquesta cosa és segura?
+
+		[THEO right normal]
+		Segur que sí.
+
+		{trigger 5 Wait a bit}
+
+		[THEO right normal]
+		Com t'ha anat amb  l'{+oshiro}?
+
+		[MADELINE left sad]
+		Tenies raó.
+
+		[MADELINE left distracted]
+		No hauria d'haver tractat d'ajudar-lo.
+
+		[THEO right thinking]
+		Em molesta dir-te que ja et vaig avisar, però...
+
+		[MADELINE left upset]
+		Ja, ja ho sé...
+		T'hauria d'haver fet cas.
+
+		[THEO right normal]
+		No t'has fet cap mal i això és el que importa.
+		
+		{trigger 5 Wait a bit}
+		
+		[MADELINE left sad]
+		Aquí dalt l'aire és menys dens.
+
+		[MADELINE left distracted]
+		Amb prou feines puc respirar.
+
+		{trigger 6 Wait for gondola to reach center}
+		
+		[THEO right excited flip]
+		Molt bé, si no ens fem una selfie en{n}aquest trasto, ens en penedirem.
+
+		[MADELINE left distracted flip]
+		Ni tan sols puc veure el sòl amb aquesta boira...
+		A quina alçada estem?
+
+		[THEO right thinking flip]
+		Prou de pànic, hora de posar.
+
+		{trigger 7 Seflie, then gondola stalls out and badeline appears}
+		{anchor bottom}
+		
+		[MADELINE left surprised]
+		Què ha sigut això?
+		
+		[THEO right wtf flip]
+		Hah. Sembla que ens hem aturat.
+
+		{trigger 8 Madeline moves left}
+		
+		[MADELINE left sad]
+		Això no pinta bé...
+
+		[THEO right wtf]
+		Potser si faig...
+
+		{trigger 9 lever snaps off}
+		
+		[THEO right worried]
+		Bé, no pinta bé no.
+
+		{trigger 10 tentacles appear}
+		
+		[MADELINE left panic]
+		No, i tant que no.
+
+		{trigger 11 tentacles grow}
+		
+		[THEO right worried]
+		{+MADELINE}, et trobes bé?
+
+		[MADELINE left panic]
+		Sí... només...
+
+		{trigger 12 Maddy can't breathe}
+
+		[MADELINE left panic]
+		No, no em trobo bé.
+		No puc respirar.
+		
+		[THEO right serious]
+		Estàs patint un atac de pànic.
+
+		[MADELINE left angry]
+		Per què carai has pensat que seria bona{n}idea muntar-nos en aquesta andròmina?
+
+		[THEO right thinking]
+		Va, no em culpis.
+
+		[THEO right serious]
+		Para atenció.
+		El meu avi em va ensenyar una tècnica per aquestes situacions.
+		Tanca els ulls.
+
+		{trigger 13 Play breathing minigame}
+		
+		[THEO right normal]
+		Veus? Bufar i fer ampolles.
+
+		{trigger 14 Gondola continues to the end station}
+
+		{anchor top}
+		
+		[THEO left normal]
+		Et trobes millor?
+		
+		[MADELINE right distracted flip]
+		Crec que sí. Gràcies per ajudar-me a calmar-me.
+
+		{trigger 15 Wait a bit}
+		
+		[MADELINE right sad flip]
+		Com sabies que ens tornaríem a moure?
+		
+		[THEO left normal]
+		Oh, no tenia ni idea.
+
+		{trigger 16 Theo takes out phone}
+		
+		[THEO left excited]
+		Mare. De. Déu.
+		{silent_trigger 17 Maddy faces theo}
+		Mira quina selfie!
+
+	CH4_GONDOLA_FEATHER_1=
+		Imagina't una ploma surant per l'aire davant teu.
+
+	CH4_GONDOLA_FEATHER_2=
+		La veus?
+
+	CH4_GONDOLA_FEATHER_3=
+		Molt bé.
+	
+	CH4_GONDOLA_FEATHER_4=	
+		La teva respiració manté la ploma surant per l'aire.
+
+	CH4_GONDOLA_FEATHER_5=
+		Respira lentament, inspira, expira.
+
+# *** Chapter 05 ***
+
+	CH5_ENTRANCE=
+		[THEO right excited flip]
+		Caram, mira aquest lloc!
+		No desperta el teu esperit aventurer?
+
+		{trigger 0 Maddy turns right}
+
+		[MADELINE left sad]
+		Uh, no sabria que dir-te. 
+		No s'hi veu gaire amb tanta foscor.
+
+		[MADELINE left distracted]
+		Sembla més aviat un malson i no pas una aventura.
+
+		{trigger 1 Theo turns left}
+		
+		[THEO right normal]
+		Només donaré un cop d'ull, unes quantes fotos.
+
+		{trigger 1 Theo turns right}
+
+		[THEO right excited flip]
+		Aquest lloc ha de ser molt antic!
+
+		[MADELINE left sad]
+		{+THEO}, espera.
+		
+		[THEO right excited flip]
+		Als meus seguidors d'{# FFFF4C}InstaPix{#} els encantarà.
+
+		{trigger 2 Theo leaves}
+		
+		[MADELINE left distracted]
+		Això... no pinta bé.
+
+	CH5_PHONE=
+		[MADELINE left sad]
+		Oh oh.
+
+		{trigger 0 Maddy walks to phone, ducks to pick it up}
+
+		[MADELINE left distracted]
+		Aquest és el mòbil d'en {+THEO}...
+
+		{trigger 1 Maddy stands back up}
+
+		[MADELINE left determinedclosed]
+		No t'espantis, {+MADELINE}.
+		Potser només li ha caigut.
+		Li tornaré quan el trobi.
+
+	CH5_THEO_MIRROR=
+		[MADELINE left normal]
+		{+theo}! Aquí estàs!
+		
+		[THEO_MIRROR right excited]
+		{+MADELINE}! Ei!
+		
+		[THEO_MIRROR right wtf]
+		...emm, per què ets dins d'un mirall?
+		
+		[MADELINE left sad]
+		Estic bastant segura que tu ets el que està en un mirall.
+		Què ha passat?
+		
+		[THEO_MIRROR right wtf]
+		Bé, m'estava fent una selfie tranquil·lament...
+		Ja saps, {~}{# aaaaaa}"Aquí en {+THEO}{# aaaaaa} en un{n}temple antic, res gaire particular."{#}{/~}
+
+		[THEO_MIRROR right thinking]
+		{# ffff9b}\#beneït{#}
+		
+		[THEO_MIRROR right serious]
+		I de cop i volta em desperto tirat per terra.
+		
+		[MADELINE left sad]
+		Que veus a l'altre banda?
+		Com puc trobar-te?
+		
+		[THEO_MIRROR right serious]
+		És, uh... molt fosc i estrany. Hi ha...
+		
+		[THEO_MIRROR right wtf]
+		Espera, s'acosta alguna cosa.
+		Em fa l'efecte que hauré de tocar el dos.
+		
+		[THEO_MIRROR right serious]
+		Ves amb compte, entesos?
+
+	CH5_SHADOW_MADDY_0=
+		[MADELINE left angry]
+		{*}Ei!{/*} On som?
+		{!}Què has fet amb en {+theo}?{/!}
+		
+		[BADELINE right scoff]
+		Creus que {~}jo{/~} estic fent això?
+		Oix, que bufona.
+		
+		[BADELINE right upset]
+		Estimada, això és exactament del que et vaig advertir.
+		
+	CH5_SHADOW_MADDY_1=
+		[MADELINE left angry]
+		No tractis de fer veure que es culpa meva.
+
+		[BADELINE right scoff]
+		Encara no ho entens?
+
+		[BADELINE right upset]
+		La {+mountain} m'ha atorgat aquest cos.
+
+		[BADELINE right scoff]
+		Però no sóc l'única {*}cosa esgarrifosa{/*} que viu{n}dins d'aquest caparró que tens.
+
+		[BADELINE right normal]
+		No t'agrada el que veus?
+
+		[BADELINE right scoff]
+		{~}Quina sorpresa.{/~}
+		
+		[MADELINE left angry]
+		Calla!
+
+		[BADELINE right angry]
+		He {~}intentat{/~} aturar-te.
+
+		[BADELINE right yell]
+		Mira't al mirall, tot això és culpa teva.
+
+		[BADELINE right angry]
+		Aquest temple només amplifica el poder de la {+mountain}.
+
+		[BADELINE right upset]
+		Tu ets la que te el control, jo no.
+
+	CH5_SHADOW_MADDY_2=
+		[MADELINE left sad]
+		No et crec.
+
+		[MADELINE left distracted]
+		Si ets {+PART_OF_ME}, per què vols fer-me mal?
+
+		[BADELINE right angry]
+		Pobre {+MADELINE}, {~}sempre és la victima.{/~}
+
+		[BADELINE right yell]
+		L'únic que faig és fer de mainadera teva, i m'odies per fer-ho.
+
+		[BADELINE right angry]
+		Ets incorregible i ho saps. 
+
+		[MADELINE left angry]
+		Si tant t'importa protegir-me,{n}per què carai no em vas {*}explicar{/*} el que passa?
+		
+		[BADELINE right angry]
+		I m'hauries fet cas?
+		Ni em vas donar l'oportunitat.
+
+	CH5_SHADOW_MADDY_3=
+		[MADELINE left panic]
+		Si us plau, ajuda'm a sortir d'aquí.
+
+		[BADELINE right scoff]
+		{~}Ara{/~} vols que et salvi?
+
+		[MADELINE left panic]
+		Per què dius això?
+		Només vull que em facis costat.
+		Si us plau.
+
+		[BADELINE right angry]
+		Deixa de fer-me sentir com un monstre.
+		{~}De veritat{/~} vols saber per què no t'ajudaré?
+
+		[BADELINE right yell]
+		Perquè {*}et mereixes{/*} això.
+
+		[MADELINE left panic]
+		...
+
+		[BADELINE right angry]
+		Encara creus que pots {~}escalar aquesta {+MOUNTAIN}?{/~}
+
+		[MADELINE left angry]
+		{*}CALLA!{/*}
+
+		{trigger 0 Badeline Leaves}
+
+		[MADELINE left angry]
+		{*}No necessito la teva ajuda.{/*}
+		Faré això pel meu compte.
+
+	CH5_REFLECTION=
+		[MADELINE right sad]
+		Si tot això surt del meu cap, per què és tan hostil?
+		
+		[MADELINE right distracted]
+		Aquestes {*}coses{/*} volen fer-me mal.
+		Sóc una forastera al meu propi món.
+
+		{trigger 0 Madeline falls to knees}
+		
+		[MADELINE right panic]
+		En {+theo} està atrapat en algun lloc d'aquí per culpa meva.
+		Potser si em rendeixo totalment, el temple deixarà que se'n vagi...
+
+		{trigger 1 Madeline stops panicking}
+
+		[MADELINE_MIRROR left determinedclosed flip]
+		...
+		Respira.
+		
+		[MADELINE_MIRROR left determined flip]
+		Tot això ve de dintre meu.
+		Aixeca't, {+MADELINE}.
+
+		{trigger 2 Madeline gets up}
+
+		[MADELINE_MIRROR left determinedclosed flip]
+		Pensa en la ploma.
+		Pots salvar en {+theo}.
+
+	CH5_SEE_THEO=
+		[MADELINE left normal]
+		{+theo}! Gràcies a Dèu t'he trobat.
+		
+		[THEO right excited]
+		{+MADELINE}! Caram, sóc tan feliç de veure't.
+
+		{trigger 0 zoom in}
+
+		[MADELINE left sad]
+		Estàs bé?
+		
+		[THEO right serious]
+		Sí, estic bé. 	
+
+		[THEO right thinking]
+		Porto atrapat en aquesta... cosa de cristall una bona estona.
+
+		[THEO right wtf]
+		No et dóna la sensació que aquest lloc{n}et coneix millor que tu mateix?
+		
+		[MADELINE left distracted]
+		Sí...
+		Estic molt avergonyida, no volia{n}que veiessis aquesta part meva.
+
+		[MADELINE left upset]
+		He intentat aturar-te.
+		Espero que la selfie valgués la pena.
+
+		[THEO right yolo]
+		Les selfies sempre valen la pena, noia.
+
+		[MADELINE left distracted]
+		No m'hauria d'enfadar, no es culpa teva.
+
+		[MADELINE left sad]
+		M'alegra que estiguis bé, però{n}estàs atrapat per culpa meva.
+
+		{trigger 1 Madeline turns around}
+
+		[MADELINE left distracted flip]
+		I ara aquest temple t'està ensenyant{n}com sóc realment.
+		Sóc horrible...
+
+		{trigger 2 wait a bit}
+
+		[THEO right thinking]
+		Ei, estem junts en aquest embolic.
+
+		[THEO right wtf]
+		No facis com si tot fós culpa teva.
+
+		{trigger 3 Madeline turns back, zoom out, room gets brighter}
+
+		[MADELINE left sad]
+		Què vols dir?
+
+		[THEO right wtf]
+		No m'has atrapat en aquest cristall.
+		Sí, aquests monstres surten del teu cap,{n}però el temple també està reflectint com sóc jo.
+
+		[THEO right worried]
+		Puc {*}sentir-ho{/*}.
+		Tots aquests {~}ulls{/~} mirant-me fixament...
+
+		[THEO right wtf]
+		I aquest cristall surt de mi, n'estic segur.
+
+		[THEO right serious]
+		No m'agrada demanar, però ara mateix necessito la teva ajuda.
+
+		{trigger 0 zoom back in}
+
+		[MADELINE left sad]
+		...
+		
+		[MADELINE left distracted]
+		Entesos.
+
+		[MADELINE left normal]
+		Compta amb mi.
+		Et treuré d'aquesta cosa i escaparem junts.
+
+		[MADELINE left sad]
+		Tan bon punt com trobi el camí a on ets...
+		
+		[THEO right serious]
+		{+MADELINE}, ets la meva unica esperança.
+		Confio en tu, de veritat.
+
+		[MADELINE left distracted]
+		Espero que no vagis errat.
+
+	CH5_SEE_THEO_B=
+		[MADELINE left distracted]
+		Si el temple m'està ensenyant com sóc realment...
+
+		[MADELINE left sad]
+		...aleshores mereixo que em passi això, no?
+
+		[THEO right wtf]
+		{+ALEX}, has de deixar de martiritzar-te tant.
+
+		[MADELINE left sad]
+		...
+		Qui és {+ALEX}?
+
+		[THEO right thinking]
+		Perdona, volia dir {+MADELINE}.
+
+		[THEO right wtf]
+		Però continuo pensant el mateix.
+		Ningú es mereix això, i tu encara menys.
+
+		[MADELINE left sad]
+		Sí... tens raó.
+
+		[MADELINE left determinedclosed]
+		Som-hi, puc fer-ho.
+
+	CH5_FOUND_THEO=
+		[MADELINE left normal]
+		{+theo}! Per fi t'he trobat.
+		
+		[THEO right excited]
+		Sabia que ho aconseguiries!
+
+		[MADELINE left sad]
+		No ha estat senzill...
+
+		[MADELINE left distracted]
+		De debó tots aquests monstres surten del meu interior?
+		
+		[THEO right thinking]
+		{+MADELINE}, molt bona pregunta.
+		Estaria encantat de discutir com els{n}monstres es relacionen amb el teu jo interior...
+
+		[THEO right wtf]
+		Però ara mateix, el {~}meu{/~} jo interior està{n}fart d'aquest maleït cristall.
+		
+		[MADELINE left sad]
+		Ah, cert.
+
+		[MADELINE left normal]
+		No et preocupis, aconseguiré treure't del cristall!
+
+		{trigger 0 Attempt to break the crystal, but it just falls to the ground}
+		
+		[THEO right thinking]
+		Bé, és un bon començament, però...
+		
+		[THEO right wtf]
+		Aquest cristall és com una mena d'expressió de la meva energia psíquica negativa... o el que sigui.
+
+		[MADELINE left sad]
+		Sí, però com el trenquem?
+
+		[THEO right serious]
+		Si sabés {~}per què{/~} m'he atrapat en{n}aquesta cosa, potser podria sorir.
+
+		[THEO right wtf]
+		Però no tinc ni idea.
+
+		[THEO right thinking]
+		I no crec que pugui arribar al final del tema{n}mentre estiguem atrapats en aquesta dimensió de malson.
+		
+		[THEO right serious]
+		No m'agrada dir-ho, però potser hauràs de-
+		
+		[MADELINE left angry]
+		{+theo}, ni se t'ocorri dir això!
+		{*}No penso{/*} deixar-te enrere!
+		
+		[THEO right worried]
+		{~}I ara{/~}, més et val no deixar-me aquí!
+
+		[THEO right thinking]
+		Anava a dir-te que potser hauràs de portar-me.
+		
+		[MADELINE left sad]
+		Oh.
+		
+		[MADELINE left normal]
+		Sí, això puc fer-ho.
+
+	CH5_THEO_SAVING_LIFT=
+		[THEO left thinking]
+		Caram noia, sí que tens força.
+
+	CH5_THEO_SAVING_A=
+		[THEO left excited]
+		{~}Molt bé{/~}, ho pots aconseguir!
+
+	CH5_THEO_SAVING_NICE=
+		[THEO left thinking]
+		Apostoflant! Aquella porta no tenia cap oportunitat.
+
+	CH5_THEO_SAVING_B=
+		[THEO left worried]
+		Oh oh... espero que sàpigues tractar amb aquestes coses.
+
+	CH5_THEO_SAVING_C=
+		[THEO left worried]
+		Un altre!? Carai...
+
+	CH5_THEO_SAVING_SWITCH=
+		[THEO left thinking]
+		{+theo} salva el dia un altre cop.
+
+	CH5_THEO_SAVING_DUNK=
+		[THEO left nailedit]
+		Estic ajudant.
+
+	CH5_THEO_SAVING_REALLY=
+		[THEO left thinking]
+		Va, ara només presumeixes.
+
+	CH5_THEO_SAVING_D=
+		[THEO left excited]
+		Som a prop, ho pressento.
+
+	CH5_THEO_SAVING_E=
+		[THEO left worried]
+		Va, una mica més. Som-hi {+MADELINE}!
+
+	CH5_BSIDE_THEO_A=
+		[THEO left excited]
+		És la remescla del temple, amb la presència del gran {+MIXMASTER_THEO}!
+
+	CH5_BSIDE_THEO_B=
+		[THEO left wtf]
+		Això no és canònic, oi?
+
+	CH5_BSIDE_THEO_C=
+		[THEO left wtf]
+		Emm, això és clarament impossible.
+
+# *** Chapter 06 ***
+
+	CH6_THEO_INTRO=
+		[MADELINE right normal]
+		{+theo}, t'has despertat!
+
+		[THEO left thinking]
+		De debó? No sabria que dir-te...
+
+		[THEO left wtf]
+		He tingut un malson molt {~}pertorbador{/~}.
+		
+		[MADELINE right distracted]
+		Sí, d'això...
+
+		[THEO left wtf]
+		Espera...
+
+		[THEO left thinking]
+		Oh, síp, ara em torna a venir tot al cap.
+
+		[THEO left wtf]
+		Era tot real.
+
+		[THEO left serious]
+		Gràcies per treure'ns d'allà.
+
+		[MADELINE right distracted]
+		Encara sort que estàvem junts.
+
+		[MADELINE right sad]
+		No sé si ho hauria pogut fer sola.
+
+	CH6_THEO_ASK_OUTFOR=
+		[THEO left thinking]
+		Quanta estona dec haver estat desmaiat?
+	CH6_THEO_SAY_OUTFOR=
+		[THEO left thinking]
+		Quanta estona dec haver estat desmaiat?
+
+		[MADELINE right sad]
+		Com a mínim unes quantes hores...
+
+		[THEO left serious]
+		Noia, quin viatge.
+
+		[MADELINE right upset]
+		I tant.
+
+		[MADELINE right sad]
+		Et trobes bé?
+
+		[THEO left thinking]
+		Bé, a part de la crisi existencial?
+
+		[THEO left wtf]
+		Sí, estic bé.
+
+	CH6_THEO_ASK_EXPLAIN=
+		[THEO left wtf]
+		Què passa realment aquí?
+	CH6_THEO_SAY_EXPLAIN=
+		[THEO left wtf]
+		Clarament això no és una {+MOUNTAIN} normal.
+		Què passa realment aquí?
+
+		[MADELINE right sad]
+		Hauria d'haver-t'ho dit abans.
+
+		[MADELINE right distracted]
+		A les ruïnes antigues, una...{n}{+PART_OF_ME} es va escapar d'un mirall.
+		Una part de la que no estic gaire orgullosa.
+
+		[MADELINE right upset]
+		Juraria que ho vaig somiar.
+
+		[THEO left serious]
+		Creus que la {+MOUNTAIN} l'ha fet real?
+
+		[MADELINE right distracted]
+		Sí.
+		Porta perseguint-me des d'aleshores.
+
+		[MADELINE right sad]
+		Va arremetre contra el {+MROSHIRO}.
+
+		[MADELINE right distracted]
+		I crec que va ser culpa seva que la góndola es parés.
+
+		[MADELINE right sad]
+		També estava allà, al temple.
+
+		[THEO left worried]
+		...
+		I per què no vas dir res?
+		No hauria entrat en aquell temple si hagues{n}sabut el que la {+MOUNTAIN} pot fer...
+
+		[MADELINE right upset]		
+		Vaig intentar aturar-te.	
+		
+		[THEO left wtf]
+		Podries haver mencionat que el teu {n}{+ST_BAD}doble fantasmagòric{+END_BAD} voltava lliure.
+			
+		[MADELINE right upset]
+		Va, {+THEO}.
+		Ja saps lo boig que sembla això.
+
+		[MADELINE right distracted]
+		No m'ho creia ni jo mateixa.
+
+		[THEO left wtf]
+		Ja, ja.
+		T'entenc.
+
+		[THEO left thinking]
+		Però la pròxima vegada només {0.3}explica-m'ho.
+		Prometo que et creuré.
+
+		[MADELINE right distracted]
+		Entesos.
+
+	CH6_THEO_ASK_THANKYOU=
+		[MADELINE right distracted]
+		Gràcies per creure en mi abans.
+	CH6_THEO_SAY_THANKYOU=
+		[MADELINE right distracted]
+		Gràcies, {+THEO}.
+		...vull dir, per creure en mi abans.
+
+		[THEO left wtf]
+		Creure en tu era la part senzilla.
+
+		[THEO left thinking]
+		M'hauria agradat ajudar.
+
+		[THEO left wtf]
+		Era bastant inútil, atrapat en aquella cosa.
+
+		[MADELINE right sad]
+		En realitat vas ajudar molt.
+
+		[MADELINE right distracted]
+		Honestament, no ho hauria pogut fer sense el teu suport.
+
+	CH6_THEO_ASK_TRUST=
+		[MADELINE right distracted] 
+		Per què t'és tan fàcil confiar en mi?
+	CH6_THEO_SAY_TRUST=
+		[MADELINE right distracted] 
+		Per què t'és tan fàcil confiar en mi?
+
+		[MADELINE right sad]
+		De debò, si gairebé no em coneixes.
+
+		[THEO left normal]
+		Honestament?
+		Em recordes a la meva germana.
+
+		[MADELINE right normal]
+		Oix, aixó es adorable. 
+		I com és?
+
+		[THEO left excited]
+		Oh, et cauria genial!
+
+		[THEO left wtf]
+		Ara que, potser no us portaríeu gaire bé al principi...
+
+		[THEO left thinking]
+		Però acabaries estimant-la molt.
+
+		[THEO left excited]
+		És {~}literalment{/~} una estrella del rock.
+
+		[MADELINE right normal]
+		És música?
+		Això és genial!
+
+		[THEO left thinking]
+		Bé, no és {~}literalment{/~} una literal estrella del rock.
+
+		[THEO left normal]
+		L'{+ALEX} és diguem-ne... extraordinària en tot.
+		Ara estudia per ser advocada en drets civils.
+
+		[MADELINE right normal]
+		Apa!
+
+		[MADELINE right distracted]
+		I com et recordo a ella?
+
+		[THEO left wtf]
+		Ambdues viviu molt endinsades al vostre cap.
+
+		[MADELINE right distracted]
+		Oh...
+
+		[THEO left thinking]
+		L'{+ALEX} té una brúixola interna increïble.
+
+		[THEO left normal]
+		És obvi que arribarà allà on ha de ser.
+		També ho puc veure amb tu.
+
+		[THEO left wtf]
+		Desitjaria poder dir el mateix de mi.
+		
+	CH6_THEO_ASK_WHY=
+		[MADELINE right distracted]
+		La teva germana sembla genial. De veritat et recordo a ella?
+	CH6_THEO_SAY_WHY=
+		[MADELINE right distracted]
+		La teva germana sembla genial. De veritat et recordo a ella?
+
+		[THEO left thinking]
+		Estàs de broma?
+
+		[THEO left excited]
+		Tu ets la que està {~}completament decidida{/~}{n}a escalar aquesta {+MOUNTAIN}.
+
+		[THEO left thinking]
+		I a sobre {~}{>> .3}no tens ni idea de per què ho vols fer.{>>}{/~}
+
+		[THEO left excited]
+		Típic de l'{+ALEX}.
+
+		[MADELINE right distracted]
+		...
+
+		[THEO left thinking]
+		Només faig broma.
+
+		[THEO left normal]
+		De tota manera, per què {~}estàs{/~} escalant la {+MOUNTAIN}?
+
+		[MADELINE right distracted]
+		Tens raó, no tinc ni idea.
+
+		[MADELINE right sad]
+		Senzillament{0.4} havia de sortir del meu {*}cap.{/*}
+		Estic clavada en un cicle.
+
+		[THEO left normal]
+		A mi m'ho diràs.
+		He tingut molts dies de feina destrossadors.
+
+		[MADELINE right sad]
+		Bé la feina no importa gaire, només és...
+
+		[MADELINE right distracted]
+		...
+
+		[MADELINE right upset]
+		M'estic tornant boja.
+		No puc parar de pensar sobre{n}coses estúpides que no importen.
+
+		[MADELINE right sad]
+		La meva ment es fixa en {.4}{>> .3}{*}tonteries{/*}{>>}{.4}{n}que van passar fa la tira d'anys.
+
+		[MADELINE right angry]
+		Hauria d'haver-les {*}superat.{/*} 
+		{*}Cap ni una importen ara{/*}
+
+		{trigger 0 Wait a bit}
+
+		[MADELINE right distracted]
+		...
+		Sé mantenir les aparences, però la veritat{n}és que amb prou feines faig vida.
+
+		[THEO left worried]
+		Em sap greu, això és una cosa molt dura.
+		Puc ajudar-te?
+
+		[MADELINE right sad]
+		Ja estàs ajudant.
+		És bo dir-ho en veu alta.
+
+		[THEO left wtf]
+		No parles amb ningú al respecte?
+
+		[MADELINE right distracted]
+		No... no realment.
+
+		[MADELINE right sad]
+		La meva mare sap que em deprimeixo,{n}i que tinc atacs de pànic.
+
+		[MADELINE right distracted]
+		Això i prou.
+
+		[THEO left thinking]
+		No és estrany que et sentis atrapada.
+		
+		[THEO left wtf]
+		Com t'afrontes a... tot?
+
+		[MADELINE right upset]
+		Majoritàriament amb la beguda.
+		I enfadant-me amb gent a internet.
+
+	CH6_THEO_ASK_DEPRESSION=
+		[THEO left serious]
+		T'importaria parlar de com és la depressió?
+	CH6_THEO_SAY_DEPRESSION=
+		[THEO left serious]
+		T'importaria parlar de com és la depressió?
+
+		[MADELINE right distracted]
+		...
+
+		[MADELINE right upset]
+		És una merda.
+
+		[THEO left wtf]
+		Sí, però com se {~}sent?{/~}
+
+		[THEO left serious]
+		L'{+ALEX} també lluita amb la depressió.{n}Vull entendre-la de debó.
+
+		[THEO left normal]
+		Podem parlar d'alguna altra cosa si vols.
+
+		[MADELINE right distracted]
+		...
+		És com...
+
+		[MADELINE right sad]
+		Com si estigués al fons del mar.
+		No veig res enlloc.
+
+		[MADELINE right distracted]
+		És claustrofòbic, però em sento exposada.
+		...
+
+		{trigger 0 Wait a bit}
+
+		[MADELINE right sad]
+		Recordo quan em sentia normal.
+		Però ara se sent fora del meu{n}abast, sense importar el que provi.
+		
+		[MADELINE right distracted]
+		Tot i que, segurament sempre vaig ser així.
+		Només feia falta alguna cosa dolenta per fer-ho sortir.
+
+		[MADELINE right upset]
+		Sento com si alguna cosa dins meu estigués malament.
+
+		[THEO left serious]
+		Sigui el que sigui el que va passar,{n}estic segur que no va ser culpa teva.
+
+		{trigger 0 Wait a bit}
+
+		[MADELINE right sad]
+		Suposo que vaig pensar que podria...
+
+		[MADELINE right distracted]
+		No sé.
+		Em sento flotant en un abisme,{n}nedant en direccions aleatòries.
+
+		[MADELINE right sad]
+		Desitjant trobar {*}alguna cosa.{/*}
+
+		[MADELINE right distracted]
+		I per això sóc aquí.
+		...
+		Però no puc escapar de mi mateixa.
+
+		[MADELINE right upset]
+		Literalment {*}lluito contra mi{/*} tota l'estona.
+
+		[MADELINE right distracted]
+		Potser això és inútil.
+
+		{trigger 0 Wait a bit}
+
+		[THEO left serious]
+		{+MADELINE}, tot {~}just{/~} fa no res que m'has salvat la vida.
+
+		[THEO left wtf]
+		Això no és inútil.
+
+		[MADELINE right distracted]
+		Ja...
+
+		{trigger 0 Wait a bit}
+
+		[THEO left wtf]
+		Mira, ets una bona persona.
+
+		[THEO left thinking]
+		Una mica intensa, però ets una {~}bona persona.{/~}
+
+		[THEO left wtf]
+		Penso que només intentes sortir{n}d'aquest entrebanc de la teva vida.
+
+		[THEO left excited]
+		I això és un motiu totalment legítim per pujar la {+MOUNTAIN}!
+
+		[MADELINE right distracted]
+		Pot ser.
+
+		[MADELINE right sad]
+		Això és... útil.
+
+		{trigger 0 Wait a bit}
+
+		[THEO left normal]
+		Aquesta {+PART_OF_YOU} que et persegueix,{n}potser ve amb el terreny.
+
+		[MADELINE right upset]
+		O sigui que creus que no me'n podré desfer mai d'ella?
+
+		[THEO left normal]
+		Bé, i ella no es podrà desfer de tu.
+
+		[MADELINE right upset]
+		Això {*}no{/*} és útil.
+
+	CH6_THEO_ASK_DEFENSE=
+		[THEO left wtf]
+		O sigui que vols destruir aquesta {+PART_OF_YOU}?
+	CH6_THEO_SAY_DEFENSE=
+		[THEO left wtf]
+		O sigui que vols destruir aquesta {+PART_OF_YOU}?
+		No et faria mal a tu també?
+
+		[MADELINE right sad]
+		Si no ho faig no pararà de perseguir-me.
+
+		[MADELINE right upset]
+		Ella diu que em protegeix,{n}però això és òbviament mentida.
+
+		[THEO left normal]
+		Pot ser que ella s'ho pensi de debò.
+		Podria ser alguna mena de...{n}mecanisme de defensa retorçat.
+		
+		[MADELINE right upset]
+		Honestament, a qui l'importa?
+		Té tant de control sobre mi.
+		Quina rabia.
+
+		[THEO left wtf]
+		Potser pots aprendre a controlar-la tu a ella.
+
+		[MADELINE right distracted]
+		La ploma ajuda molt.
+
+		[MADELINE right sad]
+		Gràcies per ensenyar-m'ho.
+
+		[THEO left thinking]
+		Només és un dels molts consells savis del meu avi.
+
+	CH6_THEO_ASK_VACATION=
+		[THEO left thinking]
+		I per què no prens unes vacances en comptes d'això?
+	CH6_THEO_SAY_VACATION=
+		[THEO left thinking]
+		I per què no prens unes vacances en comptes d'això?
+
+		[MADELINE right sad]
+		Que vols dir?
+
+		[THEO left normal]
+		Noia, necessitaves un canvi{n}i vas escollir {>> .2}escalar una {+MOUNTAIN}{>>}...
+
+		[THEO left thinking]
+		Per què no faries alguna cosa més relaxant?
+
+		[THEO left wtf]
+		Anar a Hawaii, o {0.3}prendre un bany.
+
+		[MADELINE right sad]
+		...
+		Suposo que sento la necessitat d'aconseguir alguna cosa.
+
+		[THEO left wtf]
+		Sembla que ja tens prou per fer.
+
+		[MADELINE right distracted]
+		Suposo que és una mica extrem.
+		Però així és com sóc.
+		Necessito alguna mena de repte.
+
+		[MADELINE right sad]
+		I no puc fer només una cosa petita.
+		Ha de ser o tot o res.
+
+	CH6_THEO_ASK_FAMILY=
+		[MADELINE right normal]
+		Què et va portar a la {+MOUNTAIN}?
+	CH6_THEO_SAY_FAMILY=
+		[MADELINE right normal]
+		I tu?
+		Què et va portar a la {+MOUNTAIN}?
+
+		[THEO left normal]
+		Només estic donant una volta, més o menys.
+		
+		[THEO left thinking]
+		Com de costum.
+
+		[THEO left normal]
+		Vaig començar una nova feina a Seattle.
+		Pensava que {~}finalment{/~} sabia el que{n}volia fer amb la meva vida...
+
+		[THEO left wtf]
+		Però l'odiava.
+
+		[THEO left thinking]
+		O sigui que després d'una setmana vaig deixar la feina i vaig agafar un bus directe a Canada.
+
+		[THEO left wtf]
+		Vaig sentir aquesta urgència de...{n}perdre’m enmig del no-res.
+		...
+		Ara que ho dic en veu alta,{n}m'adono de com sona de burro.
+
+		[MADELINE right sad]
+		Sembla que estàs sota molta pressió.
+
+		[THEO left thinking]
+		No realment.
+		Tothom és molt pacient amb mi.
+
+		[THEO left serious]
+		Tot i que suposo que m'estic posant{n}sota molta pressió {~}pel meu propi compte.{/~}
+
+		[THEO left wtf]
+		La gent sempre es pensa que em comparo amb{n}l'{+ALEX},però {~}t'ho juro{/~} aquest no és el problema.
+		Senzillament em preocupa no{n}arribar a saber mai cap on vaig.
+		
+		[MADELINE right distracted]
+		Però acabes de dir que volies perdre't...
+
+		[MADELINE right normal]		
+		Ara per ara potser hauries d'acceptar-ho d'aquesta manera.
+
+		[THEO left serious]
+		Potser.
+
+	CH6_THEO_ASK_GRANDPA=
+		[MADELINE right normal]
+		Tens una relació estreta amb el teu avi?
+	CH6_THEO_SAY_GRANDPA=
+		[MADELINE right normal]
+		Tens una relació estreta amb el teu avi?
+
+		[THEO left serious]
+		Sí... la tenia.
+
+		[MADELINE right distracted]
+		Oh... em sap greu.
+
+		[THEO left serious]
+		Tant se val. D'aigua passada, molí no en mol.
+
+		[MADELINE right distracted]
+		...
+
+		[THEO left wtf]
+		Tot el que puc fer és mantenir-me positiu.
+
+		[THEO left serious]
+		I viure una vida significativa,{n}això és el que ell hauria volgut.
+
+		{trigger 0 Wait a bit}
+
+		[MADELINE right sad]
+		Em sap molt de greu, {+THEO}.
+
+		[THEO left serious]
+		Gràcies.
+
+	CH6_THEO_ASK_TIPS=
+		[MADELINE right normal]
+		Què més vas aprendre del teu avi?
+	CH6_THEO_SAY_TIPS=
+		[MADELINE right normal]
+		Què més vas aprendre del teu avi?
+
+		[THEO left excited]
+		Un munt de coses!
+
+		[THEO left normal]
+		De fet, va ser ell qui em va{n}parlar sobre la {+CELESTE_MOUNTAIN}.
+		Sempre deia que aquest lloc li va canviar la vida.
+
+		[THEO left thinking]
+		Després de deixar la feina a Seattle,{n}vaig adonar-me de com estava de prop.
+		Era com si m'estigués donant el senyal de venir aquí.
+
+		[THEO left wtf]
+		L'avi va dir que la {+MOUNTAIN} era {~}"especial."{/~}
+
+		[MADELINE right sad]
+		Creus que va passar pel temple com nosaltres?
+
+		[MADELINE right normal]
+		Creus que va descobrir{n}el poder de la {+MOUNTAIN}?
+		
+		[THEO left thinking]
+		Mai va explicar-me el que va passar-li aquí.
+
+		[MADELINE right distracted]
+		Dubto que el teu avi fós tan retorçat com jo...
+
+		[MADELINE right sad]
+		Probablement va tenir una experiència menys... violenta.
+
+		[THEO left wtf]
+		Va trobar la {+MOUNTAIN} abans que jo nasqués.
+		I no sé com era abans d'això.
+
+		[THEO left serious]
+		Em pregunto què va aprendre de si mateix aquí...
+
+	CH6_THEO_ASK_TEMPLE=
+		[THEO left wtf]
+		Qui creus que va construir el temple?
+	CH6_THEO_SAY_TEMPLE=
+		[THEO left wtf]
+		Qui creus que va construir el temple?
+
+		[MADELINE right sad]
+		Sembla molt antic...
+		Ha de precedir tota la resta d'edificis a la {+MOUNTAIN}.{n}L'hotel, les ruïnes, la ciutat...
+
+		[THEO left serious]
+		Aquí hi ha molta història.
+
+		[MADELINE right distracted]
+		Oi tant. 
+		Aquesta {+MOUNTAIN} ha significat{n}tantes coses per a molta gent.
+
+		[MADELINE right normal]
+		Començo a entendre perquè{n}aquella àvia boja viu aquí.
+
+		[THEO left excited]
+		També has topat amb ella?
+
+		[THEO left thinking]
+		Què li deu passar?
+
+		[MADELINE right upset]
+		Crec que senzillament és mesquina.
+
+		[MADELINE right distracted]
+		...però sembla contenta vivint aquí.
+
+	CH6_THEO_ASK_SELFIE=
+		[MADELINE right normal]
+		Vull recordar aquesta nit...
+	CH6_THEO_SAY_SELFIE=
+		[MADELINE right normal]
+		Saps què?
+		Vull recordar aquesta nit...
+		Fem-nos una selfie!
+
+		[THEO left normal]
+		Pensava que no m'ho demanaries mai.
+
+		{trigger 1 selfie sequence}
+
+		[MADELINE right normal]
+		Saps, malgrat tot el que ha passat,{n}em sento força bé ara mateix.
+
+		[THEO left wtf]
+		Espera un segon...
+
+		[THEO left excited]
+		Arribaràs al cim just demà!
+
+		[MADELINE right upset]
+		Toca ferro!
+
+		[MADELINE right distracted]
+		...sí, ja tinc ganes.
+
+		[MADELINE right normal]
+		Estic llesta per deixar tot això enrere.
+
+		[THEO left normal]
+		T'estaré animant.
+		Hauríem d'anar a dormir.
+
+		[MADELINE right normal]
+		Molt bé, bona nit, {+THEO}.
+
+		[MADELINE right distracted]
+		Gràcies per... ser tan genial.
+
+		[THEO left thinking]
+		Què puc dir? Ho faig de manera natural.
+
+	CH6_THEO_ASK_SLEEP=
+		[MADELINE right distracted]
+		Hauria de dormir.
+	CH6_THEO_SAY_SLEEP=
+		[MADELINE right distracted]
+		Hauria de dormir.
+
+		[THEO left thinking]
+		Oh, segur que no vols seguir parlant?
+
+		[THEO left normal]
+		Jo també estic cansat, però encara podem parlar de moltes coses.
+
+	CH6_THEO_ASK_SLEEP_CONFIRM=
+		[MADELINE right sad]
+		Sí, em sap greu, estic molt cansada.
+	CH6_THEO_SAY_SLEEP_CONFIRM=
+		[MADELINE right sad]
+		Sí, em sap greu, estic molt cansada.
+
+		{+CH6_THEO_SAY_SELFIE}
+
+	CH6_THEO_ASK_SLEEP_CANCEL=
+		[MADELINE right normal]
+		Tens raó, puc dormir més tard.
+	CH6_THEO_SAY_SLEEP_CANCEL=
+		[MADELINE right sad]
+		Tens raó, puc dormir més tard.
+
+	CH6_DREAMING=
+		[MADELINE left normal]
+		L'aurora boreal és tan bonica.
+
+		[BADELINE right worried]
+		Sí... sí que és bonica...
+		...
+
+		[BADELINE right worriedAlt]
+		On som?
+
+		[MADELINE left sad]
+		Hem de parlar.
+
+		[BADELINE right worried]
+		...d'acord.
+
+		[MADELINE left distracted]
+		Per fi entenc qui ets.
+
+		[MADELINE left sad]
+		No ets la meva veritable reflexió.
+
+		[BADELINE right worriedAlt]
+		...No ho sóc?
+
+		[MADELINE left sad]
+		Ets tot el que he de deixar enrere.
+		Ets cruel, paranoica, controladora...
+
+		[BADELINE right worriedAlt]
+		Per què dius això?
+
+		[MADELINE left normal]
+		No, està bé!
+		Ara ho entenc.
+		Ja no et necessito.
+
+		[BADELINE right worried]
+		Llavors... m'estàs abandonant?
+
+		[MADELINE left sad]
+		T'estic alliberant.
+
+		[MADELINE left normal]
+		Totes dues serem molt més felices.
+
+		[BADELINE right worried]
+		Ets tan...
+
+		[BADELINE right sad]
+		tan...
+
+		[BADELINE right freakA pop]
+		{silent_trigger 0 Tentacles Appear}
+		...tan estúpida!
+
+		[BADELINE right freakB pop]
+		{silent_trigger 0 Tentacles Appear More}
+		Creus que pots {~}deixar-me enrere?{/~}
+		{silent_trigger 0 Tentacles Appear moooore}
+		Creus que pots culpar-me de tot?
+		{silent_trigger 0 Tentacles Appear EVEN MORE}
+		Creus que estàs {~}per sobre{/~} de mi!?
+
+		[BADELINE right freakC pop]
+		{silent_trigger 1 Tentacles grab Madeline}
+		{!}{*}RESPON!{/*}{/!}
+
+		[MADELINE left panic]
+		Tranquil·litza't, si us plau...
+
+		{trigger 4 start circling the player}
+		[BADELINE right freakC_cont]
+		{!}{*}Que em tranquil·litzi!?{/*}{/!}
+
+		[MADELINE left determinedclosed]
+		Respira, {+MADELINE}.
+		Fes servir la ploma.
+
+		{trigger 2 Feather minigame}
+
+		[BADELINE right freakBAlt]
+		Faràs servir {~}una ploma{/~} per aturar-me?
+
+		{trigger 3 Destroy feather minigame}
+
+		[BADELINE right freakBAlt]
+		No estàs {*}per sobre de mi.{/*}
+		I {*}no pots{/*} escalar aquesta {+MOUNTAIN}.
+
+		[BADELINE right freakCAlt pop]
+		És hora d'acceptar-ho.
+
+	CH6_THEO_WATCHOUT=
+		[THEO left worried]
+		{+MADELINE}, que està passant!?
+
+	CH6_REFLECT_AFTER=
+		[MADELINE left sad]
+		Estava tan a prop.
+
+		[MADELINE left panic]
+		Ara s'ha acabat.
+		Per què no em deixa en pau?
+
+		[MADELINE left angry]
+		{*}L'odio.{/*}
+		...
+
+		[MADELINE left distracted]
+		...
+		Però és {+PART_OF_ME}.
+		Mai me'n podré desfer.
+
+		[MADELINE left sad]
+		I tenia raó.
+		No he pogut escalar la {+MOUNTAIN}.
+
+	CH6_OLDLADY=
+		[GRANNY right normal]
+		Oh, hola, un altre cop.
+
+		[MADELINE left upset]
+		Per descomptat, havies d'estar aquí.
+
+		{trigger 0 Zoom in}
+
+		[GRANNY right mock]
+		Veig que retreus l'espasa.
+		
+		[MADELINE left upset]
+		No, he caigut.
+		S'ha acabat.
+
+		[GRANNY right normal]
+		Probablement això sigui del millor.
+		La {+MOUNTAIN} és tossuda com una mula.
+
+		[MADELINE left upset]
+		Ja, ja ho entenc. 
+		No era prou forta per escalar la teva estúpida {+MOUNTAIN}.
+
+		[MADELINE left distracted]
+		Pots tornar a riure de mi si vols.
+
+		{trigger 1 Start laughing}
+		
+		[MADELINE left upset]
+		No volia dir que riguessis literalment...
+
+		{trigger 2 Stop laughing}
+		
+		[GRANNY right normal]
+		A vegades has de saber quan tirar la tovallola.
+		Ho superaràs.
+
+		{trigger 3 Maddy walks right}
+		
+		[MADELINE left angry]
+		Saps que?
+		He tingut molt temps per pensar,{n}mentre escalava per sortir...	
+		I ja ho he {*}superat.{/*}
+
+		{trigger 4 Maddy walks left}
+
+		[MADELINE left upset flip]
+		Aquesta {0.4}{+PART_OF_ME}{0.4} tenia raó, no ho puc fer.
+
+		[MADELINE left panic flip]
+		Simplement... aniré a casa i tornaré a{n}la meva trista i {.4}miserable vida.
+
+		{trigger 5 Wait a bit}
+		
+		[GRANNY right normal]
+		Clarament no ho has superat.
+
+		{trigger 6 Maddy turns right}
+		
+		[MADELINE left upset]
+		Calla, ja ho sé.
+
+		[MADELINE left distracted]
+		No vull rendir-me...
+		Però per molt que m'hi esforci, ella{n}em saboteja constantment.
+		
+		[GRANNY right normal]
+		Molts nens venen aquí per escalar{n}la {+mountain}, i acaben per rendir-se.
+		És una llàstima que caiguessis,{n}ja començava a pensar que ho aconseguiries.
+
+		[MADELINE left sad]
+		Què em fa tan especial?
+
+		[GRANNY right normal]
+		Mai havia conegut algú tan enfadat amb si mateix.
+
+		{trigger 1 Start lauging}
+
+		[GRANNY right laugh]
+		Honestament, pensava que arribaries{n}al cim només per fer-te fotre.
+
+		[MADELINE left upset]
+		Carai, gràcies.
+
+		{trigger 2 Stop laughing}
+
+		[GRANNY right normal]
+		Aquesta noia de qui parles,{n}sembla que t'està aturant.
+		Parla amb ella.
+		Esbrina per què té tanta por.
+		
+		[MADELINE left sad]
+		Creus que ella té... por?
+
+		[MADELINE left distracted]
+		Bé, no ho havia vist d'aquesta manera.
+		
+		[GRANNY right normal]
+		Deixa de malgastar el nostre temps i {~}pregunta-li.{/~}
+		Què pots de perdre?
+
+	CH6_OLDLADY_B=
+		[MADELINE left sad]
+		No sé com trobar-la...
+
+		[GRANNY right normal]
+		Bé, és {+PART_OF_YOU}, oi?
+		Si busques no trigarà a aparèixer.
+
+		[MADELINE left upset]
+		...o sigui que coneixies el poder de la {+MOUNTAIN}.
+
+		[GRANNY right normal]
+		Oi tant que el conec, visc aquí.
+		Vaig intentat advertir-te.
+
+		[MADELINE left upset]
+		Has de millorar la teva manera de comunicar informació.
+
+		[GRANNY right normal]
+		Una ullada a la veritat és bona per la gent.
+		Fins i tot quan la majoria no la poden acceptar.
+		No tinguis vergonya de tornar{n}al teu cotxe i tocar el dos.
+		Algun dia estaràs preparada,{n}aleshores tornaràs.
+
+		[MADELINE left distracted]
+		...
+		No.
+
+		[MADELINE left sad]
+		Aniré fins al final.
+		Prou de fugir.
+
+		[GRANNY right normal]
+		Ja m'ho imaginava.
+		Bona sort.
+
+	CH6_OLDLADY_C=
+		[MADELINE left sad]
+		Com pots suportar viure aquí?
+		No és difícil tractar amb això a totes hores?
+
+		[GRANNY right normal]
+		És veritat, mai t'acostumes del tot.
+		Però em manté alerta.
+		I això m'agrada.
+
+		[MADELINE left sad]
+		Però la {+MOUNTAIN} és tan... problemàtica.
+
+		[GRANNY right normal]
+		Oi tant, no se'n va per les branques precisament.
+		La {+CELESTE_MOUNTAIN} és un lloc per guarir ferides, noieta.
+		I el primer pas per guarir{n}és enfrontar-se al problema.
+		Mai és fàcil.
+
+		[MADELINE left upset]
+		A mi m'ho diràs.
+
+	CH6_BOSS_START=
+		[BADELINE right angry flip]
+		Em buscaves?
+		Pensava que volies abandonar-me.
+
+		[MADELINE left sad]
+		Allò ha sigut un error.
+		Em sap greu.
+
+		[BADELINE right scoff flip]
+		Et penses que ho tens {~}tot controlat.{/~}
+
+		[BADELINE right angry flip]
+		Penses que no em necessites.
+		
+		[MADELINE left upset]
+		Ja t'he dit que em sap greu.
+
+		[MADELINE left sad]
+		Hem de girar full.
+
+		{trigger 0 Badeline floats, zooms in}
+
+		[BADELINE right yell]
+		I esperes que confiï en tu?
+
+		[MADELINE left angry]
+		Bé, tampoc ets innocent tu eh.
+		...
+
+		[MADELINE left determinedclosed]
+		Però sé que tens por.
+		
+		{trigger 1 Maddy steps forward}
+		
+		[MADELINE left sad]
+		Mira, hem tocat fons.
+		No té cap sentit seguir lluitant.
+
+		[BADELINE right scoff]
+		Però puc seguir cavant.
+
+		[BADELINE right angry]
+		Podria portar-nos al centre de la terra.
+
+		[MADELINE left sad]
+		I quin sentit tindria?
+
+		[MADELINE left together]
+		{s 4}Hem d'escalar fora d'aquí {.6}[MADELINE left togetherZoom]juntes.
+		
+		[BADELINE right yell]
+		Toca'm un pèl i faré que te'n penedeixis!
+
+	CH6_BOSS_TIRED_A=
+		[BADELINE right angry]
+		Et vaig fer un favor.
+
+	CH6_BOSS_TIRED_B=
+		[BADELINE right yell]
+		No ets cap {*}escaladora.{/*}
+
+	CH6_BOSS_TIRED_C=
+		[BADELINE right yell]
+		{*}Només intento ajudar-te!{/*}
+
+	CH6_BOSS_MIDDLE=
+		[BADELINE right yell]
+		No hauria passat {*}res d'això{/*}{n}si m'haguessis {*}fet cas!{/*}
+
+	CH6_BOSS_ENDING=
+		[BADELINE right sigh flip]
+		D'acord.
+		Has guanyat.
+
+		{silent_trigger 0 Music starts}
+
+		[BADELINE right worried flip]
+		Suposo que al cap i a la fi no em necessites.
+
+		[BADELINE right worriedAlt flip]
+		Si vols que me'n vagi, ho intentaré.
+		
+		[MADELINE left distracted]
+		No és això el que vull.
+		Ara necessito la teva ajuda més que mai.
+
+		[MADELINE left sad]
+		Si us plau. Fem-ho juntes.
+
+		[BADELINE right worried flip]
+		Juntes?
+
+		[BADELINE right worriedAlt flip]
+		Estàs de broma, oi?
+
+		{trigger 1 Madeline puts hand on Badeline}
+
+		[MADELINE left sad]
+		No passa res per tenir por.
+
+		{trigger 2 Badeline calms down}
+
+		[BADELINE right worried flip]
+		...
+
+	CH6_ENDING=
+		[MADELINE left surprised]
+		Com hem fet això?
+
+		[MADELINE left normal]
+		Si escalem d'aquesta manera, potser{n}tenim una oportunitat d'arribar al cim!
+		
+		[BADELINE right worriedAlt]
+		Encara vols escalar la {+MOUNTAIN}?
+
+		[BADELINE right worried]
+		Per què carai hauríem de tornar allà dalt?
+
+		{trigger 0 Old Lady enters right}
+
+		[GRANNY right normal]
+		És bo veure que us porteu bé entre vosaltres.
+
+		[MADELINE left sad]
+		Ei, gràcies per fer-me venir la raó abans.
+
+		[GRANNY right normal]
+		I ara, noia.
+		M'alegra poder fer-me útil de tant en tant.
+
+		{portrait none}
+		{*}{+MADELINE}!!!{/*}
+
+		{trigger 1 Theo enters left}
+		
+		[THEO left worried]
+		{+MADELINE}! Estàs bé!
+
+		[THEO left wtf]
+		He vingut a correcuita, però veig que et trobes bé.
+		
+		[MADELINE right normal]
+		Gràcies, {+THEO}.
+
+		[MADELINE right distracted]
+		Sincerament, potser necessitava caure.
+		
+		{trigger 8 theo stops being tired}
+		[THEO left wtf]
+		És aquesta la {+PART_OF_YOU} de la qual parlaves?
+
+		[THEO left excited]
+		És com una {+MADELINE} bufona i gòtica!
+
+		[BADELINE right angry]
+		Hola.
+
+		[MADELINE right sad]
+		Tenies raó, {+THEO}.
+		No li he de tenir gens de por.
+
+		[MADELINE right normal]
+		Si treballem juntes, estic segura{n}que podrem acabar la pujada.
+
+		[THEO left excited]
+		Això és genial!
+
+		[BADELINE right angry]
+		Espera, {0.4}{*}no{/*}.
+
+		[BADELINE right worried]
+		...jo no he acceptat res d'això.
+
+		{trigger 2 Madeline turns to the right}
+
+		[BADELINE right worriedAlt]
+		Vas dir que primer ho discutiríem.
+
+		[MADELINE left sad]
+		Tens raó.
+		Entenc que tinguis por
+		
+		[MADELINE left distracted]
+		Però totes dues sabem que això és una cosa que volem fer.
+
+		[MADELINE left normal]
+		Ho hem de provar una última vegada.
+
+		{trigger 7 Theo raises fist}
+
+		[THEO left yolo]
+		I tant! Ho aconseguireu!
+		
+		[BADELINE right worried]
+		No sé...
+
+		[BADELINE right worriedAlt]
+		Estàvem tan a prop, i aleshores vam... caure...
+
+		[BADELINE right worried]
+		La {+MOUNTAIN} ens ha destrossat.
+
+		[MADELINE left upset]
+		Sí, és veritat.
+
+		[MADELINE left sad]
+		Però estic segura que podem girar full.
+		He de creure que ho podem fer.
+
+		{trigger 5 Wait a bit}
+
+		[GRANNY right normal]
+		No és una mala idea.
+
+		{trigger 3 badeline turns right}
+
+		[GRANNY right normal]
+		Tingueu en compte que serà difícil.
+		Però em sorprèn que hàgeu arribat tan lluny{n}barallant-vos entre vosaltres.
+		Crec que cooperant ho aconseguireu.
+
+		[BADELINE right worried flip]
+		...
+
+		{trigger 4 badeline turns left}
+
+		[BADELINE right worriedAlt]
+		D'acord. 
+
+		[BADELINE right worried]
+		Ho intentaré.
+
+		{trigger 5 Wait a bit}
+
+		[THEO left normal]
+		Puc ajudar?
+
+		{trigger 6 Madeline turns to the left}
+
+		[MADELINE right distracted]
+		Ja has fet molt per mi.
+
+		[THEO left wtf]
+		Deixa que almenys et porti la motxilla.
+
+		[MADELINE right normal]
+		Bona pensada.
+
+		[MADELINE right determined]
+		{>> 0.2}Això no trigarà gaire.{>>}
+
+# *** Chapter 07 ***
+
+	CH7_HEIGHT_START=Nivell del sòl
+	CH7_HEIGHT_0={X} M
+ 	CH7_HEIGHT_1={X} M
+	CH7_HEIGHT_2={X} M
+	CH7_HEIGHT_3={X} M
+	CH7_HEIGHT_4={X} M
+	CH7_HEIGHT_5={X} M
+
+	# Mountain Base -> Forsaken City
+	CH7_ASCEND_0=
+		[MADELINE left normal]
+		Veig que ja hem pres el corrent d'això.
+
+		[BADELINE right upset]
+		Si tu ho dius...
+
+		[MADELINE left determined]
+		Aquesta muntanya no té cap possibilitat.
+
+		[BADELINE right worried]
+		Toca ferro.
+
+	# Forsaken City -> Old Site
+	CH7_ASCEND_1=
+		[MADELINE left normal]
+		Com et sents?
+
+		[BADELINE right upset]
+		Estic bé.
+
+		[BADELINE right worried]
+		Només estic {0.4}esperant que alguna cosa vagi malament.
+
+		[MADELINE left sad]
+		Passi el que passi,{n}et faré costat.
+
+		[BADELINE right worried]
+		Saps que fa por de debò?
+		
+		[BADELINE right upset]
+		Estic començant a creure't.
+
+	# Old Site -> Celestial Resort
+	CH7_ASCEND_2=
+		[BADELINE right normal]
+		Bona feina.
+
+		[MADELINE left surprised]
+		Apa!
+
+		[MADELINE left normal]
+		Aquí tenim la {+ST_BAD}Senyoreta Positivitat{+END_BAD}.
+
+		[MADELINE left determined]
+		Ets tan solidària.
+
+		[BADELINE right angry]
+		Tampoc et passis.
+		
+	# Celestial Resort -> Cliffside
+	CH7_ASCEND_3=
+		[MADELINE left distracted]
+		Espero que el {+MROSHIRO} estigui bé.
+
+		[BADELINE right angry]
+		Per què? No et va tractar bé.
+
+		[MADELINE left sad]
+		Sí, però tot i això encara em preocupa.
+		
+		[MADELINE left upset]
+		I no hauries d'haver-lo tractat tan malament com vas fer.
+
+		[BADELINE right angry]
+		Tant se val.
+
+		[MADELINE left sad]
+		T'ho dic de debò. Ets massa agressiva.
+
+		[BADELINE right angry]
+		Doncs {~}tu{/~} gastes massa temps amb gent{n}dolenta que acabaran per fer-te mal.
+
+		[MADELINE left distracted]
+		El {+MROSHIRO} no és una mala persona...
+
+		[BADELINE right yell]
+		Es va transformar en un {*}monstre!{/*}
+		Va intentar fer-te {*}mal{/*}!
+
+		[BADELINE right worriedAlt]
+		I ara el defenses?
+
+		[MADELINE left distracted]
+		No el defenso...
+
+		[MADELINE left sad]
+		En això estem d'acord.{n}Jo també estic enfadada amb ell.
+		Potser encara seguiria a l'hotel{n}si no haguessis forçat la situació.
+
+		[MADELINE left distracted]
+		...tot i això encara desitjo que estigui bé.
+
+		[BADELINE right worried]
+		...
+
+		[BADELINE right worriedAlt]
+		D'acord...
+		...em sap greu...
+
+		[BADELINE right worried]
+		...haver tractat malament el {+MROSHIRO}.
+
+		[MADELINE left distracted]
+		Gràcies. 
+		
+		[MADELINE left sad]
+		Ara ja és cosa del passat.
+		
+	# Cliffside -> Temple
+	CH7_ASCEND_4=
+		[MADELINE left surprised]
+		Uf, ens ha anat d'un pèl!
+
+		[BADELINE right worried]
+		I tant, em pensava que no ho aconseguiríem.
+
+		[MADELINE left distracted]
+		Potser tenies raó.
+
+		[MADELINE left sad]
+		Potser si que {~}és{/~} massa perillós.
+
+		[BADELINE right worried]
+		...
+
+		[BADELINE right angry]
+		{*}No.{/*}
+		No tenia raó.
+		Podem escalar la {+MOUNTAIN}.
+
+		[BADELINE right normal]
+		Et faré costat...
+
+		[BADELINE right worried]
+		...i també...
+
+		[BADELINE right worriedAlt]
+		...confio en tu.
+
+		[MADELINE left sad]
+		Això significa molt per mi.
+		
+	# Temple -> Summit
+	CH7_ASCEND_5=
+		[MADELINE left determined]
+		Ja gairebé hi som, només queda la recta final.
+
+		[MADELINE left normal]
+		Som tan a prop.{n}Ho aconseguirem!
+
+		[BADELINE right worriedAlt]
+		Sí...
+
+		[BADELINE right worried]
+		...
+
+		[MADELINE left sad]
+		Que passa?
+
+		[BADELINE right worried]
+		...només...
+		...
+
+		[BADELINE right worriedAlt]
+		...em sap greu. 
+		T'estava endarrerint.
+
+		[BADELINE right worried]
+		He d'aprendre a confiar més en tu.
+
+		[MADELINE left distracted]
+		No és culpa teva.
+		Vaig intentar deixar-te enrere.
+		Honestament, ho he intentat{n}durant tota la meva vida.
+
+		[MADELINE left sad]
+		{~}Jo...{/~} em sap greu.
+		M'hauria agradat haver intentat comprendre't abans.
+		Era massa orgullosa, o tossuda, o {*}alguna cosa.{/*}
+
+		[BADELINE right worriedAlt]
+		Hem malgastat tant de temps i energia.
+
+		[BADELINE right worried]
+		...
+
+		[BADELINE right worriedAlt]
+		Almenys finalment en parlem.
+
+		[MADELINE left sad]
+		Sí...
+
+		[MADELINE left normal]
+		Estic contenta que la {+MOUNTAIN} et materialitzés.
+		Crec que podem superar això.
+		Si podem escalar la {+MOUNTAIN} juntes,{n}aleshores podem fer qualsevol cosa.
+		
+		[BADELINE right worried]
+		I si no ho aconseguim?
+
+		[MADELINE left normal]
+		No m'importaria gaire.
+
+		[BADELINE right worriedAlt]
+		Ah no?
+
+		[MADELINE left sad]
+		És clar.
+		
+		[MADELINE left normal]
+		Ja m'alegra suficient intentar-ho.
+
+		[MADELINE left sad]
+		Realment necessitava fer això.
+		
+		[BADELINE right upset]
+		Per fi començo a entendre per què.
+
+		[BADELINE right normal]
+		Som-hi.
+
+	CH7_ENDING=
+		[BADELINE left normal]
+		Ho hem aconseguit.
+		No m'ho puc creure!
+
+		[MADELINE right surprised flip]
+		Apa! És tan bonic!
+		
+		[MADELINE right normal flip]
+		Mira com de lluny som!
+
+		{trigger 1 Madeline sits down}
+
+		[BADELINE left normal]
+		Estic contenta d'haver pogut veure això abans de...
+
+		[BADELINE left worriedAlt]
+		Bé, abans de...
+
+		[MADELINE right distracted flip]
+		Ah, cert.
+
+		[MADELINE right sad flip]
+		Quan surti de la {+MOUNTAIN}, no{n}podràs parlar amb mi...
+		Almenys no així.
+
+		[BADELINE left worried]
+		Sí.
+
+		[BADELINE left upset]
+		Sé que hem de tornar a casa eventualment.
+		Però tot i això fa por perdre aquest cos.
+
+		{trigger 2 Badeline moves beside Maddy as camera begins panning right}
+
+		[MADELINE left sad]
+		Però encara existiràs.
+		Eres {+PART_OF_ME} abans de venir aquí.
+
+		[BADELINE left upset]
+		Sí, ho sé.
+		Però hauré de dependre en què m'escoltis.
+
+		[BADELINE left worried]
+		...fins i tot sense poder parlar-te en persona.
+
+		[BADELINE left worriedAlt]
+		És... difícil tornar a com tot era abans.
+		Abans de la {+MOUNTAIN}.
+
+		[MADELINE right sad flip]
+		No t'amoïnis, a mi també em costarà tornar.
+		Realment vull que treballem juntes a partir d’ara.
+
+		[BADELINE left upset]
+		Confio en tu.
+
+		[BADELINE left worriedAlt]
+		...però estic molt nerviosa.
+
+		{trigger 0 Wait a bit}
+		
+		[BADELINE left upset]
+		Aleshores... ara què?
+
+		[MADELINE right distracted flip]
+		...
+
+		[MADELINE right normal flip]
+		Gaudim d'això una estona.
+
+	CH7_BSIDE_ASCEND=
+		[BADELINE left freakA]
+		Això ha sigut increïble!
+
+		[MADELINE right surprised]
+		No em puc creure que féssim allò.
+
+		[BADELINE left freakA]
+		Som imparables!
+
+		[MADELINE right upset]
+		Ara m'espantes una mica.
+
+	CH7_CSIDE_OLDLADY=
+		[GRANNY right normal]
+		És difícil creure que s'hagi acabat, oi?
+
+		[GRANNY right laugh]
+		Fa gràcia com ens tornem addictes al patiment.
+
+		[GRANNY right normal]
+		Promet-me que et cuidaràs, d'acord?
+
+	CH7_CSIDE_OLDLADY_B=
+		[GRANNY right normal]
+		I bé?
+		A què estas esperant?
+
+# *** Epilogue ***
+
+	EP_CABIN=
+		[GRANNY right normal]
+		Benvinguda.
+
+		[THEO right excited]
+		{+MADELINE}!
+		Heu arribat al cim?
+		
+		{trigger 0 Badeline emerges}
+
+		[MADELINE left normal]
+		Sí, hem arribat.
+		Ha sigut increïble.
+
+		[GRANNY right normal]
+		És bonic, oi?
+
+		[BADELINE left upset]
+		Pensava que no valdria la pena...
+
+		[BADELINE left normal]
+		Però l'ha valgut tota.
+
+		[THEO right thinking]
+		Hauria d'haver-te donat el meu mòbil{n}perquè et fessis la {~}Selfie Final.{/~}
+
+		{trigger 1 Fade out, hear knock on door, fade in and Oshiro enters}
+
+		[OSHIRO left normal]
+		Bon vespre a tothom.
+
+		[BADELINE right angry]
+		Què fas {~}tu{/~} aquí?
+
+		[OSHIRO left normal]
+		Un ocellet m'ha dit que fèieu una festa.
+
+		[OSHIRO left sidehappy]
+		{+thought}L'excusa de l'ocellet, màgica i positiva!{+endthought}
+
+		[OSHIRO left drama]
+		Però si no sóc benvingut, me n'aniré.
+
+		[MADELINE right sad]
+		Si us plau, no se'n vagi {+MROSHIRO}.
+
+		[MADELINE right normal]
+		És bo veure't.
+
+		{trigger 2 Oshiro settles in}
+
+		[GRANNY left normal]
+		Saps és la primera vegada que et veig{n}fora d'aquell hotel teu, {+OSHIRO}.
+		M'alegra que hagis aconseguit venir.
+		Just ara la {+MADELINE} ens està fent un pastís{n}amb totes les maduixes que ha aconseguit.
+
+		[OSHIRO left normal]
+		Oh, això és meravellós {+MS_MADELINE}.
+
+		[THEO right normal]
+		No menjo {# F94A4A}pastís de maduixa{#} des que era jove.
+
+		[THEO right excited]
+		Això serà increïble!
+
+		[BADELINE right scoff]
+		No t'emocionis tant, no és tan bona pastissera.
+
+		{trigger 3 Maddy Turns}
+
+		[MADELINE left normal]
+		També vas dir que no era una bona escaladora.
+
+		[BADELINE right worried]
+		Cert.
+
+		{trigger 3 Maddy Turns}
+
+		[MADELINE right sad]
+		No puc prometre que estigui tan bo com t'imagines, {+THEO}.
+
+		[MADELINE right normal]
+		Però el faré tan bo com pugui.
+
+	EP_PIE_START=
+		[MADELINE right normal]
+		I doncs?
+		Us agrada?
+
+	EP_PIE_DISAPPOINTED=
+		[THEO left wtf]
+		Suposo que tècnicament és un pastís...
+
+		[OSHIRO left worried]
+		Això és alguna mena de broma, {+MS_MADELINE}?
+
+		[GRANNY left normal]
+		Se suposa que els pastissos de maduixa{n}han de tenir maduixes, noia.
+
+	EP_PIE_GROSSED_OUT=
+		[THEO left wtf]
+		{+MADELINE}, realment aprecio que ens facis un pastís...
+		Però no crec que pugui menjar això.
+
+		[GRANNY left normal]
+		La intenció és el que importa.
+
+		[BADELINE left angry]
+		Aquesta gent no sap apreciar un bon pastís.
+		Me'l menjaré tota sola.
+
+		[MADELINE right sad]
+		No cal que facis això.
+
+		[BADELINE left worried]
+		Sí... era una fanfarronada.
+
+	EP_PIE_OKAY=
+		[OSHIRO left normal]
+		El que importa és que us heu{n}esforçat al màxim, {+MS_MADELINE}.
+
+		[BADELINE left angry]
+		Qui ha convidat aquest paio?
+
+		[THEO left thinking]
+		Au va, és bastant bo.
+
+		[GRANNY left normal]
+		N'he menjat de pitjors.
+
+		[THEO left normal]
+		Gràcies pel pastís, {+MADELINE}.
+
+	EP_PIE_REALLY_GOOD=
+		[GRANNY left normal]
+		Estic impressionada!
+		És fins i tot tan bo com els que faig jo!
+
+		[BADELINE left normal]
+		Not està malament.
+
+		[THEO left excited]
+		Caram!
+
+		[THEO left normal]
+		És deliciós.
+
+		[OSHIRO left normal]
+		{+MS_MADELINE}, estaria disponible per col·laborar{n}amb el nostre banquet de re-obertura?
+		
+		[THEO left excited]
+		Puc endur-me un tros a casa per l'{+ALEX}?
+		Es morirà només de tastar-lo!
+		
+	EP_PIE_AMAZING=
+		[THEO left wtf]
+		{+MADELINE}.
+
+		[THEO left excited]
+		Això és la cosa més deliciosa que he tastat mai!
+
+		[MADELINE right sad]
+		Au va. Sigues sincer.
+
+		[GRANNY left normal]
+		Té raó, noieta.
+		És deliciós.
+
+		[OSHIRO left normal]
+		Certament magnífic, {+MS_MADELINE}.
+
+		[OSHIRO left worried]
+		{~}Una simfonia pel paladar!{/~}
+
+		[BADELINE left scoff]
+		Puc reclamar part del mèrit?
+
+		[MADELINE right normal]
+		Caram, moltes gràcies a tots.
+		M'hi he esforçat molt!
+		
+# *** Appendix ***
+
+	APP_INTRO=
+		Un any més tard...
+
+	APP_OLDLADY_A=
+		[GRANNY right normal]
+		Ei, noieta!
+		M'alegro de veure't de nou.
+
+		{trigger 0}
+
+		[GRANNY right normal flip]
+		Aquesta és la cova de la qual et vaig parlar{n}per telèfon.
+		
+		{silent_trigger 1}
+		
+		Segueix-me.
+
+	APP_OLDLADY_B=
+		[MADELINE left sad]
+		Què és aquest lloc?
+
+		[GRANNY right normal]
+		Aquest passadís porta al centre de la {+MOUNTAIN}.
+		Vas dir que volies tornar i explorar{n}més a fons...
+
+		{trigger 0 start laughing}
+
+		[GRANNY right laugh]
+		No hi ha res més fons que això!
+
+		{trigger 1 stop laughing}
+
+		[GRANNY right normal]
+		Això sí, vés amb compte.
+		Quan t'acostes tant al cor de la {+MOUNTAIN},{n}el seu poder t'afecta de manera diferent.
+
+		[MADELINE left sad]
+		Sí, ja me n'he adonat...
+
+		[GRANNY right normal]
+		Que tinguis bona sort.
+
+	APP_OLDLADY_C=
+		[GRANNY right normal]
+		I on es aquella {+PART_OF_YOU}?
+
+		[MADELINE left sad]
+		No sé... a hores d'ara m'esperava que hagués aparegut.
+
+		[MADELINE left distracted]
+		Potser he canviat,{n}i ara ja no és {+PART_OF_ME}.
+
+		[GRANNY right normal]
+		O potser totes dues heu crescut.
+		I ara li és més difícil a la{n}{+MOUNTAIN} separar-vos.
+		Jo apostaria a què encara és dins teu, d'alguna manera.
+
+		[MADELINE left normal]
+		Aquesta teoria m'agrada més.
+
+		[MADELINE left distracted]
+		Però desitjaria poder parlar amb ella.
+
+	APP_OLDLADY_D=
+		[GRANNY right normal]
+		Encara tens contacte amb en {+THEO}?
+
+		[MADELINE left normal]
+		I tant, va passar l'estiu a Vancouver.
+		Hem passat un bon temps junts.
+
+		[GRANNY right normal]
+		I ara que és el que fa?
+
+		[MADELINE left normal]
+		Ha tornat a California amb la seva família.
+		Vol estar amb la seva germana mentre{n}acaba els seus estudis.
+
+		[MADELINE left sad]
+		Sembla molt intens, però vol{n}ser allà per donar-li suport.
+
+		[GRANNY right normal]
+		Sembla un bon noiet.
+
+	APP_OLDLADY_E=
+		[MADELINE left normal]
+		Ha passat un temps. Com has estat?
+
+		[GRANNY right normal]
+		Ah, la mateixa cantarella de sempre.
+
+		{trigger 0 start laughing}
+
+		[GRANNY right laugh]
+		I en el meu cas, una cantarella molt vella.
+
+		{trigger 1 end laughing}
+
+		[GRANNY right normal]
+		No m'estic tornant pas més jove, això està clar.
+		Hi ha dies que gasto tota la meva{n}energia només d'encendre els llums.
+		Això si, la {+MOUNTAIN} em manté ben alerta.
+
+		[GRANNY right mock]
+		No me n'aniré a l'altre barri així com així.
+
+		[MADELINE left normal]
+		No m'esperava menys de tu.
+
+		[MADELINE left sad]
+		Cuida't.
+
+	APP_OLDLADY_LOCKED=
+		[MADELINE left sad]
+		La porta de més endavant no s'obre.
+		Que hi ha alguna altra entrada?
+
+		[GRANNY right normal]
+		Em penso que no, noieta.
+
+		[GRANNY right mock]
+		Creus que la {+MOUNTAIN} començarà a{n}deixar que et relaxis de cop i volta?
+
+		[GRANNY right normal]
+		No deu considerar-te suficientment preparada.
+
+		[MADELINE left sad]
+		D'acord, la {+CELESTE_MOUNTAIN} pot ser {~}estranya i màgica.{/~}
+
+		[MADELINE left upset]
+		Però m'estàs dient que ara també pot {~}"pensar"?{/~}
+
+		[GRANNY right normal]
+		No pensa com tu o com jo.
+		És com... com un riu pensa a fluir cap al mar.
+		Pots pensar que sona boig si vols.
+
+		[MADELINE left upset]
+		Ja sé que és millor no dubtar del que dius.
+
+		[MADELINE left sad]
+		I com faig que em consideri preparada?
+
+		[GRANNY right normal]
+		No tinc ni la més mínima idea.
+		Jo tornaria enrere, i pararia molta atenció.
+		La {+CELESTE_MOUNTAIN} deu voler ensenyar-te més coses.
+
+	APP_ENDING=
+		...això és tot?
+		Això és el que hi ha al centre del tot?
+		És tan buit... i vast...
+		Però també nostàlgic, d'alguna manera.
+		I tranquil.
+
+	CH9_GRAVESTONE=
+		[MADELINE left sad]
+		{+GRANNY}...
+		[MADELINE left sadder]
+		No puc creure que te n'hagis anat, àvia boja.
+
+		[MADELINE left distracted]
+		Bé,{0.2} suposo que sí.
+
+		[MADELINE left sadder]
+		L'última carta que em vas enviar{n}semblava un comiat.
+
+		{silent_trigger 0 Step Forward}
+		
+		[MADELINE left sadder]
+		Això no és just. Et necessito.
+
+		[MADELINE left angry]
+		No em vas preparar per res d'això.
+
+		{trigger 1 Badeline Appears}
+
+		[BADELINE left scoff]
+		Que vols que faci, disculpar-se?
+
+		[BADELINE left upset]
+		Se n'ha anat.
+
+		[BADELINE left angry]
+		I no vas anar ni al seu funeral.
+
+		{trigger 2 Sit Down}
+
+		[MADELINE left distracted]
+		Ja ho sé, només... no podia.
+
+		[MADELINE left sadder]
+		Em vaig ensorrar.
+
+		[MADELINE left sadder]
+		Em sap tan greu, {+GRANNY}.
+
+		[BADELINE left angry]
+		{~}Que et sapiga greu{/~} no farà que torni.
+
+		[MADELINE left sadder]
+		Tens raó.
+
+		[MADELINE left sad]
+		He sigut massa egoista tornant aquí.
+
+	CH9_FLYING_TO_THE_MOON=
+		[BADELINE right concerned]
+		On anem, {+MADELINE}?
+
+		[MADELINE left sad]
+		Hem de seguir aquell ocell.
+		És {+PART_OF_GRANNY}, igual que tu ets {+PART_OF_ME}.
+    
+		[BADELINE right worried]
+		Pensava que era la seva mascota o alguna cosa similar...
+
+		[MADELINE left distracted]
+		{~}Ha de ser{/~} més que una mascota.
+
+		[MADELINE left sad]
+		Aquell ocell sempre estava atent vigilant-me{n}a la {+MOUNTAIN}, igual que l'{+GRANNY}.
+
+		[BADELINE right concerned]
+		{+MADELINE}... no m'agrada dir-t'ho, però...
+
+		[BADELINE right worriedAlt]
+		Estàs en negació
+
+		[BADELINE right worried]
+		Només és un ocell.
+    
+		[MADELINE left upset]
+		Senzillament fes silenci i ajuda'm d'una vegada, d'acord?
+
+	CH9_LANDING=
+		[BADELINE left worried]
+		Uh... som realment molt amunt.
+
+		{trigger 0 Badeline turns}
+
+		[BADELINE left worriedAlt flip]
+		La muntanya sembla un turonet des d'aquí.
+
+		{trigger 0 Badeline turns}
+
+		[BADELINE left worried]
+		Realment hauríem de tornar enrere.
+
+		[MADELINE right upset]
+		No tenim temps per discutir ara.
+
+		[BADELINE left concerned]
+		I com estàs respirant aquí?
+
+		[MADELINE right sad]
+		L'{+GRANNY} vol que la seguim.
+
+		[MADELINE right distracted]
+		No podem decebre-la un altre cop.
+
+		[BADELINE left angryAlt]
+		{~}...és un ocell,{/~} {+MADELINE}.
+
+		[BADELINE left angry]
+		L'{+GRANNY} ja no hi és.
+
+		[MADELINE right angry]
+		Tu creus {*}de debò{/*} que només és un ocell?
+
+		[MADELINE right sad]
+		És {+PART_OF_HER}, i encara és aquí, d'alguna manera.
+
+		[MADELINE right distracted]
+		Potser hi ha alguna manera de fer que torni.
+
+		[MADELINE right sad]
+		He de fer... alguna cosa.
+
+		[BADELINE left angryAlt]
+		...
+		No puc ajudar-te amb això.
+
+		[MADELINE right angry]
+		Aleshores {*}vés-te'n!{/*}
+
+		{trigger 1 Badeline Vanishes}
+
+		[MADELINE left determined]
+		No t'amoïnis, {+GRANNY}.
+		No et perdré.
+
+	CH9_FAKE_HEART=
+		[MADELINE left distracted]
+		Espera, no...
+
+		[MADELINE left sad]
+		Aquest no pot ser el final.
+
+	CH9_KEEP_GOING=
+		[MADELINE left sadder]
+		L'{+GRANNY} és aquí, ho sé.
+
+		{trigger 0 Step Forward}
+
+		[MADELINE left determined]
+		I per tant he de continuar.
+
+	CH9_MISS_THE_BIRD=
+		[MADELINE left angry]
+		{~}Ei!{/~}
+		No vols que t'ajudi?
+
+		[MADELINE left sadder]
+		...no vols tornar a veure'm, {+GRANNY}?
+
+		{trigger 0 stand up, face left }
+
+		[MADELINE left sad flip]
+		No ho entenc.
+
+		[MADELINE left distracted flip]
+		M'estàs posant a prova?
+		Tens por de demanar ajuda?
+
+		[MADELINE left sadder flip]
+		Potser la {+PART_OF_ME} tenia raó.{n}Potser si {~}és{/~} només un ocell.
+		...
+
+		{trigger 1 take a step left}
+
+		[MADELINE left sad flip]
+		Llevat que...
+
+		{trigger 2 take a step right}
+
+		[MADELINE left surprised]
+		L'ocell no vulgui que salvi l'{+GRANNY}.
+		
+		{trigger 3 black hole flickers }
+
+		[MADELINE left sadder]
+		Vol aturar-me, igual que la {+PART_OF_ME}.
+		Estic sola aquí.
+
+		{trigger 4 black hole flickers more, tiles to crack into the sci-fi one}
+
+		[MADELINE left angry]
+		Bé, no necessitem la seva ajuda, oi {+GRANNY}?
+
+		[MADELINE left together]
+		No t'amoïnis, no em rendiré!
+		Atraparé aquell maleït ocell i t'alliberaré.
+
+	CH9_HELPING_HAND=
+		[MADELINE left upset]
+		No t'he demanat la teva ajuda.
+		
+		[BADELINE right angryAlt]
+		Ho sé, au va {+MADELINE}...
+		Pensa't això dos cops.
+
+		[BADELINE right angry]
+		Quina és la finalitat de fer això?
+    
+		{trigger 0 Madeline faces away}
+
+		[MADELINE left determined flip]
+		L'únic que importa és trobar l'{+GRANNY}.
+		Aleshores potser podré fer que torni...
+
+		[MADELINE left sadder flip]
+		Fins i tot amb l'univers sencer en contra.
+		
+		[BADELINE right worriedAlt]
+		...
+
+		[BADELINE right worried]
+		No et preocupa perdre't aquí dalt?
+
+		[MADELINE left angry flip]
+		Ja m'apanyaré.
+
+		[BADELINE right worriedAlt]
+		...
+
+		[BADELINE right worried]
+		Mira, {+MADELINE}...
+
+		[BADELINE right worriedAlt]
+		Som a {~}l'espai{/~} empaitant un {~}ocell misteriós{/~}.
+
+		[BADELINE right upset]
+		Res d'això és real.
+
+		[BADELINE right concerned]
+		Estàs somiant.
+
+		[MADELINE left sadder flip]
+		...
+
+		[BADELINE right concerned]
+		...se n'ha anat.
+
+		[BADELINE right upset]
+		És hora de despertar.
+		
+		[MADELINE left sadder flip]
+		Però si despertem, mai tornarem a veure l'{+GRANNY}...
+
+		{trigger 1 Madeline faces towards badeline}
+		
+		[MADELINE left angry]
+		No em puc creure que vulguis que desaparegui per sempre!
+		Sempre ets tan {*}egoista{/*}.    
+
+		[BADELINE right angry]
+		...
+		
+		[BADELINE right angryAlt]
+		Primer de tot, és un {~}ocell{/~}.
+		No {~}sabem{/~} si és ella.
+		
+		[BADELINE right yell]
+		I {*}segon{/*}...
+		...
+
+		[BADELINE right sigh]
+		...hem de fer un pas enrere.
+		
+		{trigger 2 Madeline steps towards badeline}
+
+		[MADELINE left angry]
+		No, {!}{*}tu{/*}{/!} t'has de fer enrere.
+		{*}Jo faré això.{/*}
+
+		[MADELINE left sad]
+		Amb tu o sense tu.
+		Estic farta de deixar que m'endarrereixis.
+
+		[MADELINE left sadder]
+		L'{+GRANNY} em necessita.
+		
+		[BADELINE right simple_sigh]
+		D'acord.
+		Bona sort.
+		
+	CH9_CATCH_THE_BIRD=
+		[MADELINE left surprised]
+		Ja et tinc! Per fi!
+
+		[MADELINE left angry]
+		Ara, on és l'{+GRANNY}!?
+
+		{trigger 0 bird looks hurt}
+
+		[MADELINE left angry]
+		...
+
+		[MADELINE left surprised]
+		Oh no. 
+		Et trobes bé?
+
+		{trigger 1 bird squaks}
+		
+		[MADELINE left sad]
+		Em sap greu, no volia fer-te mal.
+		
+		{trigger 2 approach bird, it moves away}
+		
+		[MADELINE left sad]
+		Espera! Si us plau, no te'n vagis.
+		
+		{trigger 3 bird flys out of the camera}
+		
+		[MADELINE left sadder]
+		Almenys digues...
+		Ets {+PART_OF_GRANNY}, oi?
+		Si t'has d'anar, aleshores...
+
+		[MADELINE left sad]
+		Porta'm amb tu.
+		
+		{trigger 4 badeline appears}
+    
+		[BADELINE right yell]
+		{+MADELINE}, atura't!
+
+		[BADELINE right concerned]
+		No pots anar amb ella.
+		
+		[MADELINE left angry]
+		Calla!
+		No vas poder forçar-me a rendir-me a la {+MOUNTAIN}.
+		I no em forçaràs a deixar anar l'{+GRANNY}.
+
+		[MADELINE left sadder]
+		{*}Vés-te'n.{/*}
+		
+		[BADELINE right concerned]
+		...
+
+		[BADELINE right worried]
+		No t'estic forçant.
+
+		[BADELINE right concerned]
+		T'ho estic demanant.
+
+		{trigger 5 Wait a beat}
+
+		[BADELINE right worriedAlt]
+		Jo tambe trobo a faltar l'{+GRANNY}.
+		Significava molt per totes dues.
+
+		[MADELINE left sad]
+		Aleshores per què t'és tan fàcil deixar-la anar?
+
+		[BADELINE right worriedAlt]
+		{~}No{/~} és fàcil.
+
+		[BADELINE right worried]
+		Potser he intentat que ho superéssim massa aviat...
+
+		[BADELINE right concerned]
+		Però això tampoc és sa.
+		Només vull que sobrevivim a això.
+
+		{trigger 6 Madeline sits}
+		
+		[MADELINE left sadder flip]
+		...
+		Sé que ja no hi és.
+		I que això és només un somni.
+		Atrapar aquest ocell no farà que torni.
+		
+		{trigger 7 badeline hugs madeline}
+		
+		[BADELINE left concerned]
+		Em sap greu, {+MADELINE}.
+		
+		[BADELINE left concerned]
+		Despertem-nos i enfrontem-nos a això, juntes.
+		
+		[MADELINE right sadder]
+		...
+
+		[MADELINE right distracted]
+		No.
+
+		[MADELINE right sad]
+		Encara no.
+
+		{trigger 8 stand up}
+
+		[MADELINE right sad]
+		Vull arreglar les coses abans.
+    
+		[BADELINE left upset]
+		Què vols dir?
+		
+		[MADELINE right sad]
+		L'ocell està atrapat aquí per culpa meva.
+		
+		{trigger 9 shift camera over to the bird}
+		
+		[MADELINE right sad flip]
+		Hem d'ajudar-lo a escapar abans de marxar.
+		L'{+GRANNY} no voldria que es quedés atrapat.
+		
+		[BADELINE left concerned]
+		Tens raó. 
+
+		[BADELINE left normal]
+		Som-hi.
+
+		[BADELINE left upset]
+		Però tan bon punt hàgim acabat,{n}haurem de despertar.
+
+		[BADELINE left worried]
+		Aquest lloc és tan {*}estrany{/*}.{n}Vull tornar a casa.
+
+	CH9_LAST_ROOM=
+		[BADELINE right normal]
+		És aquí! Ja gairebé som fora.
+
+		[MADELINE left determined]
+		Som-hi, per l'{+GRANNY}.
+
+	CH9_LAST_ROOM_ALT=
+		[BADELINE right concerned]
+		Estàs bé, {+MADELINE}?
+
+		[MADELINE left sad]
+		Som tan a prop, però sembla impossible...
+
+		[BADELINE right upset]
+		Ànims, només uns intents més.
+
+		[BADELINE right normal]
+		Ho podem aconseguir.
+
+	CH9_LAST_BOOST=
+		[BADELINE right normal]
+		Acomiada't d'ella de part meva.
+
+	CH9_FAREWELL=
+		[MADELINE left normal]
+		{+GRANNY}!
+
+		[GRANNY right normal]
+		Ei, noieta.
+		
+		[MADELINE left normal]
+		És fantàstic poder tornar a veure't.
+		No sé què faria sense tu.
+
+		[MADELINE left sad]
+		...
+		Però no ets real...
+
+		[MADELINE left sadder]
+		Això només és un somni.
+		
+		[GRANNY right normal]
+		I que?
+		Això no t'ha aturat a l'hora de venir fins aquí.
+		Finalment em trobes, i {~}de cop i volta{/~}{n}t'importa que només sigui un somni?
+		
+		[GRANNY right mock]
+		Deixa de fer-te excuses i digues{n}el que hagis de dir.
+		
+		[MADELINE left sad]
+		...
+
+		[MADELINE left distracted]
+		Em sap greu no haver pogut anar al teu funeral.
+
+		[MADELINE left sadder]
+		No podia fer-ho, em vaig... apagar.
+		
+		{silent_trigger 0 laugh}
+
+		[GRANNY right laugh]
+		Heh, sona familiar.
+		
+		[MADELINE left upset]
+		...
+
+		{silent_trigger 1 stop laughing}
+		
+		[GRANNY right normal]
+		Ei, i a mi que m'importa qui hagi anat a aquella cosa?
+
+		{silent_trigger 0 laugh}
+
+		[GRANNY right laugh]
+		Estic morta!
+
+		{silent_trigger 1 stop laughing}
+
+		[GRANNY right mock]
+		Els funerals són per vosaltres{n}els vius, condemnats a viure sense mi.
+		
+		{trigger 2 take a step forward}
+
+		[MADELINE left normal]
+		Gràcies per cuidar de mi a la {+MOUNTAIN}.
+
+		[MADELINE left distracted]
+		Vas ajudar-me tant i...
+
+		[MADELINE left sadder]
+		Et trobo molt a faltar.
+
+		{trigger 3 granny fades away}
+		
+		[MADELINE left sadder]
+		Que he de fer ara?
+		Continuar, com si res?
+
+		{silent_trigger 4 fade to white}
+
+		[MADELINE left panic]
+		Com si ja no fossis aquí mai més?
+
+	CH9_END_CINEMATIC=
+		{anchor bottom}
+
+		[WEBCAM_THEO right excited]
+		Aquí ets!
+
+		[WEBCAM_THEO right normal]
+		Quant de temps, {# F94A4A}Maduixeta{#}.
+
+		[MADELINE left sad]
+		Ei {+THEO}.
+		
+		[WEBCAM_THEO right normal]
+		Ha passat una eternitat!
+
+		[WEBCAM_THEO right thinking]
+		Vas desaparèixer del món!{n}Que et va passar?
+		
+		[MADELINE left sad]
+		Sí, em sap greu no haver respost els teus missatges...
+
+		[MADELINE left distracted]
+		...i les teves trucades...
+		...
+		...i els teus correus.
+
+		[MADELINE left sad]
+		Vaig tenir un petit atac quan va morir l'{+GRANNY}.
+
+		[MADELINE left distracted]
+		I després se'm feia estrany tornar-te els missatges.
+		Pensava que potser estaves{n}enfadat perquè vaig desaparèixer.
+
+		[MADELINE left sad]
+		I a partir d'allà se'm va fer una muntanya.
+		
+		[WEBCAM_THEO right thinking]
+		Sí, ja, ja et conec.
+
+		[WEBCAM_THEO right normal]
+		Vaig deduir que el funeral va{n}activar la teva ansietat, sincerament.
+
+		[WEBCAM_THEO right thinking]
+		La pròxima vegada, {~}com a mínim{/~} fes-me saber si ets viva o no.
+
+		[WEBCAM_THEO right normal]
+		Et trobes millor?
+		
+		[MADELINE left sad]
+		Sí...
+
+		[MADELINE left distracted]
+		Començo a superar-ho.
+
+		[MADELINE left sad]
+		Quan vaig conèixer l'{+GRANNY},{n}pensava que estava boja.
+
+		[MADELINE left distracted]
+		Però quan la vaig conèixer millor...
+
+		[MADELINE left upset]
+		...vair pensar que era una mica mesquina.
+
+		[MADELINE left sad]
+		Però ella sabia que necessitava escoltar,{n}i em va ajudar molt.
+
+		[MADELINE left sadder]
+		La trobo molt a faltar.
+		
+		[WEBCAM_THEO right normal]
+		Sí, jo també.
+
+		[WEBCAM_THEO right thinking]
+		Honestament pensava que viuria per sempre.
+
+		[WEBCAM_THEO right excited]
+		Oh! Això em fa recordar!{n}T'he d'ensenyar una cosa.
+		
+		[MADELINE left normal]
+		Oh?
+		
+		[WEBCAM_THEO right excited]
+		T'enrecordes quan et vaig dir que el meu{n}avi també va anar a la {+CELESTE_MOUNTAIN} de jove?
+
+		[WEBCAM_THEO right normal]
+		Bé, vaig revisar les seves coses{n}mentre netejava amb l'{+ALEX}...
+		I mira aquesta foto que vam trobar.
+     
+ 		{trigger 0 Shows the photo of Theo's grandpa with Granny at Celeste Mountain.}
+ 		
+ 		[MADELINE left surprised]
+		És l'{+GRANNY}!? Amb el teu avi?
+
+		[MADELINE left normal]
+		{+THEO}, és increïble!
+		Sembla que eren amics.
+		
+		[WEBCAM_THEO right excited]
+		Com nosaltres!
+
+		[WEBCAM_THEO right thinking]
+		És una llàstima que ja no hi sigui.
+
+		[WEBCAM_THEO right normal]
+		Però està bé saber que hem{n}compartit la {+MOUNTAIN} amb ells.
+		
+		[MADELINE left normal]
+		Sí...
+
+		[MADELINE left peaceful]
+		{>> 0.3}Oi {~}tant{/~} que sí.{>>}
+
+# Crystal Hearts
+
+	POEM_FC=	Andròmines Inútils
+	POEM_FCR=	Divideix l'Horitzó
+
+	POEM_OS=	Resurreccions
+	POEM_OSR=	Lluna Fosca
+
+	POEM_CR=	Dispers i Perdut
+	POEM_CRR=	Bon Karma
+
+	POEM_CS=	Ull del cicló
+	POEM_CSR=	Ploma Daurada
+
+	POEM_T=		Tranquil i Caient
+	POEM_TR=	Mirall Màgic
+
+	POEM_TF=	Pesat i Fràgil
+	POEM_TFR=	Centre de la Terra
+
+	POEM_TS=	Sol Rosat
+	POEM_TSR=	Prou Fugir
+
+	POEM_MC=	Cor de la Muntanya
+	POEM_MCR=	Adéu Siau
+
+	POEM_FW=	Espai Buit
+	
+# Wavedash Tutorial
+	
+	WAVEDASH_DESKTOP_MYPC=			La meva Muntanya
+	WAVEDASH_DESKTOP_POWERPOINT=	onadaembranzida.ppt
+	WAVEDASH_DESKTOP_RECYCLEBIN=	Paperera de reciclatge
+	WAVEDASH_DESKTOP_STARTBUTTON=	MaduixOS
+
+	WAVEDASH_PAGE1_TITLE=			Les onades embranzides
+	WAVEDASH_PAGE1_SUBTITLE=		Una solució pràctica per atrapar ocells a l'espai
+
+	WAVEDASH_PAGE2_TITLE=			No|Pots|Atrapar|Aquell|Ocell?
+	WAVEDASH_PAGE2_LIST=
+		-Fet: Atrapar un ocell es difícil{n}
+		-Caram. És ràpid!{n}
+		-I a més a més vola{n}
+		-I la {+PART_OF_YOU} no vol ajudar{n}
+		-(quin suplici de noia)
+
+	WAVEDASH_PAGE2_IMPOSSIBLE=		IMPOSSIBLE???
+	
+	WAVEDASH_PAGE3_TITLE=			Us presentem... l'Onada Embranzida!!
+	WAVEDASH_PAGE3_INFO=			Amb l'Onada Embranzida, pots saltar moolt lluny{n}i recuperar la teva embranzida {~}en el mateix instant!{/~}
+	WAVEDASH_PAGE3_EASY=			És "fàcil!"
+
+	WAVEDASH_PAGE4_TITLE=			Com es fa
+	WAVEDASH_PAGE4_LIST=
+		-Salta{n}
+		-Fes una embranzida diagonal cap al terra{n}
+		-Salta inmediatament una altra vegada i manten el botó cap endavant{n}
+		-{~}Ho has aconseguit!{/~}{n}
+		-(ai vés per on)
+	
+	WAVEDASH_PAGE5_TITLE=			Problemes al Paradís?
+	WAVEDASH_PAGE5_INFO1=			{#ff0000}Si no recuperes l'embranzida{#}{n}és que començes {~}massa a prop{/~} del terra.
+	WAVEDASH_PAGE5_INFO2=			{#ff0000}Si no guanyes gaire distància{#}{n}és que començes {~}massa lluny{/~} del terra.
+
+	WAVEDASH_PAGE6_TITLE=			Gaudeix les Onades Embranzida!

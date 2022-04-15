@@ -1,0 +1,10 @@
+Instruccions per a la instal·lació:
+Copiar l'arxiu "Catalan" i la carpeta "icons" enganxar-los
+a la carpeta del joc Celeste\Content\Dialog
+
+Sobre el joc:
+Si el català no és la llengua per defecte, 
+la podeu seleccionar al menú d'opcions. Gaudiu!
+
+Traducció feta per: 
+-Joel Garcia Cascalló
