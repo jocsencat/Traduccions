@@ -1,0 +1,13 @@
+Instruccions per a la instal·lació:
+Copiar els arxius "MenuText.txt" i "Phrases.txt" i enganxar-los a la
+carpeta del joc (us demanarà si voleu substituir els arxius que ja hi han,
+substituiu-los).
+Per seleccionar el català haureu d'escollir la llengua "español"
+(no ho he pogut canviar haha)
+
+Sobre el joc:
+Degut a limitacions de vegades faig servir la paraula "mando" en
+comptes de "comandament"
+
+Traducció feta per: 
+-Joel Garcia Cascalló
