@@ -1,0 +1,8 @@
+Instruccions per a la instal·lació:
+Copiar la carpeta "pack" a la carpeta on es trobi el joc.
+
+
+Traducció feta per: 
+-Joel Garcia Cascalló
+
+Gaudiu!

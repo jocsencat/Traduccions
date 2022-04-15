@@ -1,0 +1,1112 @@
+﻿=|CONTINUE|0
+ENG|Continue Game
+FRN|Continuer
+SPA|Continuar partida
+JAP|ツヅキカラ
+GER|Weiterspielen
+ITA|Continua partita
+RUS|Продолжить игру
+CAT|Continuar Partida
+
+=|LOADGAME|1
+ENG|Load Game
+FRN|Charger une partie
+SPA|Carregar Partida
+JAP|ロード
+GER|Spielstand laden
+ITA|Carica partita
+RUS|Загрузить игру
+CAT|Carregar Partida
+
+=|NEWGAME|2
+ENG|New Game
+FRN|Nouvelle partie
+SPA|Nova Partida
+JAP|ニューゲーム
+GER|Neues Spiel
+ITA|Nuova partita
+RUS|Новая игра
+CAT|Nova Partida
+
+=|NEWGAMEPLUS|3
+ENG|New Game +
+FRN|Nouvelle partie +
+SPA|Nova Partida +
+JAP|ニューゲーム プラス
+GER|Neues Spiel +
+ITA|Nuova partita +
+RUS|Новая игра +
+CAT|Nova Partida +
+
+=|NEWGAMEALT|4
+ENG|New Game Alt
+FRN|Nouvelle partie Alt
+SPA|Nova Partida Alt
+JAP|ニューゲーム オルタ
+GER|Neues Spiel Alt.
+ITA|Nuova partita Alt
+RUS|Новая игра Alt
+CAT|Nova Partida Alt
+
+=|SETTINGSANDCONTROLS|5
+ENG|Settings + Controls
+FRN|Paramètres et commandes
+SPA|Configuració i controls
+JAP|オプション + ソウサホウホウ
+GER|Einstellungen und Steuerung 
+ITA|Impostazioni e comandi
+RUS|Настройки и управление
+CAT|Configuració i controls
+
+=|SETTINGS|6
+ENG|Settings
+FRN|Paramètres
+SPA|Opcions
+JAP|オプション
+GER|Einstellungen
+ITA|Impostazioni
+RUS|Настройки
+CAT|Opcions
+
+=|CREDITS|7
+ENG|Credits
+FRN|Crédits
+SPA|Crèdits
+JAP|クレジット
+GER|Das Team
+ITA|Riconoscimenti
+RUS|Авторы
+CAT|Crèdits
+
+=|EXITGAME|8
+ENG|Exit Game
+FRN|Quitter le jeu
+SPA|Sortir del joc
+JAP|シュウリョウ
+GER|Beenden
+ITA|Esci dal gioco
+RUS|Выйти из игры
+CAT|Sortir del joc
+
+=|RESUMEGAME|9
+ENG|Resume Game
+FRN|Reprendre
+SPA|Reprendre la partida
+JAP|ゲームニ モドル
+GER|Weiterspielen
+ITA|Riprendi partita
+RUS|Возобновить игру
+CAT|Reprendre la partida
+
+=|QUITTOTITLE|10
+ENG|Quit To Title
+FRN|Retour à l'écran-titre
+SPA|Sortir al menú
+JAP|タイトルヘ モドル
+GER|Abbruch zur Startseite
+ITA|Torna alla schermata del titolo
+RUS|На заглавный экран
+CAT|Sortir al menú
+
+=|CONTROLS|11
+ENG|Controls
+FRN|Commandes
+SPA|Controls
+JAP|ソウサホウホウ
+GER|Steuerung
+ITA|Comandi
+RUS|Управление
+CAT|Controls
+
+15 Chars max
+=|SCREENMODE|12
+ENG|Screen Mode
+FRN|Mode d'écran
+SPA|Mode pantalla
+JAP|ガメンセッテイ
+GER|Bildschirmmodus
+ITA|Tipo schermo
+RUS|Режим экрана
+CAT|Mode pantalla
+
+=|BRIGHTNESS|13
+ENG|Brightness
+FRN|Luminosité
+SPA|Brillantor
+JAP|アカルサ
+GER|Helligkeit
+ITA|Luminosità
+RUS|Яркость
+CAT|Brillantor
+
+15 Chars max
+=|SFXVOL|14
+ENG|SFX Volume
+FRN|volume SFX
+SPA|Volum de Sons
+JAP|コウカオン
+GER|Geräusche
+ITA|effetti
+RUS|Громкость звука
+CAT|Volum de Sons
+
+15 Chars max
+=|MUSVOL|15
+ENG|Music Volume
+FRN|musique
+SPA|Volum de música
+JAP|オンガク
+GER|Musiklautstärke
+ITA|Volume musica
+RUS|Громкость музыки
+CAT|Volum de música
+
+=|VIBRATION|16
+ENG|Vibration
+FRN|Vibrations
+SPA|Vibració
+JAP|シンドウセッテイ
+GER|Vibration
+ITA|Vibrazione
+RUS|Вибрация
+CAT|Vibració
+
+=|LANGUAGE|17
+ENG|Language
+FRN|Langue
+SPA|Llengua
+JAP|ゲンゴ
+GER|Sprache
+ITA|Lingua
+RUS|Язык
+CAT|Llengua
+
+=|DASHTYPE|18
+ENG|Dash Type
+FRN|Type de bond
+SPA|Tipus d'embranzida
+JAP|ダッシュソウサ
+GER|Angriffsart
+ITA|Tipo di scatto
+RUS|Тип рывка
+CAT|Tipus d'embranzida
+
+=|COOP|19
+ENG|Co-op
+FRN|Coop
+SPA|Co-op
+JAP|Co-op
+GER|Coop
+ITA|Co-op
+RUS|Совм. игра
+CAT|Co-op
+
+=|SwitchUser|20
+ENG|Switch User
+FRN|Changer d'utilisateur
+SPA|Canviar usuari
+JAP|ユーザーキリカエ
+GER|Benutzer wechseln
+ITA|Cambia utente
+RUS|Смена пользователя
+CAT|Canviar usuari
+
+=|StartGame|21
+ENG|New Game
+FRN|Nouvelle partie
+SPA|Començar Partida
+JAP|ニューゲーム
+GER|Neues Spiel
+ITA|Nuova partita
+RUS|Новая игра
+CAT|Començar Partida
+
+=|BossRush|22
+ENG|Boss Rush
+FRN|Boss Rush
+SPA|Boss Rush
+JAP|ボスラッシュ
+GER|Boss Rush
+ITA|Boss Rush
+RUS|Босс Раш
+CAT|Boss Rush
+
+=|FullyLoaded|23
+ENG|Fully Loaded
+FRN|Chargement complet
+SPA|Equipament complet
+JAP|フルソウビ
+GER|Volle Ausrüstung
+ITA|Equipaggiamento completo
+RUS|Полностью загружен
+CAT|Equipament complet
+
+=|MidRange|24
+ENG|Mid-Range
+FRN|Moyenne portée
+SPA|Abast mitjà
+JAP|ソコソコ
+GER|Mittlere Reichweite
+ITA|Fascia media
+RUS|Средний диапазон
+CAT|Abast mitjà
+
+=|Naked|25
+ENG|Naked
+FRN|Nue
+SPA|Despullat
+JAP|ハダカ
+GER|Nackt
+ITA|Nudo
+RUS|голый
+CAT|Despullat
+
+=|BossRushComplete|26
+ENG|Boss Rush Complete
+FRN|Boss Rush Complète
+SPA|Boss Rush Complet
+JAP|ボスラッシュコンプリート
+GER|Boss Rush abgeschlossen
+ITA|Boss Rush Completa
+RUS|Boss Rush Complete
+CAT|Boss Rush Complet
+
+=|MidRangeBossRushLoadoutUnlocked|27
+ENG|Mid-Range boss rush loadout unlocked
+FRN|équipement de moyenne portée Boss rush débloqué
+SPA|Equipament d'abast mitjà del Boss Rush desblocat
+JAP|ボスラッシュ ソコソコ ガ アンロックサレマシタ
+GER|Boss Rush Mittelstrecken Ausrüstung freigeschaltet
+ITA|apparecchiature di fascia media di boss rush sbloccata
+RUS|босс пик среднего диапазона оборудования разблокирована
+CAT|Equipament d'abast mitjà del Boss Rush desblocat
+
+=|NakedBossRushLoadoutUnlocked|28
+ENG|Naked boss rush loadout unlocked
+FRN|équipement de nu Boss rush débloqué
+SPA|Equipament del Boss Rush despullat desblocat
+JAP|ボスラッシュ ハダカ ガ アンロックサレマシタ
+GER|Boss Rush nackt Ausrüstung freigeschaltet
+ITA|attrezzature nudo di boss rush sbloccata
+RUS|босс голая оборудование пик разблокирована
+CAT|Equipament del Boss Rush despullat desblocat
+
+=|NEWCOMER|29
+ENG|Newcomer
+FRN|Nouveau Venu
+SPA|Nouvingut
+JAP|ビギナー
+GER|Neuling
+ITA|nuovo arrivato
+RUS|вновь прибывший
+CAT|Nouvingut
+
+=|STANDARD|30
+ENG|Standard
+FRN|Standard
+SPA|Estàndard
+JAP|スタンダード
+GER|Standard
+ITA|Standard
+RUS|стандарт
+CAT|Estàndard
+
+=|NEWCOMERDESCRIPTIONONE|31
+ENG|A more forgiving challenge.
+FRN|Un défi plus indulgent.
+SPA|Un repte més compassiu
+JAP|キケン スクナメ
+GER|Ein nachsichtiger Herausforderung.
+ITA|Una sfida più indulgente.
+RUS|Более Прощающий вызов.
+CAT|Un repte més compassiu
+
+=|NEWCOMERDESCRIPTIONTWO|32
+ENG|Certain achievements are disabled.
+FRN|Certaines réalisations sont désactivées.
+SPA|Alguns èxits estan desactivats.
+JAP|イチブノ トロフィーガ シュトクデキマセン
+GER|Bestimmte Leistungen sind deaktiviert.
+ITA|Alcune realizzazioni sono disabilitati.
+RUS|Отключены определенные достижения.
+CAT|Alguns èxits estan desactivats.
+
+=|STANDARDDESCRIPTIONONE|33
+ENG|Intended challenge level.
+FRN|But de niveau de défi.
+SPA|Nivell de dificultat previst.
+JAP|ヤリゴタエ アリマス
+GER|Herausforderung-Ebene bestimmt.
+ITA|Destinato il livello di sfida.
+RUS|Уровень предполагаемой вызов.
+CAT|Nivell de dificultat previst.
+
+=|STANDARDDESCRIPTIONTWO|34
+ENG|All achievements unlockable.
+FRN|Toutes les réalisations de débloquer.
+SPA|Tots els èxits es poden aconseguir.
+JAP|スベテノ トロフィーヲ シュトクデキマス
+GER|Alle Errungenschaften freischaltbare.
+ITA|Tutti i successi sbloccabili.
+RUS|Все достижения unlockable.
+CAT|Tots els èxits es poden aconseguir.
+
+=|NEWGAMEPLUSDESCRIPTIONONE|35
+ENG|Beware.
+FRN|Se méfier.
+SPA|Alerta.
+JAP|カクゴ セヨ
+GER|Hüten Sie sich vor.
+ITA|State attenti.
+RUS|Будьте осторожны.
+CAT|Alerta.
+
+=|NEWGAMEPLUSUNLOCKDESCRIPTION|36
+ENG|Beat Standard.
+FRN|Terminer le mode Standard.
+SPA|Completar el mode estàndard.
+JAP|スタンダードデ クリア
+GER|Standard-Modus zu beenden.
+ITA|modalità Standard di finitura.
+RUS|закончите стандартный режим.
+CAT|Completar el mode estàndard.
+
+=|NEWGAMEALTDESCRIPTIONONE|37
+ENG|Play with a new character.
+FRN|Jouer avec un nouveau personnage.
+SPA|Jugar amb un nou personatge.
+JAP|アタラシイ キャラクターデ プレイ
+GER|Mit einem neuen Charakter spielen.
+ITA|Giocare con un nuovo personaggio.
+RUS|Играть с новым характером.
+CAT|Jugar amb un nou personatge.
+
+=|NEWGAMEALTUNLOCKDESCRIPTIONTWO|38
+ENG|Unlocks new character.
+FRN|Déverrouille un nouveau personnage.
+SPA|Desbloca un nou personatge.
+JAP|アタラシイ キャラクターヲ アンロック
+GER|Erschließt neue Charakter.
+ITA|Sblocca il personaggio nuovo.
+RUS|Открывает новый характер.
+CAT|Desbloca un nou personatge.
+
+=|FULLYLOADEDDESCRIPTION|39
+ENG|All weapons + gear.
+FRN|Toutes les armes et engins.
+SPA|Totes les armes i equipament.
+JAP|スベテノ ブキ ト ギア
+GER|Alle Waffen und Ausrüstung.
+ITA|Tutte le armi e gli equipaggiamenti.
+RUS|Все оружие и снаряжение.
+CAT|Totes les armes i equipament.
+
+=|MIDRANGEDESCRIPTION|40
+ENG|Less gear, more challenge.
+FRN|Sans réducteurs, plus contestent.
+SPA|Menys equipament, més difícil.
+JAP|ギア スクナメ キケン オオメ
+GER|Weniger Ausrüstung fordern mehr.
+ITA|Meno dell'ingranaggio, più una sfida.
+RUS|Меньше передач больше проблема.
+CAT|Menys equipament, més difícil.
+
+=|MIDRANGEUNLOCKDESCRIPTION|41
+ENG|Complete Fully Loaded to unlock.
+FRN|Remplir entièrement chargé.
+SPA|Completa "Totalment Equipat" per desblocar.
+JAP|フルソウビ ボスラッシュヲ クリアシテクダサイ
+GER|Komplett voll geladen zu entsperren.
+ITA|Completare a pieno carico per sbloccare.
+RUS|Полное полностью загружен, чтобы разблокировать.
+CAT|Completa "Totalment Equipat" per desblocar.
+
+=|NAKEDDESCRIPTION|42
+ENG|Nothing but your pistol.
+FRN|Rien d’autre que votre pistolet.
+SPA|Només tu i la pistola.
+JAP|ピストル オンリー
+GER|Nichts anderes als Ihre Pistole.
+ITA|Nient'altro che la pistola.
+RUS|Ничего, кроме вашего пистолета.
+CAT|Només tu i la pistola.
+
+=|NAKEDUNLOCKDESCRIPTION|43
+ENG|Complete Mid-Range to unlock.
+FRN|Milieu de gamme complète.
+SPA|Completa "Abast Mitjà" per desblocar.
+JAP|ソコソコ ボスラッシュヲ クリアシテクダサイ
+GER|Komplette Mittelklasse zu entsperren.
+ITA|Mid-range completo per sbloccare.
+RUS|Полная среднего уровня, чтобы разблокировать.
+CAT|Completa "Abast Mitjà" per desblocar.
+
+=|COOP_DISABLED|44
+ENG|Disabled
+FRN|Désactivé
+SPA|Desactivat
+JAP|リヨウ フカ
+GER|Deaktiviert
+ITA|Disattivato
+RUS|отключен
+CAT|Desactivat
+
+=|DISABLE_XBOX_DVR|45
+ENG|Please disable Xbox DVR on Windows
+FRN|s'il vous plaît désactiver Xbox DVR sur Windows
+SPA|Si us plau desactiva l'Xbox DVR a Windows
+JAP|WINDOWSノ XBOX DVRヲ ムコウニ シテクダサイ
+GER|Deaktivieren Sie Xbox DVR unter Windows
+ITA|Si prega di disabilitare Xbox DVR su Windows
+RUS|отключите Xbox DVR на Windows
+CAT|Si us plau desactiva l'Xbox DVR a Windows
+
+=|THIRDPARTYCONTROLS|46
+ENG|Third Party Controls
+FRN|Third Party Controls
+SPA|Third Party Controls
+JAP|Third Party Controls
+GER|Third Party Controls
+ITA|Third Party Controls
+RUS|Third Party Controls
+CAT|Third Party Controls
+
+=|MAIN_MENU_TITLE|50
+ENG|MAIN MENU
+FRN|MENU PRINCIPAL
+SPA|MENÚ PRINCIPAL
+JAP|メインメニュー
+GER|HAUPTMENÜ
+ITA|MENU PRINCIPALE
+RUS|ГЛАВНОЕ МЕНЮ
+CAT|MENÚ PRINCIPAL
+
+=|MENU_TITLE|51
+ENG|MENU
+FRN|MENU
+SPA|MENÚ
+JAP|メニュー
+GER|MENÜ
+ITA|MENU
+RUS|МЕНЮ
+CAT|MENÚ
+
+=|QUIT_TO_TITLE_TEXT|52
+ENG|Quit To Title?
+FRN|Retourner sur l'écran-titre ?
+SPA|Sortir al menú?
+JAP|タイトルへ モドリマスカ？
+GER|Abbruch zur Startseite?
+ITA|Tornare alla schermata del titolo?
+RUS|На заглавный экран?
+CAT|Sortir al menú?
+
+=|LESS_THAN_A_MINUTE|53
+ENG|Less than a minute
+FRN|Moins d'une minute
+SPA|Menys d'un minut
+JAP|１プンカン
+GER|Weniger als eine Minute
+ITA|Meno di un minuto
+RUS|Менее минуты
+CAT|Menys d'un minut
+
+=|MINUTE|54
+ENG|Minute
+FRN|Minute
+SPA|Minut
+JAP|フン
+GER|Minute
+ITA|minuto
+RUS|минута
+CAT|Minut
+
+=|MINUTES|55
+ENG|Minutes
+FRN|Minutes
+SPA|Minuts
+JAP|フン
+GER|Minuten
+ITA|minuti
+RUS|мин.
+CAT|Minuts
+
+=|SINCE_LAST_SAVE|56
+ENG|since last save
+FRN|depuis la dernière sauvegarde
+SPA|des de l'última desada
+JAP|セーブ サレテイマセン
+GER|seit dem letzten Speichern
+ITA|dall'ultimo salvataggio
+RUS|с последнего сохранения
+CAT|des de l'última desada
+
+=|APPEARS_WHEN_PROGRESS_IS_SAVED|57
+ENG|Appears when progress is saved
+FRN|Apparaît quand la progression est sauvegardée
+SPA|Apareix quan es desa el progrés
+JAP|セーブチュウハ コノ マークガ ヒョウジサレマス
+GER|Erscheint, wenn der Spielstand gespeichert wird
+ITA|Appare durante il salvataggio dei progressi
+RUS|Появляется при сохранении
+CAT|Apareix quan es desa el progrés
+
+=|ENTER_NAME|58
+ENG|Enter Name
+FRN|Saissez un nom
+SPA|Introduir Nom
+JAP|ナマエ ニュウリョク
+GER|Namen eingeben
+ITA|Scrivi il nome
+RUS|Введите имя
+CAT|Introduir Nom
+
+=|CONFIRM|59
+ENG|Confirm
+FRN|Confirmer
+SPA|Confirmar
+JAP|OK
+GER|Bestätigen
+ITA|Conferma
+RUS|Подтвердить
+CAT|Confirmar
+
+=|DELETE|60
+ENG|Delete
+FRN|Supprimer
+SPA|Esborrar
+JAP|ショウキョ
+GER|Löschen
+ITA|Elimina
+RUS|Удалить
+CAT|Esborrar
+
+=|CANCEL|61
+ENG|Cancel
+FRN|Annuler
+SPA|Cancel·lar
+JAP|キャンセル
+GER|Abbruch
+ITA|Annulla
+RUS|Отменить
+CAT|Cancel·lar
+
+=|(LOCKED: missing Alt Drifter DLC)|62
+ENG|(LOCKED: missing Alt Drifter DLC)
+FRN|(VERROUILLÉ. DLC Alt Drifter nécessaire)
+SPA|(BLOCAT: falta el DLC Alt Drifter)
+JAP|(ロック: オルタ ドリフター DLC ガ アリマセン)
+GER|(GESPERRT: DLC für Alt. Drifter fehlt)
+ITA|(BLOCCATO: manca Alt Drifter DLC)
+RUS|(ЗАКРЫТО: нет дополнения Alt Drifter)
+CAT|(BLOCAT: falta el DLC Alt Drifter)
+
+=|REPLACE THIS SAVE?|63
+ENG|REPLACE THIS SAVE?
+FRN|REMPLACER CETTE SAUVEGARDE?
+SPA|SOBREESCRIURE PARTIDA?
+JAP|ウワガキ シマスカ？
+GER|SPIELSTAND ERSETZEN?
+ITA|SOSTITUIRE QUESTO SALVATAGGIO?
+RUS|ЗАМЕНИТЬ СОХРАНЕНИЕ?
+CAT|SOBREESCRIURE PARTIDA?
+
+=|EMPTY|64
+ENG|EMPTY
+FRN|VIDE
+SPA|BUIT
+JAP|セーブナシ
+GER|FREI
+ITA|VUOTO
+RUS|ПУСТО
+CAT|BUIT
+
+13 Chars Max
+=|Windowed|65
+ENG|Windowed
+FRN|Mode fenêtré
+SPA|Mode Finestra
+JAP|ウィンドウ
+GER|Fenstermodus
+ITA|Finestra
+RUS|В окне
+CAT|Mode Finestra
+
+13 Chars Max
+=|WINDOW_MAX|66
+ENG|Window Max
+FRN|Fenêtre max
+SPA|Finestra màx.
+JAP|サイダイウィンドウ
+GER|Max. Fenster
+ITA|Finestra max
+RUS|Окно на максимум
+CAT|Finestra màx.
+
+13 Chars Max
+=|FULLSCREEN|67
+ENG|Fullscreen
+FRN|Plein écran
+SPA|Pant. sencera
+JAP|フルスクリーン
+GER|Vollbild
+ITA|Schermo intero
+RUS|На весь экран
+CAT|Pant. sencera
+
+=|ON|68
+ENG|On
+FRN|Activé
+SPA|Encès
+JAP|On
+GER|An
+ITA|Sì
+RUS|Вкл.
+CAT|Encès
+
+=|OFF|69
+ENG|Off
+FRN|Désactivé
+SPA|Apagat
+JAP|Off
+GER|Aus
+ITA|No
+RUS|Выкл.
+CAT|Apagat
+
+13 Chars max
+=|MOUSE_DIR|70
+ENG|Mouse Dir
+FRN|Dir. souris
+SPA|Dir. ratolí
+JAP|マウスホウコウ
+GER|Mausrichtung
+ITA|Dir mouse
+RUS|Напр. мыши
+CAT|Dir. ratolí
+
+13 Chars Max
+=|MOVE_DIR|71
+ENG|Move Dir
+FRN|Dir. mouv.
+SPA|Dir. Moviment
+JAP|イドウホウコウ
+GER|Bew.-Richtung
+ITA|Dir movimento
+RUS|Напр. движения
+CAT|Dir. Moviment
+
+
+13 Chars Max
+=|NEED_GAMEPAD|72
+ENG|Need Gamepad
+FRN|Manette requise
+SPA|Mando req.
+JAP|ゲームパッドガ ヒツヨウ
+GER|Gamepad erf.
+ITA|Gamepad ric.
+RUS|Нужен геймпад
+CAT|Mando req.
+
+=|MODE|73
+ENG|Mode
+FRN|Mode
+SPA|Mode
+JAP|ソウサ
+GER|Modus
+ITA|Modalità
+RUS|Режим
+CAT|Mode
+
+=|GAMEPAD|74
+ENG|Gamepad
+FRN|Manette
+SPA|Comandament
+JAP|ゲームパッド
+GER|Gamepad
+ITA|Gamepad
+RUS|Геймпад
+CAT|Comandament
+
+6 Chars Max
+=|RESET|75
+ENG|Reset
+FRN|Réini.
+SPA|Rest.
+JAP|リセット
+GER|Reset
+ITA|Reset
+RUS|Сброс
+CAT|Rest.
+
+
+=|AimConfig|76
+ENG|AIM
+FRN|VISER
+SPA|APUNTAR
+JAP|ネラウ
+GER|ZIELEN
+ITA|MIRA
+RUS|ПРИЦЕЛ
+CAT|APUNTAR
+
+=|HealConfig|77
+ENG|HEAL
+FRN|SE SOIGNER
+SPA|CURAR-SE
+JAP|カイフク
+GER|HEILEN
+ITA|CURA
+RUS|ИСЦЕЛЕНИЕ
+CAT|CURAR-SE
+
+=|MoveConfig|78
+ENG|MOVE
+FRN|SE DÉPLACER
+SPA|MOURE'S
+JAP|イドウ
+GER|BEWEGEN
+ITA|MOVIMENTO
+RUS|ДВИЖЕНИЕ
+CAT|MOURE'S
+
+=|InventoryConfig|79
+ENG|INVENTORY
+FRN|INVENTAIRE
+SPA|INVENTARI
+JAP|インベントリ
+GER|GEPÄCK
+ITA|INVENTARIO
+RUS|ИНВЕНТАРЬ
+CAT|INVENTARI
+
+=|MenuConfig|80
+ENG|MENU
+FRN|MENU
+SPA|MENÚ
+JAP|メニュー
+GER|MENÜ
+ITA|MENU
+RUS|МЕНЮ
+CAT|MENÚ
+
+=|SitConfig|81
+ENG|SIT
+FRN|S'ASSEOIR
+SPA|SEURE'S
+JAP|スワル
+GER|SETZEN
+ITA|SIEDITI
+RUS|СЕСТЬ
+CAT|SEURE'S
+
+=|ShootConfig|82
+ENG|SHOOT
+FRN|TIRER
+SPA|DISPARAR
+JAP|ウツ
+GER|SCHIESSEN
+ITA|SPARA
+RUS|ОГОНЬ
+CAT|DISPARAR
+
+=|SpecialConfig|83
+ENG|SPECIAL
+FRN|SPÉCIAL
+SPA|ESPECIAL
+JAP|スペシャル
+GER|SPEZIAL
+ITA|SPECIALE
+RUS|ОСОБОЕ
+CAT|ESPECIAL
+
+=|InteractConfig|84
+ENG|INTERACT
+FRN|INTERACTION
+SPA|INTERACTUAR
+JAP|アクション
+GER|INTERAGIEREN
+ITA|INTERAGISCI
+RUS|ВЗАИМОДЕЙСТВИЕ
+CAT|INTERACTUAR
+
+=|SwordConfig|85
+ENG|SWORD
+FRN|ÉPÉE
+SPA|ESPASA
+JAP|ソード
+GER|SCHWERT
+ITA|SPADA
+RUS|МЕЧ
+CAT|ESPASA
+
+=|DashConfig|86
+ENG|DASH
+FRN|BOND
+SPA|EMBRANZIDA
+JAP|ダッシュ
+GER|ANGRIFF
+ITA|SCATTA
+RUS|РЫВОК
+CAT|EMBRANZIDA
+
+11 chars Max
+=|SwapWepConfig|87
+ENG|SWAP WEP
+FRN|CHANG. ARME
+SPA|CANV. ARMA
+JAP|ブキ キリカエ
+GER|WAFFE WECHSELN
+ITA|CAMBIA ARMA
+RUS|ДР. ОРУЖИЕ
+CAT|CANV. ARMA
+
+=|KeyboardAndMouseConfigTitleName|88
+ENG|Keyboard+M
+FRN|Clavier+s.
+SPA|Teclat i Ratolí
+JAP|キーボード+マウス
+GER|Tastatur+M
+ITA|Tastiera + M
+RUS|Клавиатура+М
+CAT|Teclat i Ratolí
+
+=|notapplicable|89
+ENG|N/A
+FRN|N/A
+SPA|N/A
+JAP|ナシ
+GER| - 
+ITA|N/D
+RUS|Н/Д
+CAT|N/A
+
+=|AutoSaveFeature|90
+ENG|This game has an autosave feature.
+FRN|Ce jeu comporte une sauvegarde automatique.
+SPA|Aquest joc té una funció de desat automàtic.
+JAP|コノ ゲームハ オートセーブ デス
+GER|Dieses Spiel speichert Spielstände automatisch.
+ITA|Questo gioco è dotato di una funzione di salvataggio automatico.
+RUS|В игре есть автосохранение.
+CAT|Aquest joc té una funció de desat automàtic.
+
+=|AutoSaveFeature2|91
+ENG|When you see this icon, the game is saving.
+FRN|Si vous voyez cette icône, une sauvegarde est en cours.
+SPA|Quan vegis aquesta icona, el joc estarà desant.
+JAP|コノ アイコンガ ヒョウジ サレルト セーブチュウ デス
+GER|Wenn du dieses Symbol siehst, speichert das Spiel gerade.
+ITA|Quando vedi questa icona, il gioco sta salvando.
+RUS|Игра сохраняется при появлении этого значка.
+CAT|Quan vegis aquesta icona, el joc estarà desant.
+
+=|DoNotTurnOff|92
+ENG|Please do not turn the system off during this time.
+FRN|Veuillez ne pas éteindre votre système pendant une sauvegarde.
+SPA|Si us plau no apaguis el sistema mentre es mostri.
+JAP|セーブチュウハ デンゲンヲ キラナイデ クダサイ
+GER|Bitte schalte das System dann nicht aus.
+ITA|Non spegnere il sistema durante l'operazione.
+RUS|В это время не выключайте систему.
+CAT|Si us plau no apaguis el sistema mentre es mostri.
+
+=|DoNotTurnOffConsole|93
+ENG|Please do not turn the console off during this time.
+FRN|Veuillez ne pas éteindre la console pendant une sauvegarde.
+SPA|Si us plau no apaguis la consola mentre es mostri.
+JAP|セーブチュウハ デンゲンヲ キラナイデ クダサイ
+GER|Bitte schalte die Konsole dann nicht aus.
+ITA|Non spegnere la console durante l'operazione.
+RUS|В это время не выключайте консоль.
+CAT|Si us plau no apaguis la consola mentre es mostri.
+
+=|CopyWrite|94
+ENG|2016 Heart Machine LLC. All Rights Reserved.
+FRN|2016 Heart Machine LLC. Tous droits réservés.
+SPA|2016 Heart Machine LLC. Tots els drets reservats.
+JAP|2016 Heart Machine LLC. All Rights Reserved.
+GER|2016 Heart Machine LLC. Alle Rechte vorbehalten.
+ITA|2016 Heart Machine LLC. Tutti i diritti riservati.
+RUS|Heart Machine LLC, 2016 г. Все права защищены.
+CAT|2016 Heart Machine LLC. Tots els drets reservats.
+
+=|PlaysBestWithController|95
+ENG|This game plays best with a controller
+FRN|Ce jeu est optimisé pour une manette
+SPA|Es recomana l'ús d'un comandament per jugar.
+JAP|コントローラ デノ プレイヲ オススメ シマス
+GER|Dieses Spiel macht mit einem Controller am meisten Spaß
+ITA|Si consiglia l'uso di un controller
+RUS|Лучше всего играть с контроллером
+CAT|Es recomana l'ús d'un comandament per jugar.
+
+=|ControllersItPlaysBestWith|96
+ENG|XBOX 360/ONE/PS4
+FRN|XBOX 360/ONE/PS4
+SPA|XBOX 360/ONE/PS4
+JAP|XBOX 360/ONE/PS4
+GER|XBOX 360/ONE/PS4
+ITA|XBOX 360/ONE/PS4
+RUS|XBOX 360/ONE/PS4
+CAT|XBOX 360/ONE/PS4
+
+=|Select|97
+ENG|Select
+FRN|Sélectionner
+SPA|Escollir
+JAP|センタク
+GER|Auswahl
+ITA|Seleziona
+RUS|Выбрать
+CAT|Seleccionar
+ 
+=|Back|98
+ENG|Back
+FRN|Retour
+SPA|Tornar
+JAP|モドル
+GER|Zurück
+ITA|Indietro
+RUS|Назад
+CAT|Tornar
+ 
+=|Yes|99
+ENG|Yes
+FRN|Oui
+SPA|Sí
+JAP|ハイ
+GER|Ja
+ITA|Si
+RUS|Да
+CAT|Sí
+ 
+=|UnlockedAtEndGame|100
+ENG|(Unlocked At EndGame)
+FRN|(Débloqué à la fin du jeu)
+SPA|(Desblocat al final del joc)
+JAP|（クリアゴニ アンロックサレマス）
+GER|(Am Spielende freigeschaltet)
+ITA|(sbloccabile a gioco completato)
+RUS|(Открывается в конце игры)
+CAT|(Desblocat al final del joc)
+ 
+=|DoNotTurnOffPS4|101
+ENG|PLEASE DO NOT TURN THE PLAYSTATION®4 SYSTEM OFF DURING THIS TIME
+FRN|N’ÉTEIGNEZ PAS LE SYSTÈME PLAYSTATION®4 PENDANT CETTE OPÉRATION
+SPA|SI US PLAU NO APAGUI EL SISTEMA PLAYSTATION®4 MENTRE ES MOSTRI.
+JAP| PlayStation®4 ホンタイノ デンゲンヲ キラナイデクダサイ
+GER|BITTE SCHALTE DIE PlayStation®4-System IN DIESER ZEIT NICHT AB
+ITA|NON SPEGNERE IL SISTEMA PLAYSTATION®4 IN QUESTO MOMENTO
+RUS|В это время не выключайте система PlayStation®4
+CAT|SI US PLAU NO APAGUI EL SISTEMA PLAYSTATION®4 MENTRE ES MOSTRI.
+ 
+=|OVERSCAN|102
+ENG|Scale
+FRN|Échelle
+SPA|Escala
+JAP|ヒョウジ エリア
+GER|Maßstab
+ITA|Scala
+RUS|Размер
+CAT|Escala
+
+=|FRAMERATE|103
+ENG|FPS
+FRN|FPS
+SPA|FPS
+JAP|FPS
+GER|FPS
+ITA|FPS
+RUS|FPS
+CAT|FPS
+
+=|VSYNC|104
+ENG|VSYNC
+FRN|VSYNC
+SPA|VSYNC
+JAP|VSYNC
+GER|VSYNC
+ITA|VSYNC
+RUS|VSYNC
+CAT|VSYNC
+
+=|Alternative|105
+ENG|Alternative
+FRN|Alternative
+SPA|Alternativa
+JAP|Alternative
+GER|Alternative
+ITA|Alternative
+RUS|Alternative
+CAT|Alternativa
+
+=|NEWCOMERDESCRIPTIONTWOPS4|106
+ENG|Certain trophies are disabled.
+FRN|Certains trophées sont désactivés.
+SPA|Alguns trofeus estàn desactivats.
+JAP|イチブノ トロフィーガ シュトクデキマセン
+GER|Bestimmte Trophäen sind deaktiviert.
+ITA|Alcuni trofei sono disabilitati.
+RUS|Некоторые трофеи отключены.
+CAT|Alguns trofeus estàn desactivats.
+
+=|STANDARDDESCRIPTIONTWOPS4|107
+ENG|All trophies unlockable.
+FRN|Tous les trophées sont déverrouillables.
+SPA|Tots els trofeus es poden aconseguir.
+JAP|スベテノ トロフィーヲ シュトクデキマス
+GER|Alle Trophäen freischaltbar.
+ITA|Tutti i trofei sbloccabili.
+RUS|Все трофеи открываемые.
+CAT|Tots els trofeus es poden aconseguir.
+
+=|CONTROLMODETYPES|108
+ENG|Controls
+FRN|Commandes
+SPA|Controls
+JAP|ソウサホウホウ
+GER|Steuerung
+ITA|Comandi
+RUS|Управление
+CAT|Controls
+
+=|STANDARDCONTROLS|109
+ENG|Standard
+FRN|Standard
+SPA|Estàndard
+JAP|スタンダード
+GER|Standard
+ITA|Standard
+RUS|стандарт
+CAT|Estàndard
+
+=|COOPCONTROLS|110
+ENG|Co-op
+FRN|Coop
+SPA|Co-op
+JAP|Co-op
+GER|Coop
+ITA|Co-op
+RUS|Совм. игра
+CAT|Co-op
+
+=|PLAYERONECOOPCONTROLMODE|111
+ENG|Player One
+FRN|Joueur un
+SPA|Jugador Ú
+JAP|プレーヤー 1
+GER|Spieler eins
+ITA|Giocatore uno
+RUS|Игрок один
+CAT|Jugador Ú
+
+=|PLAYERTWOCOOPCONTROLMODE|112
+ENG|Player Two
+FRN|Joueur deux
+SPA|Jugador Dos
+JAP|プレーヤー 2
+GER|Spieler zwei
+ITA|Giocatore due
+RUS|Игрок два
+CAT|Jugador Dos

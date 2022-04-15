@@ -1,0 +1,14 @@
+Instruccions per a la instal·lació:
+Copiar la carpeta "Bundle" a la carpeta on es trobi el joc.
+Us demanarà si voleu substituir arxius. Substituïu-los.
+
+Sobre el joc:
+La font de lletra del joc no mostra correctament el punt volat.
+Per tant trobareu paraules com "intelligent".
+
+Si el català no és la llengua per defecte, 
+la podeu seleccionar al menú d'opcions, és l'anglès (english).
+Gaudiu!
+
+Traducció feta per: 
+-Joel Garcia Cascalló
